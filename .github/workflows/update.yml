@@ -26,6 +26,7 @@ jobs:
         run: |
           pip install --quiet pillow
           python fetch_images.py
+          python fetch_logos.py
           python generate_ics.py
 
       - name: 提交变更
