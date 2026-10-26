@@ -360,7 +360,15 @@ def build_ics(events, cal_name, description, color, now):
     L.append("END:VTIMEZONE")
 
     for e in events:
+        # 图片链接放最前面：iOS 日历 App 不渲染订阅日历的 ATTACH 图片，
+        # 但备注里的链接可点，Safari 里能直接看到 logo / 官方主视觉
+        pics = ""
+        if e.get("logo"):
+            pics += f"\n赛事 logo（点开看大图）：{e['logo']}"
+        if e.get("image"):
+            pics += f"\n官方主视觉（点开看大图）：{e['image']}"
         desc = (
+            f"{pics}\n"
             f"{e['extra']}\n"
             f"地点：{e['location']}\n"
             f"赛道当地时间：{local_str(e['start'], e['tz'], '%Y-%m-%d %H:%M')} ({e['tzname']})\n"
@@ -369,10 +377,6 @@ def build_ics(events, cal_name, description, color, now):
             f"官方页面：{e['url']}\n"
             f"数据来源：{'formula1.com 官方赛历' if e['series'] == 'F1' else 'MotoGP 官方赛事 API'}"
         )
-        if e.get("logo"):
-            desc += f"\n赛事 logo：{e['logo']}"
-        if e.get("image"):
-            desc += f"\n官方主视觉：{e['image']}"
         L.append("BEGIN:VEVENT")
         L.append(f"UID:{e['uid']}")
         L.append(f"DTSTAMP:{now.strftime('%Y%m%dT%H%M%SZ')}")
