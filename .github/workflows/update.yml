@@ -21,11 +21,18 @@ jobs:
       - name: 重新抓取官方赛历
         run: python generate_ics.py
 
+      - name: 刷新官方赛事图
+        continue-on-error: true
+        run: |
+          pip install --quiet pillow
+          python fetch_images.py
+          python generate_ics.py
+
       - name: 提交变更
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add f1.ics motogp.ics racing.ics
+          git add f1.ics motogp.ics racing.ics img
           if git diff --staged --quiet; then
             echo "赛历无变化"
           else
