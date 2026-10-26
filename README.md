@@ -27,14 +27,15 @@ iPhone / iPad / Mac 的「日历」App 直接订阅即可，官方时间有变�
 |---|---|
 | F1 场次时间 | [formula1.com/en/racing/2026](https://www.formula1.com/en/racing/2026) 各分站页面内的 schema.org `SportsEvent.subEvent`（UTC） |
 | MotoGP 场次时间 | MotoGP 官方赛事 API `api.pulselive.motogp.com/motogp/v1/events?seasonYear=2026`，取 MotoGP 组别（MGP）的场次 |
-| 赛事 logo 徽标 | 系列 wordmark（仓库内 `img/brand/`，F1 为 Simple Icons CC0 版、MotoGP 为官方 Dorna 静态资源）+ 该站**官方赛道轮廓图**（F1：分站页 payload 里的 `circuitImage`；MotoGP：赛事 API 里 `circuit.tracks[].assets.simple`），本地合成 |
+| 赛事 logo 徽标 | 系列官方 wordmark（仓库内 `img/brand/`，F1 为 Simple Icons CC0 版 2018 现行标、MotoGP 为官方 Dorna 2025 字标），压品牌底色合成方图（`img/badge/f1.jpg`、`img/badge/moto.jpg`）。官方没有发布每站 GP 专属字标，故按系列计 |
 | F1 赛事图 | 各分站页 JSON-LD 里的官方主视觉（`image.url`） |
 | MotoGP 赛事图 | 官方赛事 API 的 TOP 资产，无则用 BACKGROUND 官方图 |
 
 - 所有事件以 **UTC** 写入（`DTSTART;...Z`），日历 App 会按设备时区自动换算
 - 事件描述里同时给出**赛道当地时间**和**北京时间**
-- 标题前带**该站国旗 emoji**（如 `🇦🇺 F1 澳大利亚站 · 练习赛 1`）
-- 每个事件通过 `ATTACH;VALUE=URI` 挂上**该站赛事 logo 徽标**（官方 wordmark + 官方赛道轮廓，320×320 / 单张 6–12KB），再挂**官方主视觉图**（640px / 单张 10–80KB），均托管在本仓库 `img/`
+- 标题前带**该站国旗 emoji**（如 `🇦🇺 F1 澳大利亚站 · 练习赛 1`），标题里同时带 `F1` / `MotoGP` 系列文字标
+- 每个事件通过 `ATTACH;VALUE=URI` 挂上**赛事 logo 徽标**（系列官方 wordmark 方图 320×320 / 5–6KB），再挂**官方主视觉图**（640px / 单张 10–80KB），均托管在本仓库 `img/`
+- **图片显示位置**：iOS / macOS「日历」App 的事件标题是纯文本，**标题旁不会渲染图片**；`ATTACH` 图片出现在**点开事件后的详情页**顶部。想要标题旁就有 logo 缩略图，用 Fantastical 或 Google Calendar App 订阅同一份 `.ics`
 - 场次时间变化、临时调整会在每周一自动重新抓取更新
 
 ## 本地重新生成
@@ -42,7 +43,7 @@ iPhone / iPad / Mac 的「日历」App 直接订阅即可，官方时间有变�
 ```bash
 python generate_ics.py              # 只用 Python 标准库，生成 .ics
 pip install pillow && python fetch_images.py   # 刷新官方赛事图（需 Pillow）
-pip install pillow && python fetch_logos.py    # 刷新每站赛事 logo 徽标（需 Pillow）
+pip install pillow && python fetch_logos.py    # 刷新赛事 logo 徽标（需 Pillow）
 ```
 
 输出 `f1.ics` / `motogp.ics` / `racing.ics` 三个文件。

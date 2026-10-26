@@ -1,6 +1,6 @@
 # 品牌 logo 素材
 
-`fetch_logos.py` 合成每站「赛事 logo」徽标时用的系列 wordmark（白色单色版）。
+`fetch_logos.py` 合成「赛事 logo」徽标时用的系列 wordmark（白色单色版）。
 
 | 文件 | 说明 |
 | --- | --- |

@@ -101,18 +101,17 @@ MOTO_FLAG = {
 # 赛事图片托管地址（GitHub Pages）
 IMAGE_BASE = "https://butlerzou-bot.github.io/f1-motogp-ical"
 
+# 「赛事 logo」徽标：官方没有每站专属字标，用系列官方 wordmark 做方图
+# （img/badge/f1.jpg、img/badge/moto.jpg，由 fetch_logos.py 生成）
+BADGE_VERSION = 3   # 徽标图版本号，URL 上带 ?v=N 以便客户端刷新缓存
+BADGE = {
+    "F1": f"{IMAGE_BASE}/img/badge/f1.jpg?v={BADGE_VERSION}",
+    "MotoGP": f"{IMAGE_BASE}/img/badge/moto.jpg?v={BADGE_VERSION}",
+}
+
 
 def load_manifest():
     path = os.path.join(BASE, "img", "manifest.json")
-    if not os.path.exists(path):
-        return {"f1": {}, "moto": {}}
-    with open(path, encoding="utf-8") as fh:
-        return json.load(fh)
-
-
-def load_badge_manifest():
-    """每站「赛事 logo」徽标（官方 wordmark + 官方赛道轮廓）"""
-    path = os.path.join(BASE, "img", "badge", "manifest.json")
     if not os.path.exists(path):
         return {"f1": {}, "moto": {}}
     with open(path, encoding="utf-8") as fh:
@@ -207,7 +206,6 @@ def beijing_str(dt_utc):
 def load_f1():
     events = []
     manifest = load_manifest().get("f1", {})
-    badges = load_badge_manifest().get("f1", {})
     for slug, cn, circuit, tzname in F1_ROUNDS:
         url = f"https://www.formula1.com/en/racing/2026/{slug}"
         html = http_get(url, f"f1_{slug}.html")
@@ -242,7 +240,7 @@ def load_f1():
                 "tzname": tzname,
                 "series": "F1",
                 "url": url,
-                "logo": f"{IMAGE_BASE}/{badges[slug]}" if slug in badges else "",
+                "logo": BADGE["F1"],
                 "image": f"{IMAGE_BASE}/{manifest[slug]}" if slug in manifest else "",
                 "extra": f"场次类型：{key}",
             })
@@ -256,7 +254,6 @@ def load_motogp():
                    "motogp_events.json")
     data = json.loads(raw)
     manifest = load_manifest().get("moto", {})
-    badges = load_badge_manifest().get("moto", {})
     events = []
     for ev in data:
         if ev.get("kind") != "GP":
@@ -307,7 +304,7 @@ def load_motogp():
                 "tzname": ev.get("time_zone", "UTC"),
                 "series": "MotoGP",
                 "url": "https://www.motogp.com/en/calendar",
-                "logo": f"{IMAGE_BASE}/{badges[short]}" if short in badges else "",
+                "logo": BADGE["MotoGP"],
                 "image": f"{IMAGE_BASE}/{manifest[short]}" if short in manifest else "",
                 "extra": f"官方场次：{ename}",
             })

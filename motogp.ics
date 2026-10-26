@@ -22,7 +22,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:motogp-2026-tha-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260227T034500Z
 DTEND:20260227T043000Z
 SUMMARY:🇹🇭 MotoGP 泰国站 · 练习赛 FP1
@@ -31,13 +31,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：武里南国际
  5 (ASIA/BANGKOK)\n北京时间：02-27 11:45 (UTC+8)\n时长：45 分钟
  \n官方页面：https://www.motogp.com/en/calendar\n数据来源：Moto
  GP 官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/tha.jpg?v=2\n官方主视觉：https://butlerzo
- u-bot.github.io/f1-motogp-ical/img/moto/tha.jpg
+ togp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bo
+ t.github.io/f1-motogp-ical/img/moto/tha.jpg
 LOCATION:武里南国际赛道（Tambon Isan\, Thailand）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/tha.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/tha.jpg
 STATUS:CONFIRMED
@@ -45,7 +45,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-tha-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260227T080000Z
 DTEND:20260227T090000Z
 SUMMARY:🇹🇭 MotoGP 泰国站 · 练习赛 Practice
@@ -54,13 +54,13 @@ DESCRIPTION:官方场次：Practice\n地点：武里南国际赛道（Tam
  KOK)\n北京时间：02-27 16:00 (UTC+8)\n时长：60 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/tha.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/tha.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/tha.jpg
 LOCATION:武里南国际赛道（Tambon Isan\, Thailand）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/tha.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/tha.jpg
 STATUS:CONFIRMED
@@ -68,7 +68,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-tha-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260228T031000Z
 DTEND:20260228T034000Z
 SUMMARY:🇹🇭 MotoGP 泰国站 · 练习赛 FP2
@@ -77,13 +77,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：武里南国际
  0 (ASIA/BANGKOK)\n北京时间：02-28 11:10 (UTC+8)\n时长：30 分钟
  \n官方页面：https://www.motogp.com/en/calendar\n数据来源：Moto
  GP 官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/tha.jpg?v=2\n官方主视觉：https://butlerzo
- u-bot.github.io/f1-motogp-ical/img/moto/tha.jpg
+ togp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bo
+ t.github.io/f1-motogp-ical/img/moto/tha.jpg
 LOCATION:武里南国际赛道（Tambon Isan\, Thailand）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/tha.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/tha.jpg
 STATUS:CONFIRMED
@@ -91,7 +91,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-tha-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260228T035000Z
 DTEND:20260228T043000Z
 SUMMARY:🇹🇭 MotoGP 泰国站 · 排位赛 Qualifying
@@ -100,13 +100,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：武里南国际赛
  ASIA/BANGKOK)\n北京时间：02-28 11:50 (UTC+8)\n时长：40 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/tha.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/tha.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/tha.jpg
 LOCATION:武里南国际赛道（Tambon Isan\, Thailand）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/tha.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/tha.jpg
 STATUS:CONFIRMED
@@ -114,7 +114,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-tha-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260228T080000Z
 DTEND:20260228T083000Z
 SUMMARY:🇹🇭 MotoGP 泰国站 · 冲刺赛 Sprint
@@ -123,13 +123,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：武里南国际赛道
  A/BANGKOK)\n北京时间：02-28 16:00 (UTC+8)\n时长：30 分钟\n官
  方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 
  官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/badge/moto/tha.jpg?v=2\n官方主视觉：https://butlerzou-b
- ot.github.io/f1-motogp-ical/img/moto/tha.jpg
+ p-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.g
+ ithub.io/f1-motogp-ical/img/moto/tha.jpg
 LOCATION:武里南国际赛道（Tambon Isan\, Thailand）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/tha.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/tha.jpg
 STATUS:CONFIRMED
@@ -137,7 +137,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-tha-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260301T034000Z
 DTEND:20260301T035000Z
 SUMMARY:🇹🇭 MotoGP 泰国站 · 热身赛 Warm Up
@@ -146,13 +146,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：武里南国际赛道（Tamb
  OK)\n北京时间：03-01 11:40 (UTC+8)\n时长：10 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/tha.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/tha.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/tha.jpg
 LOCATION:武里南国际赛道（Tambon Isan\, Thailand）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/tha.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/tha.jpg
 STATUS:CONFIRMED
@@ -160,7 +160,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-tha-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260301T080000Z
 DTEND:20260301T100000Z
 SUMMARY:🇹🇭 MotoGP 泰国站 · 正赛 Race
@@ -169,13 +169,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：武里南国际赛道（T
  NGKOK)\n北京时间：03-01 16:00 (UTC+8)\n时长：120 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/tha.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/tha.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/tha.jpg
 LOCATION:武里南国际赛道（Tambon Isan\, Thailand）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/tha.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/tha.jpg
 STATUS:CONFIRMED
@@ -183,7 +183,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-bra-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260320T150500Z
 DTEND:20260320T160500Z
 SUMMARY:🇧🇷 MotoGP 巴西站 · 练习赛 FP1
@@ -192,13 +192,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：戈亚尼亚 ·
  /SAO_PAULO)\n北京时间：03-20 23:05 (UTC+8)\n时长：60 分钟\n官
  方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 
  官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/badge/moto/bra.jpg?v=2\n官方主视觉：https://butlerzou-b
- ot.github.io/f1-motogp-ical/img/moto/bra.jpg
+ p-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.g
+ ithub.io/f1-motogp-ical/img/moto/bra.jpg
 LOCATION:戈亚尼亚 · 塞纳赛道（Brazil）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/bra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/bra.jpg
 STATUS:CONFIRMED
@@ -206,7 +206,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-bra-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260320T190000Z
 DTEND:20260320T200000Z
 SUMMARY:🇧🇷 MotoGP 巴西站 · 练习赛 Practice
@@ -215,13 +215,13 @@ DESCRIPTION:官方场次：Practice\n地点：戈亚尼亚 · 塞纳赛
  O)\n北京时间：03-21 03:00 (UTC+8)\n时长：60 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/bra.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/bra.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/bra.jpg
 LOCATION:戈亚尼亚 · 塞纳赛道（Brazil）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/bra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/bra.jpg
 STATUS:CONFIRMED
@@ -229,7 +229,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-bra-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260321T131000Z
 DTEND:20260321T134000Z
 SUMMARY:🇧🇷 MotoGP 巴西站 · 练习赛 FP2
@@ -238,13 +238,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：戈亚尼亚 ·
  /SAO_PAULO)\n北京时间：03-21 21:10 (UTC+8)\n时长：30 分钟\n官
  方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 
  官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/badge/moto/bra.jpg?v=2\n官方主视觉：https://butlerzou-b
- ot.github.io/f1-motogp-ical/img/moto/bra.jpg
+ p-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.g
+ ithub.io/f1-motogp-ical/img/moto/bra.jpg
 LOCATION:戈亚尼亚 · 塞纳赛道（Brazil）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/bra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/bra.jpg
 STATUS:CONFIRMED
@@ -252,7 +252,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-bra-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260321T135000Z
 DTEND:20260321T143000Z
 SUMMARY:🇧🇷 MotoGP 巴西站 · 排位赛 Qualifying
@@ -261,13 +261,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：戈亚尼亚 ·
  /SAO_PAULO)\n北京时间：03-21 21:50 (UTC+8)\n时长：40 分钟\n官
  方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 
  官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/badge/moto/bra.jpg?v=2\n官方主视觉：https://butlerzou-b
- ot.github.io/f1-motogp-ical/img/moto/bra.jpg
+ p-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.g
+ ithub.io/f1-motogp-ical/img/moto/bra.jpg
 LOCATION:戈亚尼亚 · 塞纳赛道（Brazil）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/bra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/bra.jpg
 STATUS:CONFIRMED
@@ -275,7 +275,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-bra-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260321T192000Z
 DTEND:20260321T195000Z
 SUMMARY:🇧🇷 MotoGP 巴西站 · 冲刺赛 Sprint
@@ -284,13 +284,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：戈亚尼亚 · 塞纳
  AULO)\n北京时间：03-22 03:20 (UTC+8)\n时长：30 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/bra.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/bra.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/bra.jpg
 LOCATION:戈亚尼亚 · 塞纳赛道（Brazil）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/bra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/bra.jpg
 STATUS:CONFIRMED
@@ -298,7 +298,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-bra-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260322T134000Z
 DTEND:20260322T135000Z
 SUMMARY:🇧🇷 MotoGP 巴西站 · 热身赛 Warm Up
@@ -307,13 +307,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：戈亚尼亚 · 塞纳赛道
  n北京时间：03-22 21:40 (UTC+8)\n时长：10 分钟\n官方页面：
  https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 A
  PI\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/bad
- ge/moto/bra.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f
- 1-motogp-ical/img/moto/bra.jpg
+ ge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/moto/bra.jpg
 LOCATION:戈亚尼亚 · 塞纳赛道（Brazil）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/bra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/bra.jpg
 STATUS:CONFIRMED
@@ -321,7 +321,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-bra-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260322T180000Z
 DTEND:20260322T200000Z
 SUMMARY:🇧🇷 MotoGP 巴西站 · 正赛 Race
@@ -330,13 +330,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：戈亚尼亚 · 塞纳赛
  O)\n北京时间：03-23 02:00 (UTC+8)\n时长：120 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/bra.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/bra.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/bra.jpg
 LOCATION:戈亚尼亚 · 塞纳赛道（Brazil）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/bra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/bra.jpg
 STATUS:CONFIRMED
@@ -344,7 +344,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-usa-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260327T154500Z
 DTEND:20260327T163000Z
 SUMMARY:🇺🇸 MotoGP 美国站 · 练习赛 FP1
@@ -353,13 +353,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：奥斯汀 · 美
  RICA/CHICAGO)\n北京时间：03-27 23:45 (UTC+8)\n时长：45 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/usa.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/usa.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/usa.jpg
 LOCATION:奥斯汀 · 美洲赛道（United States）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/usa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/usa.jpg
 STATUS:CONFIRMED
@@ -367,7 +367,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-usa-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260327T200000Z
 DTEND:20260327T210000Z
 SUMMARY:🇺🇸 MotoGP 美国站 · 练习赛 Practice
@@ -376,13 +376,13 @@ DESCRIPTION:官方场次：Practice\n地点：奥斯汀 · 美洲赛道
  AGO)\n北京时间：03-28 04:00 (UTC+8)\n时长：60 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/usa.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/usa.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/usa.jpg
 LOCATION:奥斯汀 · 美洲赛道（United States）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/usa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/usa.jpg
 STATUS:CONFIRMED
@@ -390,7 +390,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-usa-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260328T151000Z
 DTEND:20260328T154000Z
 SUMMARY:🇺🇸 MotoGP 美国站 · 练习赛 FP2
@@ -399,13 +399,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：奥斯汀 · 美
  RICA/CHICAGO)\n北京时间：03-28 23:10 (UTC+8)\n时长：30 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/usa.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/usa.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/usa.jpg
 LOCATION:奥斯汀 · 美洲赛道（United States）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/usa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/usa.jpg
 STATUS:CONFIRMED
@@ -413,7 +413,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-usa-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260328T155000Z
 DTEND:20260328T163000Z
 SUMMARY:🇺🇸 MotoGP 美国站 · 排位赛 Qualifying
@@ -422,13 +422,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：奥斯汀 · 美
  RICA/CHICAGO)\n北京时间：03-28 23:50 (UTC+8)\n时长：40 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/usa.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/usa.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/usa.jpg
 LOCATION:奥斯汀 · 美洲赛道（United States）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/usa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/usa.jpg
 STATUS:CONFIRMED
@@ -436,7 +436,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-usa-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260328T201000Z
 DTEND:20260328T204000Z
 SUMMARY:🇺🇸 MotoGP 美国站 · 冲刺赛 Sprint
@@ -445,13 +445,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：奥斯汀 · 美洲赛
  HICAGO)\n北京时间：03-29 04:10 (UTC+8)\n时长：30 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/usa.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/usa.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/usa.jpg
 LOCATION:奥斯汀 · 美洲赛道（United States）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/usa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/usa.jpg
 STATUS:CONFIRMED
@@ -459,7 +459,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-usa-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260329T154000Z
 DTEND:20260329T155000Z
 SUMMARY:🇺🇸 MotoGP 美国站 · 热身赛 Warm Up
@@ -468,13 +468,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：奥斯汀 · 美洲赛道（
  )\n北京时间：03-29 23:40 (UTC+8)\n时长：10 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/usa.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/usa.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/usa.jpg
 LOCATION:奥斯汀 · 美洲赛道（United States）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/usa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/usa.jpg
 STATUS:CONFIRMED
@@ -482,7 +482,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-usa-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260329T200000Z
 DTEND:20260329T220000Z
 SUMMARY:🇺🇸 MotoGP 美国站 · 正赛 Race
@@ -491,13 +491,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：奥斯汀 · 美洲赛道
  AGO)\n北京时间：03-30 04:00 (UTC+8)\n时长：120 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/usa.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/usa.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/usa.jpg
 LOCATION:奥斯汀 · 美洲赛道（United States）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/usa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/usa.jpg
 STATUS:CONFIRMED
@@ -505,7 +505,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-spa-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260424T084500Z
 DTEND:20260424T093000Z
 SUMMARY:🇪🇸 MotoGP 西班牙站 · 练习赛 FP1
@@ -514,13 +514,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：赫雷斯赛道
  5 (EUROPE/MADRID)\n北京时间：04-24 16:45 (UTC+8)\n时长：45 分
  钟\n官方页面：https://www.motogp.com/en/calendar\n数据来源：M
  otoGP 官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/badge/moto/spa.jpg?v=2\n官方主视觉：https://butle
- rzou-bot.github.io/f1-motogp-ical/img/moto/spa.jpg
+ -motogp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou
+ -bot.github.io/f1-motogp-ical/img/moto/spa.jpg
 LOCATION:赫雷斯赛道（Jerez de la Frontera\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/spa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/spa.jpg
 STATUS:CONFIRMED
@@ -528,7 +528,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-spa-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260424T130000Z
 DTEND:20260424T140000Z
 SUMMARY:🇪🇸 MotoGP 西班牙站 · 练习赛 Practice
@@ -537,13 +537,13 @@ DESCRIPTION:官方场次：Practice\n地点：赫雷斯赛道（Jerez de
  DRID)\n北京时间：04-24 21:00 (UTC+8)\n时长：60 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/spa.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/spa.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/spa.jpg
 LOCATION:赫雷斯赛道（Jerez de la Frontera\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/spa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/spa.jpg
 STATUS:CONFIRMED
@@ -551,7 +551,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-spa-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260425T081000Z
 DTEND:20260425T084000Z
 SUMMARY:🇪🇸 MotoGP 西班牙站 · 练习赛 FP2
@@ -560,13 +560,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：赫雷斯赛道
  0 (EUROPE/MADRID)\n北京时间：04-25 16:10 (UTC+8)\n时长：30 分
  钟\n官方页面：https://www.motogp.com/en/calendar\n数据来源：M
  otoGP 官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/badge/moto/spa.jpg?v=2\n官方主视觉：https://butle
- rzou-bot.github.io/f1-motogp-ical/img/moto/spa.jpg
+ -motogp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou
+ -bot.github.io/f1-motogp-ical/img/moto/spa.jpg
 LOCATION:赫雷斯赛道（Jerez de la Frontera\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/spa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/spa.jpg
 STATUS:CONFIRMED
@@ -574,7 +574,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-spa-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260425T085000Z
 DTEND:20260425T093000Z
 SUMMARY:🇪🇸 MotoGP 西班牙站 · 排位赛 Qualifying
@@ -583,13 +583,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：赫雷斯赛道（
  EUROPE/MADRID)\n北京时间：04-25 16:50 (UTC+8)\n时长：40 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/spa.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/spa.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/spa.jpg
 LOCATION:赫雷斯赛道（Jerez de la Frontera\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/spa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/spa.jpg
 STATUS:CONFIRMED
@@ -597,7 +597,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-spa-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260425T130000Z
 DTEND:20260425T133000Z
 SUMMARY:🇪🇸 MotoGP 西班牙站 · 冲刺赛 Sprint
@@ -606,13 +606,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：赫雷斯赛道（Jere
  PE/MADRID)\n北京时间：04-25 21:00 (UTC+8)\n时长：30 分钟\n官
  方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 
  官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/badge/moto/spa.jpg?v=2\n官方主视觉：https://butlerzou-b
- ot.github.io/f1-motogp-ical/img/moto/spa.jpg
+ p-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.g
+ ithub.io/f1-motogp-ical/img/moto/spa.jpg
 LOCATION:赫雷斯赛道（Jerez de la Frontera\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/spa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/spa.jpg
 STATUS:CONFIRMED
@@ -620,7 +620,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-spa-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260426T074000Z
 DTEND:20260426T075000Z
 SUMMARY:🇪🇸 MotoGP 西班牙站 · 热身赛 Warm Up
@@ -629,13 +629,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：赫雷斯赛道（Jerez de l
  RID)\n北京时间：04-26 15:40 (UTC+8)\n时长：10 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/spa.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/spa.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/spa.jpg
 LOCATION:赫雷斯赛道（Jerez de la Frontera\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/spa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/spa.jpg
 STATUS:CONFIRMED
@@ -643,7 +643,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-spa-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260426T120000Z
 DTEND:20260426T140000Z
 SUMMARY:🇪🇸 MotoGP 西班牙站 · 正赛 Race
@@ -652,13 +652,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：赫雷斯赛道（Jerez d
  MADRID)\n北京时间：04-26 20:00 (UTC+8)\n时长：120 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/spa.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/spa.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/spa.jpg
 LOCATION:赫雷斯赛道（Jerez de la Frontera\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/spa.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/spa.jpg
 STATUS:CONFIRMED
@@ -666,7 +666,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-fra-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260508T084500Z
 DTEND:20260508T093000Z
 SUMMARY:🇫🇷 MotoGP 法国站 · 练习赛 FP1
@@ -675,13 +675,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：勒芒 · 布萨
  EUROPE/PARIS)\n北京时间：05-08 16:45 (UTC+8)\n时长：45 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/fra.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/fra.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/fra.jpg
 LOCATION:勒芒 · 布萨奇赛道（Le Mans\, France）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/fra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/fra.jpg
 STATUS:CONFIRMED
@@ -689,7 +689,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-fra-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260508T130000Z
 DTEND:20260508T140000Z
 SUMMARY:🇫🇷 MotoGP 法国站 · 练习赛 Practice
@@ -698,13 +698,13 @@ DESCRIPTION:官方场次：Practice\n地点：勒芒 · 布萨奇赛道
  RIS)\n北京时间：05-08 21:00 (UTC+8)\n时长：60 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/fra.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/fra.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/fra.jpg
 LOCATION:勒芒 · 布萨奇赛道（Le Mans\, France）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/fra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/fra.jpg
 STATUS:CONFIRMED
@@ -712,7 +712,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-fra-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260509T081000Z
 DTEND:20260509T084000Z
 SUMMARY:🇫🇷 MotoGP 法国站 · 练习赛 FP2
@@ -721,13 +721,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：勒芒 · 布萨
  EUROPE/PARIS)\n北京时间：05-09 16:10 (UTC+8)\n时长：30 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/fra.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/fra.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/fra.jpg
 LOCATION:勒芒 · 布萨奇赛道（Le Mans\, France）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/fra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/fra.jpg
 STATUS:CONFIRMED
@@ -735,7 +735,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-fra-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260509T085000Z
 DTEND:20260509T093000Z
 SUMMARY:🇫🇷 MotoGP 法国站 · 排位赛 Qualifying
@@ -744,13 +744,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：勒芒 · 布萨
  EUROPE/PARIS)\n北京时间：05-09 16:50 (UTC+8)\n时长：40 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/fra.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/fra.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/fra.jpg
 LOCATION:勒芒 · 布萨奇赛道（Le Mans\, France）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/fra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/fra.jpg
 STATUS:CONFIRMED
@@ -758,7 +758,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-fra-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260509T130000Z
 DTEND:20260509T133000Z
 SUMMARY:🇫🇷 MotoGP 法国站 · 冲刺赛 Sprint
@@ -767,13 +767,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：勒芒 · 布萨奇赛
  /PARIS)\n北京时间：05-09 21:00 (UTC+8)\n时长：30 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/fra.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/fra.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/fra.jpg
 LOCATION:勒芒 · 布萨奇赛道（Le Mans\, France）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/fra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/fra.jpg
 STATUS:CONFIRMED
@@ -781,7 +781,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-fra-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260510T074000Z
 DTEND:20260510T075000Z
 SUMMARY:🇫🇷 MotoGP 法国站 · 热身赛 Warm Up
@@ -790,13 +790,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：勒芒 · 布萨奇赛道（
  )\n北京时间：05-10 15:40 (UTC+8)\n时长：10 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/fra.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/fra.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/fra.jpg
 LOCATION:勒芒 · 布萨奇赛道（Le Mans\, France）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/fra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/fra.jpg
 STATUS:CONFIRMED
@@ -804,7 +804,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-fra-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260510T120000Z
 DTEND:20260510T131500Z
 SUMMARY:🇫🇷 MotoGP 法国站 · 正赛 Race
@@ -813,13 +813,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：勒芒 · 布萨奇赛道
  RIS)\n北京时间：05-10 20:00 (UTC+8)\n时长：75 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/fra.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/fra.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/fra.jpg
 LOCATION:勒芒 · 布萨奇赛道（Le Mans\, France）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/fra.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/fra.jpg
 STATUS:CONFIRMED
@@ -827,7 +827,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cat-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260515T084500Z
 DTEND:20260515T093000Z
 SUMMARY:🇪🇸 MotoGP 加泰罗尼亚站 · 练习赛 FP1
@@ -836,13 +836,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：巴塞罗那-加
  ROPE/MADRID)\n北京时间：05-15 16:45 (UTC+8)\n时长：45 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/cat.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/cat.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/cat.jpg
 LOCATION:巴塞罗那-加泰罗尼亚赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cat.jpg
 STATUS:CONFIRMED
@@ -850,7 +850,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cat-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260515T130000Z
 DTEND:20260515T140000Z
 SUMMARY:🇪🇸 MotoGP 加泰罗尼亚站 · 练习赛 Practice
@@ -859,13 +859,13 @@ DESCRIPTION:官方场次：Practice\n地点：巴塞罗那-加泰罗尼
  ID)\n北京时间：05-15 21:00 (UTC+8)\n时长：60 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/cat.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/cat.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/cat.jpg
 LOCATION:巴塞罗那-加泰罗尼亚赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cat.jpg
 STATUS:CONFIRMED
@@ -873,7 +873,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cat-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260516T081000Z
 DTEND:20260516T084000Z
 SUMMARY:🇪🇸 MotoGP 加泰罗尼亚站 · 练习赛 FP2
@@ -882,13 +882,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：巴塞罗那-加
  ROPE/MADRID)\n北京时间：05-16 16:10 (UTC+8)\n时长：30 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/cat.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/cat.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/cat.jpg
 LOCATION:巴塞罗那-加泰罗尼亚赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cat.jpg
 STATUS:CONFIRMED
@@ -896,7 +896,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cat-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260516T085000Z
 DTEND:20260516T093000Z
 SUMMARY:🇪🇸 MotoGP 加泰罗尼亚站 · 排位赛 Qualifying
@@ -905,13 +905,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：巴塞罗那-加
  ROPE/MADRID)\n北京时间：05-16 16:50 (UTC+8)\n时长：40 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/cat.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/cat.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/cat.jpg
 LOCATION:巴塞罗那-加泰罗尼亚赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cat.jpg
 STATUS:CONFIRMED
@@ -919,7 +919,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cat-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260516T130000Z
 DTEND:20260516T133000Z
 SUMMARY:🇪🇸 MotoGP 加泰罗尼亚站 · 冲刺赛 Sprint
@@ -928,13 +928,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：巴塞罗那-加泰罗
  ADRID)\n北京时间：05-16 21:00 (UTC+8)\n时长：30 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/cat.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/cat.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/cat.jpg
 LOCATION:巴塞罗那-加泰罗尼亚赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cat.jpg
 STATUS:CONFIRMED
@@ -942,7 +942,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cat-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260517T074000Z
 DTEND:20260517T075000Z
 SUMMARY:🇪🇸 MotoGP 加泰罗尼亚站 · 热身赛 Warm Up
@@ -951,13 +951,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：巴塞罗那-加泰罗尼亚
  \n北京时间：05-17 15:40 (UTC+8)\n时长：10 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/cat.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/cat.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/cat.jpg
 LOCATION:巴塞罗那-加泰罗尼亚赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cat.jpg
 STATUS:CONFIRMED
@@ -965,7 +965,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cat-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260517T120000Z
 DTEND:20260517T140000Z
 SUMMARY:🇪🇸 MotoGP 加泰罗尼亚站 · 正赛 Race
@@ -974,13 +974,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：巴塞罗那-加泰罗尼
  ID)\n北京时间：05-17 20:00 (UTC+8)\n时长：120 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/cat.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/cat.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/cat.jpg
 LOCATION:巴塞罗那-加泰罗尼亚赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cat.jpg
 STATUS:CONFIRMED
@@ -988,7 +988,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ita-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260529T084500Z
 DTEND:20260529T093000Z
 SUMMARY:🇮🇹 MotoGP 意大利站 · 练习赛 FP1
@@ -997,13 +997,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：穆加洛赛道
  45 (EUROPE/ROME)\n北京时间：05-29 16:45 (UTC+8)\n时长：45 分钟
  \n官方页面：https://www.motogp.com/en/calendar\n数据来源：Moto
  GP 官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ita.jpg?v=2\n官方主视觉：https://butlerzo
- u-bot.github.io/f1-motogp-ical/img/moto/ita.jpg
+ togp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bo
+ t.github.io/f1-motogp-ical/img/moto/ita.jpg
 LOCATION:穆加洛赛道（Scarperia e San Piero\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ita.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ita.jpg
 STATUS:CONFIRMED
@@ -1011,7 +1011,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ita-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260529T130000Z
 DTEND:20260529T140900Z
 SUMMARY:🇮🇹 MotoGP 意大利站 · 练习赛 Practice
@@ -1020,13 +1020,13 @@ DESCRIPTION:官方场次：Practice\n地点：穆加洛赛道（Scarperia
  OME)\n北京时间：05-29 21:00 (UTC+8)\n时长：69 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/ita.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/ita.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/ita.jpg
 LOCATION:穆加洛赛道（Scarperia e San Piero\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ita.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ita.jpg
 STATUS:CONFIRMED
@@ -1034,7 +1034,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ita-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260530T081000Z
 DTEND:20260530T084000Z
 SUMMARY:🇮🇹 MotoGP 意大利站 · 练习赛 FP2
@@ -1043,13 +1043,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：穆加洛赛道
  10 (EUROPE/ROME)\n北京时间：05-30 16:10 (UTC+8)\n时长：30 分钟
  \n官方页面：https://www.motogp.com/en/calendar\n数据来源：Moto
  GP 官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ita.jpg?v=2\n官方主视觉：https://butlerzo
- u-bot.github.io/f1-motogp-ical/img/moto/ita.jpg
+ togp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bo
+ t.github.io/f1-motogp-ical/img/moto/ita.jpg
 LOCATION:穆加洛赛道（Scarperia e San Piero\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ita.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ita.jpg
 STATUS:CONFIRMED
@@ -1057,7 +1057,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ita-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260530T085000Z
 DTEND:20260530T093000Z
 SUMMARY:🇮🇹 MotoGP 意大利站 · 排位赛 Qualifying
@@ -1066,13 +1066,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：穆加洛赛道（
  (EUROPE/ROME)\n北京时间：05-30 16:50 (UTC+8)\n时长：40 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/ita.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/ita.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/ita.jpg
 LOCATION:穆加洛赛道（Scarperia e San Piero\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ita.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ita.jpg
 STATUS:CONFIRMED
@@ -1080,7 +1080,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ita-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260530T130000Z
 DTEND:20260530T133000Z
 SUMMARY:🇮🇹 MotoGP 意大利站 · 冲刺赛 Sprint
@@ -1089,13 +1089,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：穆加洛赛道（Scar
  OPE/ROME)\n北京时间：05-30 21:00 (UTC+8)\n时长：30 分钟\n官
  方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 
  官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/badge/moto/ita.jpg?v=2\n官方主视觉：https://butlerzou-b
- ot.github.io/f1-motogp-ical/img/moto/ita.jpg
+ p-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.g
+ ithub.io/f1-motogp-ical/img/moto/ita.jpg
 LOCATION:穆加洛赛道（Scarperia e San Piero\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ita.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ita.jpg
 STATUS:CONFIRMED
@@ -1103,7 +1103,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ita-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260531T074000Z
 DTEND:20260531T075000Z
 SUMMARY:🇮🇹 MotoGP 意大利站 · 热身赛 Warm Up
@@ -1112,13 +1112,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：穆加洛赛道（Scarperia
  ME)\n北京时间：05-31 15:40 (UTC+8)\n时长：10 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/ita.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/ita.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/ita.jpg
 LOCATION:穆加洛赛道（Scarperia e San Piero\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ita.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ita.jpg
 STATUS:CONFIRMED
@@ -1126,7 +1126,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ita-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260531T120000Z
 DTEND:20260531T140000Z
 SUMMARY:🇮🇹 MotoGP 意大利站 · 正赛 Race
@@ -1135,13 +1135,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：穆加洛赛道（Scarper
  /ROME)\n北京时间：05-31 20:00 (UTC+8)\n时长：120 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/ita.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/ita.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/ita.jpg
 LOCATION:穆加洛赛道（Scarperia e San Piero\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ita.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ita.jpg
 STATUS:CONFIRMED
@@ -1149,7 +1149,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-hun-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260605T084500Z
 DTEND:20260605T093000Z
 SUMMARY:🇭🇺 MotoGP 匈牙利站 · 练习赛 FP1
@@ -1158,13 +1158,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：巴拉顿赛道
  UDAPEST)\n北京时间：06-05 16:45 (UTC+8)\n时长：45 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/hun.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/hun.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/hun.jpg
 LOCATION:巴拉顿赛道（Balaton\, Hungary）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/hun.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/hun.jpg
 STATUS:CONFIRMED
@@ -1172,7 +1172,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-hun-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260605T130000Z
 DTEND:20260605T140000Z
 SUMMARY:🇭🇺 MotoGP 匈牙利站 · 练习赛 Practice
@@ -1181,13 +1181,13 @@ DESCRIPTION:官方场次：Practice\n地点：巴拉顿赛道（Balaton\,
  北京时间：06-05 21:00 (UTC+8)\n时长：60 分钟\n官方页面：h
  ttps://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 AP
  I\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badg
- e/moto/hun.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/moto/hun.jpg
+ e/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mot
+ ogp-ical/img/moto/hun.jpg
 LOCATION:巴拉顿赛道（Balaton\, Hungary）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/hun.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/hun.jpg
 STATUS:CONFIRMED
@@ -1195,7 +1195,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-hun-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260606T081000Z
 DTEND:20260606T084000Z
 SUMMARY:🇭🇺 MotoGP 匈牙利站 · 练习赛 FP2
@@ -1204,13 +1204,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：巴拉顿赛道
  UDAPEST)\n北京时间：06-06 16:10 (UTC+8)\n时长：30 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/hun.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/hun.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/hun.jpg
 LOCATION:巴拉顿赛道（Balaton\, Hungary）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/hun.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/hun.jpg
 STATUS:CONFIRMED
@@ -1218,7 +1218,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-hun-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260606T085000Z
 DTEND:20260606T093000Z
 SUMMARY:🇭🇺 MotoGP 匈牙利站 · 排位赛 Qualifying
@@ -1227,13 +1227,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：巴拉顿赛道（
  PEST)\n北京时间：06-06 16:50 (UTC+8)\n时长：40 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/hun.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/hun.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/hun.jpg
 LOCATION:巴拉顿赛道（Balaton\, Hungary）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/hun.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/hun.jpg
 STATUS:CONFIRMED
@@ -1241,7 +1241,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-hun-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260606T130000Z
 DTEND:20260606T133000Z
 SUMMARY:🇭🇺 MotoGP 匈牙利站 · 冲刺赛 Sprint
@@ -1250,13 +1250,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：巴拉顿赛道（Bala
  )\n北京时间：06-06 21:00 (UTC+8)\n时长：30 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/hun.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/hun.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/hun.jpg
 LOCATION:巴拉顿赛道（Balaton\, Hungary）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/hun.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/hun.jpg
 STATUS:CONFIRMED
@@ -1264,7 +1264,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-hun-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260607T074000Z
 DTEND:20260607T075000Z
 SUMMARY:🇭🇺 MotoGP 匈牙利站 · 热身赛 Warm Up
@@ -1273,13 +1273,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：巴拉顿赛道（Balaton\,
  京时间：06-07 15:40 (UTC+8)\n时长：10 分钟\n官方页面：http
  s://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/hun.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/hun.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/hun.jpg
 LOCATION:巴拉顿赛道（Balaton\, Hungary）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/hun.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/hun.jpg
 STATUS:CONFIRMED
@@ -1287,7 +1287,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-hun-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260607T120000Z
 DTEND:20260607T140000Z
 SUMMARY:🇭🇺 MotoGP 匈牙利站 · 正赛 Race
@@ -1296,13 +1296,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：巴拉顿赛道（Balaton
  北京时间：06-07 20:00 (UTC+8)\n时长：120 分钟\n官方页面：
  https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 A
  PI\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/bad
- ge/moto/hun.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f
- 1-motogp-ical/img/moto/hun.jpg
+ ge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/moto/hun.jpg
 LOCATION:巴拉顿赛道（Balaton\, Hungary）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/hun.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/hun.jpg
 STATUS:CONFIRMED
@@ -1310,7 +1310,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cze-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260619T084500Z
 DTEND:20260619T093000Z
 SUMMARY:🇨🇿 MotoGP 捷克站 · 练习赛 FP1
@@ -1319,13 +1319,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：布尔诺赛道
  北京时间：06-19 16:45 (UTC+8)\n时长：45 分钟\n官方页面：h
  ttps://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 AP
  I\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badg
- e/moto/cze.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/moto/cze.jpg
+ e/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mot
+ ogp-ical/img/moto/cze.jpg
 LOCATION:布尔诺赛道（Czechia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cze.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cze.jpg
 STATUS:CONFIRMED
@@ -1333,7 +1333,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cze-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260619T130000Z
 DTEND:20260619T140000Z
 SUMMARY:🇨🇿 MotoGP 捷克站 · 练习赛 Practice
@@ -1341,14 +1341,14 @@ DESCRIPTION:官方场次：Practice\n地点：布尔诺赛道（Czechia
  ）\n赛道当地时间：2026-06-19 15:00 (EUROPE/PRAGUE)\n北京时间
  ：06-19 21:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.m
  otogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛事 lo
- go：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto/cze.j
- pg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/moto/cze.jpg
+ go：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto.jpg?v
+ =3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical/img
+ /moto/cze.jpg
 LOCATION:布尔诺赛道（Czechia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cze.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cze.jpg
 STATUS:CONFIRMED
@@ -1356,7 +1356,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cze-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260620T081000Z
 DTEND:20260620T084000Z
 SUMMARY:🇨🇿 MotoGP 捷克站 · 练习赛 FP2
@@ -1365,13 +1365,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：布尔诺赛道
  北京时间：06-20 16:10 (UTC+8)\n时长：30 分钟\n官方页面：h
  ttps://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 AP
  I\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badg
- e/moto/cze.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/moto/cze.jpg
+ e/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mot
+ ogp-ical/img/moto/cze.jpg
 LOCATION:布尔诺赛道（Czechia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cze.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cze.jpg
 STATUS:CONFIRMED
@@ -1379,7 +1379,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cze-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260620T085000Z
 DTEND:20260620T093000Z
 SUMMARY:🇨🇿 MotoGP 捷克站 · 排位赛 Qualifying
@@ -1388,13 +1388,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：布尔诺赛道（
  京时间：06-20 16:50 (UTC+8)\n时长：40 分钟\n官方页面：http
  s://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/cze.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/cze.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/cze.jpg
 LOCATION:布尔诺赛道（Czechia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cze.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cze.jpg
 STATUS:CONFIRMED
@@ -1402,7 +1402,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cze-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260620T130000Z
 DTEND:20260620T133000Z
 SUMMARY:🇨🇿 MotoGP 捷克站 · 冲刺赛 Sprint
@@ -1410,14 +1410,14 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：布尔诺赛道（Czec
  hia）\n赛道当地时间：2026-06-20 15:00 (EUROPE/PRAGUE)\n北京时
  间：06-20 21:00 (UTC+8)\n时长：30 分钟\n官方页面：https://ww
  w.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛事
-  logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto/cz
- e.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/moto/cze.jpg
+  logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto.jp
+ g?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical/
+ img/moto/cze.jpg
 LOCATION:布尔诺赛道（Czechia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cze.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cze.jpg
 STATUS:CONFIRMED
@@ -1425,7 +1425,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cze-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260621T074000Z
 DTEND:20260621T075000Z
 SUMMARY:🇨🇿 MotoGP 捷克站 · 热身赛 Warm Up
@@ -1433,14 +1433,14 @@ DESCRIPTION:官方场次：Warm Up\n地点：布尔诺赛道（Czechia）
  \n赛道当地时间：2026-06-21 09:40 (EUROPE/PRAGUE)\n北京时间：
  06-21 15:40 (UTC+8)\n时长：10 分钟\n官方页面：https://www.moto
  gp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛事 logo
- ：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto/cze.jpg
- ?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical/i
- mg/moto/cze.jpg
+ ：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto.jpg?v=3
+ \n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical/img/m
+ oto/cze.jpg
 LOCATION:布尔诺赛道（Czechia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cze.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cze.jpg
 STATUS:CONFIRMED
@@ -1448,7 +1448,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-cze-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260621T120000Z
 DTEND:20260621T140000Z
 SUMMARY:🇨🇿 MotoGP 捷克站 · 正赛 Race
@@ -1456,14 +1456,14 @@ DESCRIPTION:官方场次：Grand Prix\n地点：布尔诺赛道（Czechia
  ）\n赛道当地时间：2026-06-21 14:00 (EUROPE/PRAGUE)\n北京时间
  ：06-21 20:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.
  motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛事 l
- ogo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto/cze.
- jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ica
- l/img/moto/cze.jpg
+ ogo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto.jpg?
+ v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical/im
+ g/moto/cze.jpg
 LOCATION:布尔诺赛道（Czechia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/cze.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/cze.jpg
 STATUS:CONFIRMED
@@ -1471,7 +1471,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ned-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260626T084500Z
 DTEND:20260626T093000Z
 SUMMARY:🇳🇱 MotoGP 荷兰站 · 练习赛 FP1
@@ -1480,13 +1480,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：阿森赛道（A
  TERDAM)\n北京时间：06-26 16:45 (UTC+8)\n时长：45 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/ned.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/ned.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/ned.jpg
 LOCATION:阿森赛道（Assen\, Netherlands）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ned.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ned.jpg
 STATUS:CONFIRMED
@@ -1494,7 +1494,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ned-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260626T130000Z
 DTEND:20260626T140500Z
 SUMMARY:🇳🇱 MotoGP 荷兰站 · 练习赛 Practice
@@ -1503,13 +1503,13 @@ DESCRIPTION:官方场次：Practice\n地点：阿森赛道（Assen\, Neth
  北京时间：06-26 21:00 (UTC+8)\n时长：65 分钟\n官方页面：h
  ttps://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 AP
  I\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badg
- e/moto/ned.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/moto/ned.jpg
+ e/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mot
+ ogp-ical/img/moto/ned.jpg
 LOCATION:阿森赛道（Assen\, Netherlands）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ned.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ned.jpg
 STATUS:CONFIRMED
@@ -1517,7 +1517,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ned-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260627T081000Z
 DTEND:20260627T084000Z
 SUMMARY:🇳🇱 MotoGP 荷兰站 · 练习赛 FP2
@@ -1526,13 +1526,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：阿森赛道（A
  TERDAM)\n北京时间：06-27 16:10 (UTC+8)\n时长：30 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/ned.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/ned.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/ned.jpg
 LOCATION:阿森赛道（Assen\, Netherlands）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ned.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ned.jpg
 STATUS:CONFIRMED
@@ -1540,7 +1540,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ned-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260627T085000Z
 DTEND:20260627T093000Z
 SUMMARY:🇳🇱 MotoGP 荷兰站 · 排位赛 Qualifying
@@ -1549,13 +1549,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：阿森赛道（Ass
  RDAM)\n北京时间：06-27 16:50 (UTC+8)\n时长：40 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/ned.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/ned.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/ned.jpg
 LOCATION:阿森赛道（Assen\, Netherlands）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ned.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ned.jpg
 STATUS:CONFIRMED
@@ -1563,7 +1563,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ned-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260627T130000Z
 DTEND:20260627T133000Z
 SUMMARY:🇳🇱 MotoGP 荷兰站 · 冲刺赛 Sprint
@@ -1572,13 +1572,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：阿森赛道（Assen\,
  )\n北京时间：06-27 21:00 (UTC+8)\n时长：30 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/ned.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/ned.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/ned.jpg
 LOCATION:阿森赛道（Assen\, Netherlands）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ned.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ned.jpg
 STATUS:CONFIRMED
@@ -1586,7 +1586,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ned-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260628T074000Z
 DTEND:20260628T075000Z
 SUMMARY:🇳🇱 MotoGP 荷兰站 · 热身赛 Warm Up
@@ -1595,13 +1595,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：阿森赛道（Assen\, Nethe
  京时间：06-28 15:40 (UTC+8)\n时长：10 分钟\n官方页面：http
  s://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/ned.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/ned.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/ned.jpg
 LOCATION:阿森赛道（Assen\, Netherlands）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ned.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ned.jpg
 STATUS:CONFIRMED
@@ -1609,7 +1609,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ned-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260628T120000Z
 DTEND:20260628T140000Z
 SUMMARY:🇳🇱 MotoGP 荷兰站 · 正赛 Race
@@ -1618,13 +1618,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：阿森赛道（Assen\, Ne
  北京时间：06-28 20:00 (UTC+8)\n时长：120 分钟\n官方页面：
  https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 A
  PI\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/bad
- ge/moto/ned.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f
- 1-motogp-ical/img/moto/ned.jpg
+ ge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/moto/ned.jpg
 LOCATION:阿森赛道（Assen\, Netherlands）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ned.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ned.jpg
 STATUS:CONFIRMED
@@ -1632,7 +1632,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ger-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260710T084500Z
 DTEND:20260710T093000Z
 SUMMARY:🇩🇪 MotoGP 德国站 · 练习赛 FP1
@@ -1641,13 +1641,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：萨克森环赛
  EUROPE/BERLIN)\n北京时间：07-10 16:45 (UTC+8)\n时长：45 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/ger.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/ger.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/ger.jpg
 LOCATION:萨克森环赛道（Oberlungwitz\, Germany）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ger.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ger.jpg
 STATUS:CONFIRMED
@@ -1655,7 +1655,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ger-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260710T130000Z
 DTEND:20260710T140000Z
 SUMMARY:🇩🇪 MotoGP 德国站 · 练习赛 Practice
@@ -1664,13 +1664,13 @@ DESCRIPTION:官方场次：Practice\n地点：萨克森环赛道（Oberlu
  N)\n北京时间：07-10 21:00 (UTC+8)\n时长：60 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/ger.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/ger.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/ger.jpg
 LOCATION:萨克森环赛道（Oberlungwitz\, Germany）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ger.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ger.jpg
 STATUS:CONFIRMED
@@ -1678,7 +1678,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ger-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260711T081000Z
 DTEND:20260711T084000Z
 SUMMARY:🇩🇪 MotoGP 德国站 · 练习赛 FP2
@@ -1687,13 +1687,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：萨克森环赛
  EUROPE/BERLIN)\n北京时间：07-11 16:10 (UTC+8)\n时长：30 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/ger.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/ger.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/ger.jpg
 LOCATION:萨克森环赛道（Oberlungwitz\, Germany）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ger.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ger.jpg
 STATUS:CONFIRMED
@@ -1701,7 +1701,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ger-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260711T085000Z
 DTEND:20260711T093000Z
 SUMMARY:🇩🇪 MotoGP 德国站 · 排位赛 Qualifying
@@ -1710,13 +1710,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：萨克森环赛道
  OPE/BERLIN)\n北京时间：07-11 16:50 (UTC+8)\n时长：40 分钟\n官
  方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 
  官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/badge/moto/ger.jpg?v=2\n官方主视觉：https://butlerzou-b
- ot.github.io/f1-motogp-ical/img/moto/ger.jpg
+ p-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.g
+ ithub.io/f1-motogp-ical/img/moto/ger.jpg
 LOCATION:萨克森环赛道（Oberlungwitz\, Germany）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ger.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ger.jpg
 STATUS:CONFIRMED
@@ -1724,7 +1724,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ger-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260711T130000Z
 DTEND:20260711T133000Z
 SUMMARY:🇩🇪 MotoGP 德国站 · 冲刺赛 Sprint
@@ -1733,13 +1733,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：萨克森环赛道（O
  BERLIN)\n北京时间：07-11 21:00 (UTC+8)\n时长：30 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/ger.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/ger.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/ger.jpg
 LOCATION:萨克森环赛道（Oberlungwitz\, Germany）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ger.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ger.jpg
 STATUS:CONFIRMED
@@ -1747,7 +1747,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ger-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260712T074000Z
 DTEND:20260712T075000Z
 SUMMARY:🇩🇪 MotoGP 德国站 · 热身赛 Warm Up
@@ -1756,13 +1756,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：萨克森环赛道（Oberlun
  )\n北京时间：07-12 15:40 (UTC+8)\n时长：10 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/ger.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/ger.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/ger.jpg
 LOCATION:萨克森环赛道（Oberlungwitz\, Germany）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ger.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ger.jpg
 STATUS:CONFIRMED
@@ -1770,7 +1770,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ger-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260712T120000Z
 DTEND:20260712T140000Z
 SUMMARY:🇩🇪 MotoGP 德国站 · 正赛 Race
@@ -1779,13 +1779,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：萨克森环赛道（Ober
  LIN)\n北京时间：07-12 20:00 (UTC+8)\n时长：120 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/ger.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/ger.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/ger.jpg
 LOCATION:萨克森环赛道（Oberlungwitz\, Germany）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ger.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ger.jpg
 STATUS:CONFIRMED
@@ -1793,7 +1793,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-gbr-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260807T104500Z
 DTEND:20260807T113000Z
 SUMMARY:🇬🇧 MotoGP 英国站 · 练习赛 FP1
@@ -1802,13 +1802,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：银石赛道（U
  n北京时间：08-07 18:45 (UTC+8)\n时长：45 分钟\n官方页面：
  https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 A
  PI\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/bad
- ge/moto/gbr.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f
- 1-motogp-ical/img/moto/gbr.jpg
+ ge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/moto/gbr.jpg
 LOCATION:银石赛道（United Kingdom）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/gbr.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/gbr.jpg
 STATUS:CONFIRMED
@@ -1816,7 +1816,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-gbr-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260807T150000Z
 DTEND:20260807T160000Z
 SUMMARY:🇬🇧 MotoGP 英国站 · 练习赛 Practice
@@ -1824,14 +1824,14 @@ DESCRIPTION:官方场次：Practice\n地点：银石赛道（United Kingd
  om）\n赛道当地时间：2026-08-07 16:00 (EUROPE/LONDON)\n北京时
  间：08-07 23:00 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
  w.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛事
-  logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto/gb
- r.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/moto/gbr.jpg
+  logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto.jp
+ g?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical/
+ img/moto/gbr.jpg
 LOCATION:银石赛道（United Kingdom）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/gbr.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/gbr.jpg
 STATUS:CONFIRMED
@@ -1839,7 +1839,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-gbr-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260808T101000Z
 DTEND:20260808T104000Z
 SUMMARY:🇬🇧 MotoGP 英国站 · 练习赛 FP2
@@ -1848,13 +1848,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：银石赛道（U
  n北京时间：08-08 18:10 (UTC+8)\n时长：30 分钟\n官方页面：
  https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 A
  PI\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/bad
- ge/moto/gbr.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f
- 1-motogp-ical/img/moto/gbr.jpg
+ ge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/moto/gbr.jpg
 LOCATION:银石赛道（United Kingdom）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/gbr.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/gbr.jpg
 STATUS:CONFIRMED
@@ -1862,7 +1862,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-gbr-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260808T105000Z
 DTEND:20260808T113000Z
 SUMMARY:🇬🇧 MotoGP 英国站 · 排位赛 Qualifying
@@ -1871,13 +1871,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：银石赛道（Uni
  北京时间：08-08 18:50 (UTC+8)\n时长：40 分钟\n官方页面：h
  ttps://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 AP
  I\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badg
- e/moto/gbr.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/moto/gbr.jpg
+ e/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mot
+ ogp-ical/img/moto/gbr.jpg
 LOCATION:银石赛道（United Kingdom）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/gbr.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/gbr.jpg
 STATUS:CONFIRMED
@@ -1885,7 +1885,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-gbr-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260808T150500Z
 DTEND:20260808T153500Z
 SUMMARY:🇬🇧 MotoGP 英国站 · 冲刺赛 Sprint
@@ -1894,13 +1894,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：银石赛道（United
  京时间：08-08 23:05 (UTC+8)\n时长：30 分钟\n官方页面：http
  s://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/gbr.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/gbr.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/gbr.jpg
 LOCATION:银石赛道（United Kingdom）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/gbr.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/gbr.jpg
 STATUS:CONFIRMED
@@ -1908,7 +1908,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-gbr-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260809T084000Z
 DTEND:20260809T085000Z
 SUMMARY:🇬🇧 MotoGP 英国站 · 热身赛 Warm Up
@@ -1916,14 +1916,14 @@ DESCRIPTION:官方场次：Warm Up\n地点：银石赛道（United Kingdo
  m）\n赛道当地时间：2026-08-09 09:40 (EUROPE/LONDON)\n北京时
  间：08-09 16:40 (UTC+8)\n时长：10 分钟\n官方页面：https://ww
  w.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛事
-  logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto/gb
- r.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/moto/gbr.jpg
+  logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto.jp
+ g?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical/
+ img/moto/gbr.jpg
 LOCATION:银石赛道（United Kingdom）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/gbr.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/gbr.jpg
 STATUS:CONFIRMED
@@ -1931,7 +1931,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-gbr-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260809T120000Z
 DTEND:20260809T140000Z
 SUMMARY:🇬🇧 MotoGP 英国站 · 正赛 Race
@@ -1940,13 +1940,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：银石赛道（United Kin
  时间：08-09 20:00 (UTC+8)\n时长：120 分钟\n官方页面：https:
  //www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/gbr.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/gbr.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/gbr.jpg
 LOCATION:银石赛道（United Kingdom）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/gbr.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/gbr.jpg
 STATUS:CONFIRMED
@@ -1954,7 +1954,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ara-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260828T084500Z
 DTEND:20260828T093000Z
 SUMMARY:🇪🇸 MotoGP 阿拉贡站 · 练习赛 FP1
@@ -1963,13 +1963,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：阿拉贡 MotorL
  RID)\n北京时间：08-28 16:45 (UTC+8)\n时长：45 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/ara.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/ara.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/ara.jpg
 LOCATION:阿拉贡 MotorLand 赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ara.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ara.jpg
 STATUS:CONFIRMED
@@ -1977,7 +1977,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ara-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260828T130000Z
 DTEND:20260828T140000Z
 SUMMARY:🇪🇸 MotoGP 阿拉贡站 · 练习赛 Practice
@@ -1986,13 +1986,13 @@ DESCRIPTION:官方场次：Practice\n地点：阿拉贡 MotorLand 赛道
  京时间：08-28 21:00 (UTC+8)\n时长：60 分钟\n官方页面：http
  s://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/ara.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/ara.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/ara.jpg
 LOCATION:阿拉贡 MotorLand 赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ara.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ara.jpg
 STATUS:CONFIRMED
@@ -2000,7 +2000,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ara-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260829T081000Z
 DTEND:20260829T084000Z
 SUMMARY:🇪🇸 MotoGP 阿拉贡站 · 练习赛 FP2
@@ -2009,13 +2009,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：阿拉贡 MotorL
  RID)\n北京时间：08-29 16:10 (UTC+8)\n时长：30 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/ara.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/ara.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/ara.jpg
 LOCATION:阿拉贡 MotorLand 赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ara.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ara.jpg
 STATUS:CONFIRMED
@@ -2023,7 +2023,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ara-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260829T085000Z
 DTEND:20260829T093000Z
 SUMMARY:🇪🇸 MotoGP 阿拉贡站 · 排位赛 Qualifying
@@ -2032,13 +2032,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：阿拉贡 MotorLan
  D)\n北京时间：08-29 16:50 (UTC+8)\n时长：40 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/ara.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/ara.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/ara.jpg
 LOCATION:阿拉贡 MotorLand 赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ara.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ara.jpg
 STATUS:CONFIRMED
@@ -2046,7 +2046,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ara-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260829T130000Z
 DTEND:20260829T133000Z
 SUMMARY:🇪🇸 MotoGP 阿拉贡站 · 冲刺赛 Sprint
@@ -2055,13 +2055,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：阿拉贡 MotorLand
  \n北京时间：08-29 21:00 (UTC+8)\n时长：30 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/ara.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/ara.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/ara.jpg
 LOCATION:阿拉贡 MotorLand 赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ara.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ara.jpg
 STATUS:CONFIRMED
@@ -2069,7 +2069,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ara-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260830T074000Z
 DTEND:20260830T075000Z
 SUMMARY:🇪🇸 MotoGP 阿拉贡站 · 热身赛 Warm Up
@@ -2078,13 +2078,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：阿拉贡 MotorLand 赛道
  京时间：08-30 15:40 (UTC+8)\n时长：10 分钟\n官方页面：http
  s://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/ara.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/ara.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/ara.jpg
 LOCATION:阿拉贡 MotorLand 赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ara.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ara.jpg
 STATUS:CONFIRMED
@@ -2092,7 +2092,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ara-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260830T120000Z
 DTEND:20260830T140000Z
 SUMMARY:🇪🇸 MotoGP 阿拉贡站 · 正赛 Race
@@ -2101,13 +2101,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：阿拉贡 MotorLand 赛
  北京时间：08-30 20:00 (UTC+8)\n时长：120 分钟\n官方页面：
  https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 A
  PI\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/bad
- ge/moto/ara.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f
- 1-motogp-ical/img/moto/ara.jpg
+ ge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/moto/ara.jpg
 LOCATION:阿拉贡 MotorLand 赛道（Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ara.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ara.jpg
 STATUS:CONFIRMED
@@ -2115,7 +2115,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-rsm-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260911T084500Z
 DTEND:20260911T093000Z
 SUMMARY:🇸🇲 MotoGP 圣马力诺站 · 练习赛 FP1
@@ -2124,13 +2124,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：米萨诺赛道
  (EUROPE/ROME)\n北京时间：09-11 16:45 (UTC+8)\n时长：45 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/rsm.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/rsm.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/rsm.jpg
 LOCATION:米萨诺赛道（Santa Monica-Cella\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/rsm.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/rsm.jpg
 STATUS:CONFIRMED
@@ -2138,7 +2138,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-rsm-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260911T130000Z
 DTEND:20260911T140000Z
 SUMMARY:🇸🇲 MotoGP 圣马力诺站 · 练习赛 Practice
@@ -2147,13 +2147,13 @@ DESCRIPTION:官方场次：Practice\n地点：米萨诺赛道（Santa Mon
  )\n北京时间：09-11 21:00 (UTC+8)\n时长：60 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/rsm.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/rsm.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/rsm.jpg
 LOCATION:米萨诺赛道（Santa Monica-Cella\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/rsm.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/rsm.jpg
 STATUS:CONFIRMED
@@ -2161,7 +2161,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-rsm-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260912T081000Z
 DTEND:20260912T084000Z
 SUMMARY:🇸🇲 MotoGP 圣马力诺站 · 练习赛 FP2
@@ -2170,13 +2170,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：米萨诺赛道
  (EUROPE/ROME)\n北京时间：09-12 16:10 (UTC+8)\n时长：30 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/rsm.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/rsm.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/rsm.jpg
 LOCATION:米萨诺赛道（Santa Monica-Cella\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/rsm.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/rsm.jpg
 STATUS:CONFIRMED
@@ -2184,7 +2184,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-rsm-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260912T085000Z
 DTEND:20260912T093000Z
 SUMMARY:🇸🇲 MotoGP 圣马力诺站 · 排位赛 Qualifying
@@ -2193,13 +2193,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：米萨诺赛道（
  ROPE/ROME)\n北京时间：09-12 16:50 (UTC+8)\n时长：40 分钟\n官
  方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 
  官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/badge/moto/rsm.jpg?v=2\n官方主视觉：https://butlerzou-b
- ot.github.io/f1-motogp-ical/img/moto/rsm.jpg
+ p-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.g
+ ithub.io/f1-motogp-ical/img/moto/rsm.jpg
 LOCATION:米萨诺赛道（Santa Monica-Cella\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/rsm.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/rsm.jpg
 STATUS:CONFIRMED
@@ -2207,7 +2207,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-rsm-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260912T130000Z
 DTEND:20260912T133000Z
 SUMMARY:🇸🇲 MotoGP 圣马力诺站 · 冲刺赛 Sprint
@@ -2216,13 +2216,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：米萨诺赛道（Sant
  /ROME)\n北京时间：09-12 21:00 (UTC+8)\n时长：30 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/rsm.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/rsm.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/rsm.jpg
 LOCATION:米萨诺赛道（Santa Monica-Cella\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/rsm.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/rsm.jpg
 STATUS:CONFIRMED
@@ -2230,7 +2230,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-rsm-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260913T074000Z
 DTEND:20260913T075000Z
 SUMMARY:🇸🇲 MotoGP 圣马力诺站 · 热身赛 Warm Up
@@ -2239,13 +2239,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：米萨诺赛道（Santa Moni
  \n北京时间：09-13 15:40 (UTC+8)\n时长：10 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/rsm.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/rsm.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/rsm.jpg
 LOCATION:米萨诺赛道（Santa Monica-Cella\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/rsm.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/rsm.jpg
 STATUS:CONFIRMED
@@ -2253,7 +2253,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-rsm-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260913T120000Z
 DTEND:20260913T140000Z
 SUMMARY:🇸🇲 MotoGP 圣马力诺站 · 正赛 Race
@@ -2262,13 +2262,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：米萨诺赛道（Santa M
  ME)\n北京时间：09-13 20:00 (UTC+8)\n时长：120 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/rsm.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/rsm.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/rsm.jpg
 LOCATION:米萨诺赛道（Santa Monica-Cella\, Italy）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/rsm.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/rsm.jpg
 STATUS:CONFIRMED
@@ -2276,7 +2276,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aut-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260918T084500Z
 DTEND:20260918T093000Z
 SUMMARY:🇦🇹 MotoGP 奥地利站 · 练习赛 FP1
@@ -2285,13 +2285,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：红牛环赛道
  /VIENNA)\n北京时间：09-18 16:45 (UTC+8)\n时长：45 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/aut.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/aut.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/aut.jpg
 LOCATION:红牛环赛道（Spielberg\, Austria）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aut.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aut.jpg
 STATUS:CONFIRMED
@@ -2299,7 +2299,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aut-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260918T130000Z
 DTEND:20260918T140700Z
 SUMMARY:🇦🇹 MotoGP 奥地利站 · 练习赛 Practice
@@ -2308,13 +2308,13 @@ DESCRIPTION:官方场次：Practice\n地点：红牛环赛道（Spielberg
  北京时间：09-18 21:00 (UTC+8)\n时长：67 分钟\n官方页面：h
  ttps://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 AP
  I\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badg
- e/moto/aut.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/moto/aut.jpg
+ e/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mot
+ ogp-ical/img/moto/aut.jpg
 LOCATION:红牛环赛道（Spielberg\, Austria）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aut.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aut.jpg
 STATUS:CONFIRMED
@@ -2322,7 +2322,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aut-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260919T081000Z
 DTEND:20260919T084000Z
 SUMMARY:🇦🇹 MotoGP 奥地利站 · 练习赛 FP2
@@ -2331,13 +2331,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：红牛环赛道
  /VIENNA)\n北京时间：09-19 16:10 (UTC+8)\n时长：30 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/aut.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/aut.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/aut.jpg
 LOCATION:红牛环赛道（Spielberg\, Austria）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aut.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aut.jpg
 STATUS:CONFIRMED
@@ -2345,7 +2345,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aut-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260919T085000Z
 DTEND:20260919T093000Z
 SUMMARY:🇦🇹 MotoGP 奥地利站 · 排位赛 Qualifying
@@ -2354,13 +2354,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：红牛环赛道（
  ENNA)\n北京时间：09-19 16:50 (UTC+8)\n时长：40 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/aut.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/aut.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/aut.jpg
 LOCATION:红牛环赛道（Spielberg\, Austria）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aut.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aut.jpg
 STATUS:CONFIRMED
@@ -2368,7 +2368,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aut-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260919T130000Z
 DTEND:20260919T133000Z
 SUMMARY:🇦🇹 MotoGP 奥地利站 · 冲刺赛 Sprint
@@ -2377,13 +2377,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：红牛环赛道（Spie
  )\n北京时间：09-19 21:00 (UTC+8)\n时长：30 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/aut.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/aut.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/aut.jpg
 LOCATION:红牛环赛道（Spielberg\, Austria）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aut.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aut.jpg
 STATUS:CONFIRMED
@@ -2391,7 +2391,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aut-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260920T074000Z
 DTEND:20260920T075000Z
 SUMMARY:🇦🇹 MotoGP 奥地利站 · 热身赛 Warm Up
@@ -2400,13 +2400,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：红牛环赛道（Spielberg\
  京时间：09-20 15:40 (UTC+8)\n时长：10 分钟\n官方页面：http
  s://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/aut.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/aut.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/aut.jpg
 LOCATION:红牛环赛道（Spielberg\, Austria）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aut.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aut.jpg
 STATUS:CONFIRMED
@@ -2414,7 +2414,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aut-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20260920T120000Z
 DTEND:20260920T140000Z
 SUMMARY:🇦🇹 MotoGP 奥地利站 · 正赛 Race
@@ -2423,13 +2423,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：红牛环赛道（Spielbe
  北京时间：09-20 20:00 (UTC+8)\n时长：120 分钟\n官方页面：
  https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 A
  PI\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/bad
- ge/moto/aut.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f
- 1-motogp-ical/img/moto/aut.jpg
+ ge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/moto/aut.jpg
 LOCATION:红牛环赛道（Spielberg\, Austria）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aut.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aut.jpg
 STATUS:CONFIRMED
@@ -2437,7 +2437,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-jpn-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261002T014500Z
 DTEND:20261002T023000Z
 SUMMARY:🇯🇵 MotoGP 日本站 · 练习赛 FP1
@@ -2446,13 +2446,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：茂木赛道（M
  北京时间：10-02 09:45 (UTC+8)\n时长：45 分钟\n官方页面：h
  ttps://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 AP
  I\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badg
- e/moto/jpn.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/moto/jpn.jpg
+ e/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mot
+ ogp-ical/img/moto/jpn.jpg
 LOCATION:茂木赛道（Motegi\, Japan）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/jpn.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/jpn.jpg
 STATUS:CONFIRMED
@@ -2460,7 +2460,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-jpn-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261002T060000Z
 DTEND:20261002T071500Z
 SUMMARY:🇯🇵 MotoGP 日本站 · 练习赛 Practice
@@ -2468,14 +2468,14 @@ DESCRIPTION:官方场次：Practice\n地点：茂木赛道（Motegi\, Jap
  an）\n赛道当地时间：2026-10-02 15:00 (ASIA/TOKYO)\n北京时间
  ：10-02 14:00 (UTC+8)\n时长：75 分钟\n官方页面：https://www.m
  otogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛事 lo
- go：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto/jpn.j
- pg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/moto/jpn.jpg
+ go：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto.jpg?v
+ =3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical/img
+ /moto/jpn.jpg
 LOCATION:茂木赛道（Motegi\, Japan）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/jpn.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/jpn.jpg
 STATUS:CONFIRMED
@@ -2483,7 +2483,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-jpn-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261003T011000Z
 DTEND:20261003T015000Z
 SUMMARY:🇯🇵 MotoGP 日本站 · 练习赛 FP2
@@ -2492,13 +2492,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：茂木赛道（M
  北京时间：10-03 09:10 (UTC+8)\n时长：40 分钟\n官方页面：h
  ttps://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 AP
  I\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badg
- e/moto/jpn.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/moto/jpn.jpg
+ e/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mot
+ ogp-ical/img/moto/jpn.jpg
 LOCATION:茂木赛道（Motegi\, Japan）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/jpn.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/jpn.jpg
 STATUS:CONFIRMED
@@ -2506,7 +2506,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-jpn-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261003T015800Z
 DTEND:20261003T023800Z
 SUMMARY:🇯🇵 MotoGP 日本站 · 排位赛 Qualifying
@@ -2515,13 +2515,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：茂木赛道（Mot
  京时间：10-03 09:58 (UTC+8)\n时长：40 分钟\n官方页面：http
  s://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/jpn.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/jpn.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/jpn.jpg
 LOCATION:茂木赛道（Motegi\, Japan）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/jpn.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/jpn.jpg
 STATUS:CONFIRMED
@@ -2529,7 +2529,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-jpn-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261003T060000Z
 DTEND:20261003T063000Z
 SUMMARY:🇯🇵 MotoGP 日本站 · 冲刺赛 Sprint
@@ -2538,13 +2538,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：茂木赛道（Motegi\
  时间：10-03 14:00 (UTC+8)\n时长：30 分钟\n官方页面：https:/
  /www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛
  事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto
- /jpn.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/moto/jpn.jpg
+ .jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ic
+ al/img/moto/jpn.jpg
 LOCATION:茂木赛道（Motegi\, Japan）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/jpn.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/jpn.jpg
 STATUS:CONFIRMED
@@ -2552,7 +2552,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-jpn-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261004T003500Z
 DTEND:20261004T005500Z
 SUMMARY:🇯🇵 MotoGP 日本站 · 热身赛 Warm Up
@@ -2560,14 +2560,14 @@ DESCRIPTION:官方场次：Warm Up\n地点：茂木赛道（Motegi\, Japa
  n）\n赛道当地时间：2026-10-04 09:35 (ASIA/TOKYO)\n北京时间
  ：10-04 08:35 (UTC+8)\n时长：20 分钟\n官方页面：https://www.m
  otogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛事 lo
- go：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto/jpn.j
- pg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/moto/jpn.jpg
+ go：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto.jpg?v
+ =3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical/img
+ /moto/jpn.jpg
 LOCATION:茂木赛道（Motegi\, Japan）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/jpn.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/jpn.jpg
 STATUS:CONFIRMED
@@ -2575,7 +2575,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-jpn-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261004T050000Z
 DTEND:20261004T070000Z
 SUMMARY:🇯🇵 MotoGP 日本站 · 正赛 Race
@@ -2584,13 +2584,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：茂木赛道（Motegi\, J
  间：10-04 13:00 (UTC+8)\n时长：120 分钟\n官方页面：https://w
  ww.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛
  事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto
- /jpn.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/moto/jpn.jpg
+ .jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ic
+ al/img/moto/jpn.jpg
 LOCATION:茂木赛道（Motegi\, Japan）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/jpn.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/jpn.jpg
 STATUS:CONFIRMED
@@ -2598,7 +2598,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ina-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261009T024500Z
 DTEND:20261009T033000Z
 SUMMARY:🇮🇩 MotoGP 印度尼西亚站 · 练习赛 FP1
@@ -2607,13 +2607,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：曼达利卡赛
  )\n北京时间：10-09 10:45 (UTC+8)\n时长：45 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/ina.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/ina.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/ina.jpg
 LOCATION:曼达利卡赛道（Indonesia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ina.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ina.jpg
 STATUS:CONFIRMED
@@ -2621,7 +2621,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ina-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261009T073500Z
 DTEND:20261009T083500Z
 SUMMARY:🇮🇩 MotoGP 印度尼西亚站 · 练习赛 Practice
@@ -2629,14 +2629,14 @@ DESCRIPTION:官方场次：Practice\n地点：曼达利卡赛道（Indone
  sia）\n赛道当地时间：2026-10-09 15:35 (ASIA/MAKASSAR)\n北京时
  间：10-09 15:35 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
  w.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛事
-  logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto/in
- a.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/moto/ina.jpg
+  logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto.jp
+ g?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical/
+ img/moto/ina.jpg
 LOCATION:曼达利卡赛道（Indonesia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ina.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ina.jpg
 STATUS:CONFIRMED
@@ -2644,7 +2644,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ina-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261010T021000Z
 DTEND:20261010T024300Z
 SUMMARY:🇮🇩 MotoGP 印度尼西亚站 · 练习赛 FP2
@@ -2653,13 +2653,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：曼达利卡赛
  )\n北京时间：10-10 10:10 (UTC+8)\n时长：33 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/ina.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/ina.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/ina.jpg
 LOCATION:曼达利卡赛道（Indonesia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ina.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ina.jpg
 STATUS:CONFIRMED
@@ -2667,7 +2667,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ina-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261010T025500Z
 DTEND:20261010T033500Z
 SUMMARY:🇮🇩 MotoGP 印度尼西亚站 · 排位赛 Qualifying
@@ -2676,13 +2676,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：曼达利卡赛道
  北京时间：10-10 10:55 (UTC+8)\n时长：40 分钟\n官方页面：h
  ttps://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 AP
  I\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badg
- e/moto/ina.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/moto/ina.jpg
+ e/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mot
+ ogp-ical/img/moto/ina.jpg
 LOCATION:曼达利卡赛道（Indonesia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ina.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ina.jpg
 STATUS:CONFIRMED
@@ -2690,7 +2690,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ina-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261010T070000Z
 DTEND:20261010T073000Z
 SUMMARY:🇮🇩 MotoGP 印度尼西亚站 · 冲刺赛 Sprint
@@ -2699,13 +2699,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：曼达利卡赛道（I
  京时间：10-10 15:00 (UTC+8)\n时长：30 分钟\n官方页面：http
  s://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/ina.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/ina.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/ina.jpg
 LOCATION:曼达利卡赛道（Indonesia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ina.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ina.jpg
 STATUS:CONFIRMED
@@ -2713,7 +2713,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ina-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261011T024000Z
 DTEND:20261011T025000Z
 SUMMARY:🇮🇩 MotoGP 印度尼西亚站 · 热身赛 Warm Up
@@ -2721,14 +2721,14 @@ DESCRIPTION:官方场次：Warm Up\n地点：曼达利卡赛道（Indones
  ia）\n赛道当地时间：2026-10-11 10:40 (ASIA/MAKASSAR)\n北京时
  间：10-11 10:40 (UTC+8)\n时长：10 分钟\n官方页面：https://ww
  w.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛事
-  logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto/in
- a.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/moto/ina.jpg
+  logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto.jp
+ g?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ical/
+ img/moto/ina.jpg
 LOCATION:曼达利卡赛道（Indonesia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ina.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ina.jpg
 STATUS:CONFIRMED
@@ -2736,7 +2736,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-ina-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261011T070000Z
 DTEND:20261011T090000Z
 SUMMARY:🇮🇩 MotoGP 印度尼西亚站 · 正赛 Race
@@ -2745,13 +2745,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：曼达利卡赛道（Indo
  时间：10-11 15:00 (UTC+8)\n时长：120 分钟\n官方页面：https:
  //www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/ina.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/ina.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/ina.jpg
 LOCATION:曼达利卡赛道（Indonesia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/ina.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/ina.jpg
 STATUS:CONFIRMED
@@ -2759,7 +2759,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aus-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261022T234500Z
 DTEND:20261023T003000Z
 SUMMARY:🇦🇺 MotoGP 澳大利亚站 · 练习赛 FP1
@@ -2768,13 +2768,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：菲利普岛赛
  BOURNE)\n北京时间：10-23 07:45 (UTC+8)\n时长：45 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/aus.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/aus.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/aus.jpg
 LOCATION:菲利普岛赛道（Australia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aus.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aus.jpg
 STATUS:CONFIRMED
@@ -2782,7 +2782,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aus-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261023T040000Z
 DTEND:20261023T051000Z
 SUMMARY:🇦🇺 MotoGP 澳大利亚站 · 练习赛 Practice
@@ -2791,13 +2791,13 @@ DESCRIPTION:官方场次：Practice\n地点：菲利普岛赛道（Austra
  京时间：10-23 12:00 (UTC+8)\n时长：70 分钟\n官方页面：http
  s://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/aus.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/aus.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/aus.jpg
 LOCATION:菲利普岛赛道（Australia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aus.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aus.jpg
 STATUS:CONFIRMED
@@ -2805,7 +2805,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aus-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261023T231000Z
 DTEND:20261023T234000Z
 SUMMARY:🇦🇺 MotoGP 澳大利亚站 · 练习赛 FP2
@@ -2814,13 +2814,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：菲利普岛赛
  BOURNE)\n北京时间：10-24 07:10 (UTC+8)\n时长：30 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/aus.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/aus.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/aus.jpg
 LOCATION:菲利普岛赛道（Australia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aus.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aus.jpg
 STATUS:CONFIRMED
@@ -2828,7 +2828,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aus-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261023T235000Z
 DTEND:20261024T003000Z
 SUMMARY:🇦🇺 MotoGP 澳大利亚站 · 排位赛 Qualifying
@@ -2837,13 +2837,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：菲利普岛赛道
  RNE)\n北京时间：10-24 07:50 (UTC+8)\n时长：40 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/aus.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/aus.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/aus.jpg
 LOCATION:菲利普岛赛道（Australia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aus.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aus.jpg
 STATUS:CONFIRMED
@@ -2851,7 +2851,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aus-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261024T040000Z
 DTEND:20261024T043000Z
 SUMMARY:🇦🇺 MotoGP 澳大利亚站 · 冲刺赛 Sprint
@@ -2860,13 +2860,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：菲利普岛赛道（A
  \n北京时间：10-24 12:00 (UTC+8)\n时长：30 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/aus.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/aus.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/aus.jpg
 LOCATION:菲利普岛赛道（Australia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aus.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aus.jpg
 STATUS:CONFIRMED
@@ -2874,7 +2874,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aus-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261024T224000Z
 DTEND:20261024T225000Z
 SUMMARY:🇦🇺 MotoGP 澳大利亚站 · 热身赛 Warm Up
@@ -2883,13 +2883,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：菲利普岛赛道（Austral
  京时间：10-25 06:40 (UTC+8)\n时长：10 分钟\n官方页面：http
  s://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n
  赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/m
- oto/aus.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/moto/aus.jpg
+ oto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp
+ -ical/img/moto/aus.jpg
 LOCATION:菲利普岛赛道（Australia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aus.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aus.jpg
 STATUS:CONFIRMED
@@ -2897,7 +2897,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-aus-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261025T053000Z
 DTEND:20261025T073000Z
 SUMMARY:🇦🇺 MotoGP 澳大利亚站 · 正赛 Race
@@ -2906,13 +2906,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：菲利普岛赛道（Aust
  北京时间：10-25 13:30 (UTC+8)\n时长：120 分钟\n官方页面：
  https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 A
  PI\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/bad
- ge/moto/aus.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f
- 1-motogp-ical/img/moto/aus.jpg
+ ge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/moto/aus.jpg
 LOCATION:菲利普岛赛道（Australia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/aus.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/aus.jpg
 STATUS:CONFIRMED
@@ -2920,7 +2920,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-mal-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261030T024500Z
 DTEND:20261030T033000Z
 SUMMARY:🇲🇾 MotoGP 马来西亚站 · 练习赛 FP1
@@ -2929,13 +2929,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：雪邦国际赛
  IA/KUALA_LUMPUR)\n北京时间：10-30 10:45 (UTC+8)\n时长：45 分钟
  \n官方页面：https://www.motogp.com/en/calendar\n数据来源：Moto
  GP 官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/mal.jpg?v=2\n官方主视觉：https://butlerzo
- u-bot.github.io/f1-motogp-ical/img/moto/mal.jpg
+ togp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bo
+ t.github.io/f1-motogp-ical/img/moto/mal.jpg
 LOCATION:雪邦国际赛车场（Sepang\, Malaysia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/mal.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/mal.jpg
 STATUS:CONFIRMED
@@ -2943,7 +2943,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-mal-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261030T070000Z
 DTEND:20261030T080000Z
 SUMMARY:🇲🇾 MotoGP 马来西亚站 · 练习赛 Practice
@@ -2952,13 +2952,13 @@ DESCRIPTION:官方场次：Practice\n地点：雪邦国际赛车场（Sep
  PUR)\n北京时间：10-30 15:00 (UTC+8)\n时长：60 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/mal.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/mal.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/mal.jpg
 LOCATION:雪邦国际赛车场（Sepang\, Malaysia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/mal.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/mal.jpg
 STATUS:CONFIRMED
@@ -2966,7 +2966,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-mal-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261031T021000Z
 DTEND:20261031T024000Z
 SUMMARY:🇲🇾 MotoGP 马来西亚站 · 练习赛 FP2
@@ -2975,13 +2975,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：雪邦国际赛
  IA/KUALA_LUMPUR)\n北京时间：10-31 10:10 (UTC+8)\n时长：30 分钟
  \n官方页面：https://www.motogp.com/en/calendar\n数据来源：Moto
  GP 官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/mal.jpg?v=2\n官方主视觉：https://butlerzo
- u-bot.github.io/f1-motogp-ical/img/moto/mal.jpg
+ togp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bo
+ t.github.io/f1-motogp-ical/img/moto/mal.jpg
 LOCATION:雪邦国际赛车场（Sepang\, Malaysia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/mal.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/mal.jpg
 STATUS:CONFIRMED
@@ -2989,7 +2989,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-mal-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261031T025000Z
 DTEND:20261031T033000Z
 SUMMARY:🇲🇾 MotoGP 马来西亚站 · 排位赛 Qualifying
@@ -2998,13 +2998,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：雪邦国际赛车
  KUALA_LUMPUR)\n北京时间：10-31 10:50 (UTC+8)\n时长：40 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/mal.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/mal.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/mal.jpg
 LOCATION:雪邦国际赛车场（Sepang\, Malaysia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/mal.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/mal.jpg
 STATUS:CONFIRMED
@@ -3012,7 +3012,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-mal-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261031T070000Z
 DTEND:20261031T073000Z
 SUMMARY:🇲🇾 MotoGP 马来西亚站 · 冲刺赛 Sprint
@@ -3021,13 +3021,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：雪邦国际赛车场
  LA_LUMPUR)\n北京时间：10-31 15:00 (UTC+8)\n时长：30 分钟\n官
  方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 
  官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/badge/moto/mal.jpg?v=2\n官方主视觉：https://butlerzou-b
- ot.github.io/f1-motogp-ical/img/moto/mal.jpg
+ p-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.g
+ ithub.io/f1-motogp-ical/img/moto/mal.jpg
 LOCATION:雪邦国际赛车场（Sepang\, Malaysia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/mal.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/mal.jpg
 STATUS:CONFIRMED
@@ -3035,7 +3035,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-mal-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261101T024000Z
 DTEND:20261101T025000Z
 SUMMARY:🇲🇾 MotoGP 马来西亚站 · 热身赛 Warm Up
@@ -3044,13 +3044,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：雪邦国际赛车场（Sepa
  UR)\n北京时间：11-01 10:40 (UTC+8)\n时长：10 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/mal.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/mal.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/mal.jpg
 LOCATION:雪邦国际赛车场（Sepang\, Malaysia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/mal.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/mal.jpg
 STATUS:CONFIRMED
@@ -3058,7 +3058,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-mal-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261101T070000Z
 DTEND:20261101T090000Z
 SUMMARY:🇲🇾 MotoGP 马来西亚站 · 正赛 Race
@@ -3067,13 +3067,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：雪邦国际赛车场（S
  UMPUR)\n北京时间：11-01 15:00 (UTC+8)\n时长：120 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/mal.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/mal.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/mal.jpg
 LOCATION:雪邦国际赛车场（Sepang\, Malaysia）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/mal.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/mal.jpg
 STATUS:CONFIRMED
@@ -3081,7 +3081,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-qat-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261106T124500Z
 DTEND:20261106T133000Z
 SUMMARY:🇶🇦 MotoGP 卡塔尔站 · 练习赛 FP1
@@ -3090,13 +3090,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：卢赛尔国际
  TAR)\n北京时间：11-06 20:45 (UTC+8)\n时长：45 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/qat.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/qat.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/qat.jpg
 LOCATION:卢赛尔国际赛道（Doha\, Qatar）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/qat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/qat.jpg
 STATUS:CONFIRMED
@@ -3104,7 +3104,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-qat-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261106T170000Z
 DTEND:20261106T180000Z
 SUMMARY:🇶🇦 MotoGP 卡塔尔站 · 练习赛 Practice
@@ -3113,13 +3113,13 @@ DESCRIPTION:官方场次：Practice\n地点：卢赛尔国际赛道（Doh
  时间：11-07 01:00 (UTC+8)\n时长：60 分钟\n官方页面：https:/
  /www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛
  事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto
- /qat.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/moto/qat.jpg
+ .jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ic
+ al/img/moto/qat.jpg
 LOCATION:卢赛尔国际赛道（Doha\, Qatar）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/qat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/qat.jpg
 STATUS:CONFIRMED
@@ -3127,7 +3127,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-qat-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261107T120000Z
 DTEND:20261107T123000Z
 SUMMARY:🇶🇦 MotoGP 卡塔尔站 · 练习赛 FP2
@@ -3136,13 +3136,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：卢赛尔国际
  TAR)\n北京时间：11-07 20:00 (UTC+8)\n时长：30 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/qat.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/qat.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/qat.jpg
 LOCATION:卢赛尔国际赛道（Doha\, Qatar）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/qat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/qat.jpg
 STATUS:CONFIRMED
@@ -3150,7 +3150,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-qat-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261107T124000Z
 DTEND:20261107T132000Z
 SUMMARY:🇶🇦 MotoGP 卡塔尔站 · 排位赛 Qualifying
@@ -3159,13 +3159,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：卢赛尔国际赛
  )\n北京时间：11-07 20:40 (UTC+8)\n时长：40 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/qat.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/qat.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/qat.jpg
 LOCATION:卢赛尔国际赛道（Doha\, Qatar）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/qat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/qat.jpg
 STATUS:CONFIRMED
@@ -3173,7 +3173,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-qat-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261107T170000Z
 DTEND:20261107T173000Z
 SUMMARY:🇶🇦 MotoGP 卡塔尔站 · 冲刺赛 Sprint
@@ -3182,13 +3182,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：卢赛尔国际赛道
  北京时间：11-08 01:00 (UTC+8)\n时长：30 分钟\n官方页面：h
  ttps://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 AP
  I\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badg
- e/moto/qat.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/moto/qat.jpg
+ e/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mot
+ ogp-ical/img/moto/qat.jpg
 LOCATION:卢赛尔国际赛道（Doha\, Qatar）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/qat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/qat.jpg
 STATUS:CONFIRMED
@@ -3196,7 +3196,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-qat-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261108T124000Z
 DTEND:20261108T125000Z
 SUMMARY:🇶🇦 MotoGP 卡塔尔站 · 热身赛 Warm Up
@@ -3205,13 +3205,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：卢赛尔国际赛道（Doha
  时间：11-08 20:40 (UTC+8)\n时长：10 分钟\n官方页面：https:/
  /www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\n赛
  事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/moto
- /qat.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/moto/qat.jpg
+ .jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motogp-ic
+ al/img/moto/qat.jpg
 LOCATION:卢赛尔国际赛道（Doha\, Qatar）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/qat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/qat.jpg
 STATUS:CONFIRMED
@@ -3219,7 +3219,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-qat-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261108T170000Z
 DTEND:20261108T190000Z
 SUMMARY:🇶🇦 MotoGP 卡塔尔站 · 正赛 Race
@@ -3228,13 +3228,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：卢赛尔国际赛道（D
  京时间：11-09 01:00 (UTC+8)\n时长：120 分钟\n官方页面：htt
  ps://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 API\
  n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badge/
- moto/qat.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1-m
- otogp-ical/img/moto/qat.jpg
+ moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-motog
+ p-ical/img/moto/qat.jpg
 LOCATION:卢赛尔国际赛道（Doha\, Qatar）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/qat.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/qat.jpg
 STATUS:CONFIRMED
@@ -3242,7 +3242,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-por-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261120T104500Z
 DTEND:20261120T113000Z
 SUMMARY:🇵🇹 MotoGP 葡萄牙站 · 练习赛 FP1
@@ -3251,13 +3251,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：波尔蒂芒赛
  ROPE/LISBON)\n北京时间：11-20 18:45 (UTC+8)\n时长：45 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/por.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/por.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/por.jpg
 LOCATION:波尔蒂芒赛道（Portimão\, Portugal）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/por.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/por.jpg
 STATUS:CONFIRMED
@@ -3265,7 +3265,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-por-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261120T150000Z
 DTEND:20261120T160000Z
 SUMMARY:🇵🇹 MotoGP 葡萄牙站 · 练习赛 Practice
@@ -3274,13 +3274,13 @@ DESCRIPTION:官方场次：Practice\n地点：波尔蒂芒赛道（Portim
  \n北京时间：11-20 23:00 (UTC+8)\n时长：60 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/por.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/por.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/por.jpg
 LOCATION:波尔蒂芒赛道（Portimão\, Portugal）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/por.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/por.jpg
 STATUS:CONFIRMED
@@ -3288,7 +3288,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-por-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261121T101000Z
 DTEND:20261121T104000Z
 SUMMARY:🇵🇹 MotoGP 葡萄牙站 · 练习赛 FP2
@@ -3297,13 +3297,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：波尔蒂芒赛
  ROPE/LISBON)\n北京时间：11-21 18:10 (UTC+8)\n时长：30 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/por.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/por.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/por.jpg
 LOCATION:波尔蒂芒赛道（Portimão\, Portugal）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/por.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/por.jpg
 STATUS:CONFIRMED
@@ -3311,7 +3311,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-por-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261121T105000Z
 DTEND:20261121T113000Z
 SUMMARY:🇵🇹 MotoGP 葡萄牙站 · 排位赛 Qualifying
@@ -3320,13 +3320,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：波尔蒂芒赛道
  E/LISBON)\n北京时间：11-21 18:50 (UTC+8)\n时长：40 分钟\n官
  方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 
  官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/badge/moto/por.jpg?v=2\n官方主视觉：https://butlerzou-b
- ot.github.io/f1-motogp-ical/img/moto/por.jpg
+ p-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.g
+ ithub.io/f1-motogp-ical/img/moto/por.jpg
 LOCATION:波尔蒂芒赛道（Portimão\, Portugal）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/por.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/por.jpg
 STATUS:CONFIRMED
@@ -3334,7 +3334,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-por-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261121T150000Z
 DTEND:20261121T153000Z
 SUMMARY:🇵🇹 MotoGP 葡萄牙站 · 冲刺赛 Sprint
@@ -3343,13 +3343,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：波尔蒂芒赛道（P
  SBON)\n北京时间：11-21 23:00 (UTC+8)\n时长：30 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/por.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/por.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/por.jpg
 LOCATION:波尔蒂芒赛道（Portimão\, Portugal）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/por.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/por.jpg
 STATUS:CONFIRMED
@@ -3357,7 +3357,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-por-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261122T094000Z
 DTEND:20261122T095000Z
 SUMMARY:🇵🇹 MotoGP 葡萄牙站 · 热身赛 Warm Up
@@ -3366,13 +3366,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：波尔蒂芒赛道（Portim
  \n北京时间：11-22 17:40 (UTC+8)\n时长：10 分钟\n官方页面
  ：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛
  事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/im
- g/badge/moto/por.jpg?v=2\n官方主视觉：https://butlerzou-bot.github
- .io/f1-motogp-ical/img/moto/por.jpg
+ g/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/
+ f1-motogp-ical/img/moto/por.jpg
 LOCATION:波尔蒂芒赛道（Portimão\, Portugal）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/por.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/por.jpg
 STATUS:CONFIRMED
@@ -3380,7 +3380,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-por-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261122T130000Z
 DTEND:20261122T150000Z
 SUMMARY:🇵🇹 MotoGP 葡萄牙站 · 正赛 Race
@@ -3389,13 +3389,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：波尔蒂芒赛道（Port
  N)\n北京时间：11-22 21:00 (UTC+8)\n时长：120 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/por.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/por.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/por.jpg
 LOCATION:波尔蒂芒赛道（Portimão\, Portugal）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/por.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/por.jpg
 STATUS:CONFIRMED
@@ -3403,7 +3403,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-val-fp1@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261127T094500Z
 DTEND:20261127T103000Z
 SUMMARY:🇪🇸 MotoGP 瓦伦西亚站 · 练习赛 FP1
@@ -3412,13 +3412,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 1\n地点：里克·托尔
  ROPE/MADRID)\n北京时间：11-27 17:45 (UTC+8)\n时长：45 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/val.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/val.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/val.jpg
 LOCATION:里克·托尔莫赛道（Cheste\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/val.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/val.jpg
 STATUS:CONFIRMED
@@ -3426,7 +3426,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-val-pr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261127T140000Z
 DTEND:20261127T150000Z
 SUMMARY:🇪🇸 MotoGP 瓦伦西亚站 · 练习赛 Practice
@@ -3435,13 +3435,13 @@ DESCRIPTION:官方场次：Practice\n地点：里克·托尔莫赛道（C
  n北京时间：11-27 22:00 (UTC+8)\n时长：60 分钟\n官方页面：
  https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 A
  PI\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/bad
- ge/moto/val.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f
- 1-motogp-ical/img/moto/val.jpg
+ ge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/moto/val.jpg
 LOCATION:里克·托尔莫赛道（Cheste\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/val.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/val.jpg
 STATUS:CONFIRMED
@@ -3449,7 +3449,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-val-fp2@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261128T091000Z
 DTEND:20261128T094000Z
 SUMMARY:🇪🇸 MotoGP 瓦伦西亚站 · 练习赛 FP2
@@ -3458,13 +3458,13 @@ DESCRIPTION:官方场次：Free Practice Nr. 2\n地点：里克·托尔
  ROPE/MADRID)\n北京时间：11-28 17:10 (UTC+8)\n时长：30 分钟\n
  官方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP
   官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-moto
- gp-ical/img/badge/moto/val.jpg?v=2\n官方主视觉：https://butlerzou-
- bot.github.io/f1-motogp-ical/img/moto/val.jpg
+ gp-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.
+ github.io/f1-motogp-ical/img/moto/val.jpg
 LOCATION:里克·托尔莫赛道（Cheste\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/val.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/val.jpg
 STATUS:CONFIRMED
@@ -3472,7 +3472,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-val-q@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261128T095000Z
 DTEND:20261128T103000Z
 SUMMARY:🇪🇸 MotoGP 瓦伦西亚站 · 排位赛 Qualifying
@@ -3481,13 +3481,13 @@ DESCRIPTION:官方场次：Qualifying Nr. 2 \n地点：里克·托尔莫
  E/MADRID)\n北京时间：11-28 17:50 (UTC+8)\n时长：40 分钟\n官
  方页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 
  官方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motog
- p-ical/img/badge/moto/val.jpg?v=2\n官方主视觉：https://butlerzou-b
- ot.github.io/f1-motogp-ical/img/moto/val.jpg
+ p-ical/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.g
+ ithub.io/f1-motogp-ical/img/moto/val.jpg
 LOCATION:里克·托尔莫赛道（Cheste\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/val.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/val.jpg
 STATUS:CONFIRMED
@@ -3495,7 +3495,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-val-spr@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261128T140000Z
 DTEND:20261128T143000Z
 SUMMARY:🇪🇸 MotoGP 瓦伦西亚站 · 冲刺赛 Sprint
@@ -3504,13 +3504,13 @@ DESCRIPTION:官方场次：Tissot Sprint\n地点：里克·托尔莫赛
  ADRID)\n北京时间：11-28 22:00 (UTC+8)\n时长：30 分钟\n官方
  页面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官
  方赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-i
- cal/img/badge/moto/val.jpg?v=2\n官方主视觉：https://butlerzou-bot.
- github.io/f1-motogp-ical/img/moto/val.jpg
+ cal/img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.gith
+ ub.io/f1-motogp-ical/img/moto/val.jpg
 LOCATION:里克·托尔莫赛道（Cheste\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/val.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/val.jpg
 STATUS:CONFIRMED
@@ -3518,7 +3518,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-val-wup@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261129T084000Z
 DTEND:20261129T085000Z
 SUMMARY:🇪🇸 MotoGP 瓦伦西亚站 · 热身赛 Warm Up
@@ -3527,13 +3527,13 @@ DESCRIPTION:官方场次：Warm Up\n地点：里克·托尔莫赛道（Ch
  北京时间：11-29 16:40 (UTC+8)\n时长：10 分钟\n官方页面：h
  ttps://www.motogp.com/en/calendar\n数据来源：MotoGP 官方赛事 AP
  I\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical/img/badg
- e/moto/val.jpg?v=2\n官方主视觉：https://butlerzou-bot.github.io/f1
- -motogp-ical/img/moto/val.jpg
+ e/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.io/f1-mot
+ ogp-ical/img/moto/val.jpg
 LOCATION:里克·托尔莫赛道（Cheste\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/val.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/val.jpg
 STATUS:CONFIRMED
@@ -3541,7 +3541,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:motogp-2026-val-rac@racing.multica.ai
-DTSTAMP:20261026T105728Z
+DTSTAMP:20261026T114747Z
 DTSTART:20261129T130000Z
 DTEND:20261129T150000Z
 SUMMARY:🇪🇸 MotoGP 瓦伦西亚站 · 正赛 Race
@@ -3550,13 +3550,13 @@ DESCRIPTION:官方场次：Grand Prix\n地点：里克·托尔莫赛道
  ID)\n北京时间：11-29 21:00 (UTC+8)\n时长：120 分钟\n官方页
  面：https://www.motogp.com/en/calendar\n数据来源：MotoGP 官方
  赛事 API\n赛事 logo：https://butlerzou-bot.github.io/f1-motogp-ical
- /img/badge/moto/val.jpg?v=2\n官方主视觉：https://butlerzou-bot.git
- hub.io/f1-motogp-ical/img/moto/val.jpg
+ /img/badge/moto.jpg?v=3\n官方主视觉：https://butlerzou-bot.github.
+ io/f1-motogp-ical/img/moto/val.jpg
 LOCATION:里克·托尔莫赛道（Cheste\, Spain）
 URL:https://www.motogp.com/en/calendar
 CATEGORIES:MotoGP
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/moto/val.jpg?v=2
+ togp-ical/img/badge/moto.jpg?v=3
 ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
  togp-ical/img/moto/val.jpg
 STATUS:CONFIRMED
