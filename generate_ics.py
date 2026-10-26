@@ -101,6 +101,14 @@ MOTO_FLAG = {
 # 赛事图片托管地址（GitHub Pages）
 IMAGE_BASE = "https://butlerzou-bot.github.io/f1-motogp-ical"
 
+# 标题里的系列字标：iOS 日历的标题只能放 Unicode 文本，系统 emoji 字体里没有
+# F1 / MotoGP 的图形，也没法在 iPhone 上装自定义 emoji 字体，所以用 Unicode
+# 数学字母（无衬线粗斜体）排一个和官方 wordmark 一样形状的字标，放在国旗前面。
+F1_WORDMARK = "\U0001D641\U0001D7ED"                       # 𝙁𝟭
+MOTO_WORDMARK = ("\U0001D648\U0001D64A\U0001D64F"
+                 "\U0001D64A\U0001D642\U0001D64B")         # 𝙈𝙊𝙏𝙊𝙂𝙋
+WORDMARK = {"F1": F1_WORDMARK, "MotoGP": MOTO_WORDMARK}
+
 # 「赛事 logo」徽标：官方没有每站专属字标，用系列官方 wordmark 做方图
 # （img/badge/f1.jpg、img/badge/moto.jpg，由 fetch_logos.py 生成）
 BADGE_VERSION = 3   # 徽标图版本号，URL 上带 ?v=N 以便客户端刷新缓存
@@ -232,7 +240,7 @@ def load_f1():
             flag = F1_FLAG.get(slug, "")
             events.append({
                 "uid": f"f1-2026-{slug}-{key.lower().replace(' ', '-')}@racing.multica.ai",
-                "summary": f"{flag} F1 {gp_name} · {cn_session}".strip(),
+                "summary": f"{WORDMARK['F1']} {flag} {gp_name} · {cn_session}".strip(),
                 "start": start,
                 "end": end,
                 "location": circuit,
@@ -296,7 +304,7 @@ def load_motogp():
             flag = MOTO_FLAG.get(short, "")
             events.append({
                 "uid": f"motogp-2026-{short}-{code.lower()}@racing.multica.ai",
-                "summary": f"{flag} MotoGP {cn_name} · {MOTO_SESSION_CN[code]}".strip(),
+                "summary": f"{WORDMARK['MotoGP']} {flag} {cn_name} · {MOTO_SESSION_CN[code]}".strip(),
                 "start": start,
                 "end": end,
                 "location": loc,
@@ -360,15 +368,8 @@ def build_ics(events, cal_name, description, color, now):
     L.append("END:VTIMEZONE")
 
     for e in events:
-        # 图片链接放最前面：iOS 日历 App 不渲染订阅日历的 ATTACH 图片，
-        # 但备注里的链接可点，Safari 里能直接看到 logo / 官方主视觉
-        pics = ""
-        if e.get("logo"):
-            pics += f"\n赛事 logo（点开看大图）：{e['logo']}"
-        if e.get("image"):
-            pics += f"\n官方主视觉（点开看大图）：{e['image']}"
+        # 备注里只放赛事信息，logo / 主视觉不放这里（系列字标已进标题）
         desc = (
-            f"{pics}\n"
             f"{e['extra']}\n"
             f"地点：{e['location']}\n"
             f"赛道当地时间：{local_str(e['start'], e['tz'], '%Y-%m-%d %H:%M')} ({e['tzname']})\n"

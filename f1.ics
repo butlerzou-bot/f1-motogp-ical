@@ -22,14 +22,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:f1-2026-australia-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260306T013000Z
 DTEND:20260306T023000Z
-SUMMARY:🇦🇺 F1 澳大利亚站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/austra
- lia.jpg\n场次类型：Practice 1\n地点：墨尔本 · 阿尔伯特
+SUMMARY:𝙁𝟭 🇦🇺 澳大利亚站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：墨尔本 · 阿尔伯特
  公园赛道\n赛道当地时间：2026-03-06 12:30 (Australia/Melbourne
  )\n北京时间：03-06 09:30 (UTC+8)\n时长：60 分钟\n官方页面
  ：https://www.formula1.com/en/racing/2026/australia\n数据来源：for
@@ -46,14 +43,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-australia-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260306T050000Z
 DTEND:20260306T060000Z
-SUMMARY:🇦🇺 F1 澳大利亚站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/austra
- lia.jpg\n场次类型：Practice 2\n地点：墨尔本 · 阿尔伯特
+SUMMARY:𝙁𝟭 🇦🇺 澳大利亚站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：墨尔本 · 阿尔伯特
  公园赛道\n赛道当地时间：2026-03-06 16:00 (Australia/Melbourne
  )\n北京时间：03-06 13:00 (UTC+8)\n时长：60 分钟\n官方页面
  ：https://www.formula1.com/en/racing/2026/australia\n数据来源：for
@@ -70,14 +64,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-australia-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260307T013000Z
 DTEND:20260307T023000Z
-SUMMARY:🇦🇺 F1 澳大利亚站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/austra
- lia.jpg\n场次类型：Practice 3\n地点：墨尔本 · 阿尔伯特
+SUMMARY:𝙁𝟭 🇦🇺 澳大利亚站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：墨尔本 · 阿尔伯特
  公园赛道\n赛道当地时间：2026-03-07 12:30 (Australia/Melbourne
  )\n北京时间：03-07 09:30 (UTC+8)\n时长：60 分钟\n官方页面
  ：https://www.formula1.com/en/racing/2026/australia\n数据来源：for
@@ -94,14 +85,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-australia-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260307T050000Z
 DTEND:20260307T060000Z
-SUMMARY:🇦🇺 F1 澳大利亚站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/austra
- lia.jpg\n场次类型：Qualifying\n地点：墨尔本 · 阿尔伯特
+SUMMARY:𝙁𝟭 🇦🇺 澳大利亚站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：墨尔本 · 阿尔伯特
  公园赛道\n赛道当地时间：2026-03-07 16:00 (Australia/Melbourne
  )\n北京时间：03-07 13:00 (UTC+8)\n时长：60 分钟\n官方页面
  ：https://www.formula1.com/en/racing/2026/australia\n数据来源：for
@@ -118,14 +106,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-australia-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260308T040000Z
 DTEND:20260308T060000Z
-SUMMARY:🇦🇺 F1 澳大利亚站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/austra
- lia.jpg\n场次类型：Race\n地点：墨尔本 · 阿尔伯特公园
+SUMMARY:𝙁𝟭 🇦🇺 澳大利亚站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：墨尔本 · 阿尔伯特公园
  赛道\n赛道当地时间：2026-03-08 15:00 (Australia/Melbourne)\n北
  京时间：03-08 12:00 (UTC+8)\n时长：120 分钟\n官方页面：htt
  ps://www.formula1.com/en/racing/2026/australia\n数据来源：formula1.
@@ -142,39 +127,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-china-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260313T033000Z
 DTEND:20260313T043000Z
-SUMMARY:🇨🇳 F1 中国站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/china.
- jpg\n场次类型：Practice 1\n地点：上海国际赛车场\n赛道
- 当地时间：2026-03-13 11:30 (Asia/Shanghai)\n北京时间：03-13 11
- :30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com
- /en/racing/2026/china\n数据来源：formula1.com 官方赛历
-LOCATION:上海国际赛车场
-URL:https://www.formula1.com/en/racing/2026/china
-CATEGORIES:F1
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/f1.jpg?v=3
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/f1/china.jpg
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:f1-2026-china-sprint-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
-DTSTART:20260313T073000Z
-DTEND:20260313T081400Z
-SUMMARY:🇨🇳 F1 中国站 · 冲刺排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/china.
- jpg\n场次类型：Sprint Qualifying\n地点：上海国际赛车场\n
- 赛道当地时间：2026-03-13 15:30 (Asia/Shanghai)\n北京时间：03
- -13 15:30 (UTC+8)\n时长：44 分钟\n官方页面：https://www.formul
+SUMMARY:𝙁𝟭 🇨🇳 中国站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：上海国际赛车场\n
+ 赛道当地时间：2026-03-13 11:30 (Asia/Shanghai)\n北京时间：03
+ -13 11:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formul
  a1.com/en/racing/2026/china\n数据来源：formula1.com 官方赛历
 LOCATION:上海国际赛车场
 URL:https://www.formula1.com/en/racing/2026/china
@@ -187,18 +146,16 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f1-2026-china-sprint@racing.multica.ai
-DTSTAMP:20261026T120514Z
-DTSTART:20260314T030000Z
-DTEND:20260314T040000Z
-SUMMARY:🇨🇳 F1 中国站 · 冲刺赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/china.
- jpg\n场次类型：Sprint\n地点：上海国际赛车场\n赛道当地
- 时间：2026-03-14 11:00 (Asia/Shanghai)\n北京时间：03-14 11:00 (U
- TC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/ra
- cing/2026/china\n数据来源：formula1.com 官方赛历
+UID:f1-2026-china-sprint-qualifying@racing.multica.ai
+DTSTAMP:20261026T121936Z
+DTSTART:20260313T073000Z
+DTEND:20260313T081400Z
+SUMMARY:𝙁𝟭 🇨🇳 中国站 · 冲刺排位赛
+DESCRIPTION:场次类型：Sprint Qualifying\n地点：上海国际赛车
+ 场\n赛道当地时间：2026-03-13 15:30 (Asia/Shanghai)\n北京时间
+ ：03-13 15:30 (UTC+8)\n时长：44 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/china\n数据来源：formula1.com 官方赛
+ 历
 LOCATION:上海国际赛车场
 URL:https://www.formula1.com/en/racing/2026/china
 CATEGORIES:F1
@@ -210,16 +167,13 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f1-2026-china-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
-DTSTART:20260314T070000Z
-DTEND:20260314T080000Z
-SUMMARY:🇨🇳 F1 中国站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/china.
- jpg\n场次类型：Qualifying\n地点：上海国际赛车场\n赛道
- 当地时间：2026-03-14 15:00 (Asia/Shanghai)\n北京时间：03-14 15
+UID:f1-2026-china-sprint@racing.multica.ai
+DTSTAMP:20261026T121936Z
+DTSTART:20260314T030000Z
+DTEND:20260314T040000Z
+SUMMARY:𝙁𝟭 🇨🇳 中国站 · 冲刺赛
+DESCRIPTION:场次类型：Sprint\n地点：上海国际赛车场\n赛道
+ 当地时间：2026-03-14 11:00 (Asia/Shanghai)\n北京时间：03-14 11
  :00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com
  /en/racing/2026/china\n数据来源：formula1.com 官方赛历
 LOCATION:上海国际赛车场
@@ -233,18 +187,35 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:f1-2026-china-qualifying@racing.multica.ai
+DTSTAMP:20261026T121936Z
+DTSTART:20260314T070000Z
+DTEND:20260314T080000Z
+SUMMARY:𝙁𝟭 🇨🇳 中国站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：上海国际赛车场\n
+ 赛道当地时间：2026-03-14 15:00 (Asia/Shanghai)\n北京时间：03
+ -14 15:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formul
+ a1.com/en/racing/2026/china\n数据来源：formula1.com 官方赛历
+LOCATION:上海国际赛车场
+URL:https://www.formula1.com/en/racing/2026/china
+CATEGORIES:F1
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/badge/f1.jpg?v=3
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/f1/china.jpg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:f1-2026-china-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260315T070000Z
 DTEND:20260315T090000Z
-SUMMARY:🇨🇳 F1 中国站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/china.
- jpg\n场次类型：Race\n地点：上海国际赛车场\n赛道当地
- 时间：2026-03-15 15:00 (Asia/Shanghai)\n北京时间：03-15 15:00 (U
- TC+8)\n时长：120 分钟\n官方页面：https://www.formula1.com/en/r
- acing/2026/china\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇨🇳 中国站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：上海国际赛车场\n赛道
+ 当地时间：2026-03-15 15:00 (Asia/Shanghai)\n北京时间：03-15 15
+ :00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1.co
+ m/en/racing/2026/china\n数据来源：formula1.com 官方赛历
 LOCATION:上海国际赛车场
 URL:https://www.formula1.com/en/racing/2026/china
 CATEGORIES:F1
@@ -257,17 +228,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-japan-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260327T023000Z
 DTEND:20260327T033000Z
-SUMMARY:🇯🇵 F1 日本站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/japan.
- jpg\n场次类型：Practice 1\n地点：铃鹿赛道\n赛道当地时
- 间：2026-03-27 11:30 (Asia/Tokyo)\n北京时间：03-27 10:30 (UTC+8)\
- n时长：60 分钟\n官方页面：https://www.formula1.com/en/racing/2
- 026/japan\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇯🇵 日本站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：铃鹿赛道\n赛道当
+ 地时间：2026-03-27 11:30 (Asia/Tokyo)\n北京时间：03-27 10:30 (U
+ TC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/ra
+ cing/2026/japan\n数据来源：formula1.com 官方赛历
 LOCATION:铃鹿赛道
 URL:https://www.formula1.com/en/racing/2026/japan
 CATEGORIES:F1
@@ -280,17 +248,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-japan-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260327T060000Z
 DTEND:20260327T070000Z
-SUMMARY:🇯🇵 F1 日本站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/japan.
- jpg\n场次类型：Practice 2\n地点：铃鹿赛道\n赛道当地时
- 间：2026-03-27 15:00 (Asia/Tokyo)\n北京时间：03-27 14:00 (UTC+8)\
- n时长：60 分钟\n官方页面：https://www.formula1.com/en/racing/2
- 026/japan\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇯🇵 日本站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：铃鹿赛道\n赛道当
+ 地时间：2026-03-27 15:00 (Asia/Tokyo)\n北京时间：03-27 14:00 (U
+ TC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/ra
+ cing/2026/japan\n数据来源：formula1.com 官方赛历
 LOCATION:铃鹿赛道
 URL:https://www.formula1.com/en/racing/2026/japan
 CATEGORIES:F1
@@ -303,17 +268,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-japan-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260328T023000Z
 DTEND:20260328T033000Z
-SUMMARY:🇯🇵 F1 日本站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/japan.
- jpg\n场次类型：Practice 3\n地点：铃鹿赛道\n赛道当地时
- 间：2026-03-28 11:30 (Asia/Tokyo)\n北京时间：03-28 10:30 (UTC+8)\
- n时长：60 分钟\n官方页面：https://www.formula1.com/en/racing/2
- 026/japan\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇯🇵 日本站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：铃鹿赛道\n赛道当
+ 地时间：2026-03-28 11:30 (Asia/Tokyo)\n北京时间：03-28 10:30 (U
+ TC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/ra
+ cing/2026/japan\n数据来源：formula1.com 官方赛历
 LOCATION:铃鹿赛道
 URL:https://www.formula1.com/en/racing/2026/japan
 CATEGORIES:F1
@@ -326,17 +288,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-japan-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260328T060000Z
 DTEND:20260328T070000Z
-SUMMARY:🇯🇵 F1 日本站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/japan.
- jpg\n场次类型：Qualifying\n地点：铃鹿赛道\n赛道当地时
- 间：2026-03-28 15:00 (Asia/Tokyo)\n北京时间：03-28 14:00 (UTC+8)\
- n时长：60 分钟\n官方页面：https://www.formula1.com/en/racing/2
- 026/japan\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇯🇵 日本站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：铃鹿赛道\n赛道当
+ 地时间：2026-03-28 15:00 (Asia/Tokyo)\n北京时间：03-28 14:00 (U
+ TC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/ra
+ cing/2026/japan\n数据来源：formula1.com 官方赛历
 LOCATION:铃鹿赛道
 URL:https://www.formula1.com/en/racing/2026/japan
 CATEGORIES:F1
@@ -349,17 +308,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-japan-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260329T050000Z
 DTEND:20260329T070000Z
-SUMMARY:🇯🇵 F1 日本站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/japan.
- jpg\n场次类型：Race\n地点：铃鹿赛道\n赛道当地时间：20
- 26-03-29 14:00 (Asia/Tokyo)\n北京时间：03-29 13:00 (UTC+8)\n时长
- ：120 分钟\n官方页面：https://www.formula1.com/en/racing/2026/ja
- pan\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇯🇵 日本站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：铃鹿赛道\n赛道当地时
+ 间：2026-03-29 14:00 (Asia/Tokyo)\n北京时间：03-29 13:00 (UTC+8)\
+ n时长：120 分钟\n官方页面：https://www.formula1.com/en/racing/
+ 2026/japan\n数据来源：formula1.com 官方赛历
 LOCATION:铃鹿赛道
 URL:https://www.formula1.com/en/racing/2026/japan
 CATEGORIES:F1
@@ -372,39 +328,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-miami-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260501T160000Z
 DTEND:20260501T173000Z
-SUMMARY:🇺🇸 F1 美国迈阿密站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/miami.
- jpg\n场次类型：Practice 1\n地点：迈阿密花园赛道\n赛道
- 当地时间：2026-05-01 12:00 (America/New_York)\n北京时间：05-02
-  00:00 (UTC+8)\n时长：90 分钟\n官方页面：https://www.formula1.
- com/en/racing/2026/miami\n数据来源：formula1.com 官方赛历
-LOCATION:迈阿密花园赛道
-URL:https://www.formula1.com/en/racing/2026/miami
-CATEGORIES:F1
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/f1.jpg?v=3
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/f1/miami.jpg
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:f1-2026-miami-sprint-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
-DTSTART:20260501T203000Z
-DTEND:20260501T211400Z
-SUMMARY:🇺🇸 F1 美国迈阿密站 · 冲刺排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/miami.
- jpg\n场次类型：Sprint Qualifying\n地点：迈阿密花园赛道\n
- 赛道当地时间：2026-05-01 16:30 (America/New_York)\n北京时间
- ：05-02 04:30 (UTC+8)\n时长：44 分钟\n官方页面：https://www.f
+SUMMARY:𝙁𝟭 🇺🇸 美国迈阿密站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：迈阿密花园赛道\n
+ 赛道当地时间：2026-05-01 12:00 (America/New_York)\n北京时间
+ ：05-02 00:00 (UTC+8)\n时长：90 分钟\n官方页面：https://www.f
  ormula1.com/en/racing/2026/miami\n数据来源：formula1.com 官方赛
  历
 LOCATION:迈阿密花园赛道
@@ -418,18 +348,16 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f1-2026-miami-sprint@racing.multica.ai
-DTSTAMP:20261026T120514Z
-DTSTART:20260502T160000Z
-DTEND:20260502T170000Z
-SUMMARY:🇺🇸 F1 美国迈阿密站 · 冲刺赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/miami.
- jpg\n场次类型：Sprint\n地点：迈阿密花园赛道\n赛道当地
- 时间：2026-05-02 12:00 (America/New_York)\n北京时间：05-03 00:00
-  (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en
- /racing/2026/miami\n数据来源：formula1.com 官方赛历
+UID:f1-2026-miami-sprint-qualifying@racing.multica.ai
+DTSTAMP:20261026T121936Z
+DTSTART:20260501T203000Z
+DTEND:20260501T211400Z
+SUMMARY:𝙁𝟭 🇺🇸 美国迈阿密站 · 冲刺排位赛
+DESCRIPTION:场次类型：Sprint Qualifying\n地点：迈阿密花园赛
+ 道\n赛道当地时间：2026-05-01 16:30 (America/New_York)\n北京时
+ 间：05-02 04:30 (UTC+8)\n时长：44 分钟\n官方页面：https://ww
+ w.formula1.com/en/racing/2026/miami\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:迈阿密花园赛道
 URL:https://www.formula1.com/en/racing/2026/miami
 CATEGORIES:F1
@@ -441,17 +369,14 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:f1-2026-miami-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
-DTSTART:20260502T200000Z
-DTEND:20260502T210000Z
-SUMMARY:🇺🇸 F1 美国迈阿密站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/miami.
- jpg\n场次类型：Qualifying\n地点：迈阿密花园赛道\n赛道
- 当地时间：2026-05-02 16:00 (America/New_York)\n北京时间：05-03
-  04:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.
+UID:f1-2026-miami-sprint@racing.multica.ai
+DTSTAMP:20261026T121936Z
+DTSTART:20260502T160000Z
+DTEND:20260502T170000Z
+SUMMARY:𝙁𝟭 🇺🇸 美国迈阿密站 · 冲刺赛
+DESCRIPTION:场次类型：Sprint\n地点：迈阿密花园赛道\n赛道
+ 当地时间：2026-05-02 12:00 (America/New_York)\n北京时间：05-03
+  00:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.
  com/en/racing/2026/miami\n数据来源：formula1.com 官方赛历
 LOCATION:迈阿密花园赛道
 URL:https://www.formula1.com/en/racing/2026/miami
@@ -464,18 +389,36 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:f1-2026-miami-qualifying@racing.multica.ai
+DTSTAMP:20261026T121936Z
+DTSTART:20260502T200000Z
+DTEND:20260502T210000Z
+SUMMARY:𝙁𝟭 🇺🇸 美国迈阿密站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：迈阿密花园赛道\n
+ 赛道当地时间：2026-05-02 16:00 (America/New_York)\n北京时间
+ ：05-03 04:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/miami\n数据来源：formula1.com 官方赛
+ 历
+LOCATION:迈阿密花园赛道
+URL:https://www.formula1.com/en/racing/2026/miami
+CATEGORIES:F1
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/badge/f1.jpg?v=3
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/f1/miami.jpg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:f1-2026-miami-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260503T170000Z
 DTEND:20260503T190000Z
-SUMMARY:🇺🇸 F1 美国迈阿密站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/miami.
- jpg\n场次类型：Race\n地点：迈阿密花园赛道\n赛道当地
- 时间：2026-05-03 13:00 (America/New_York)\n北京时间：05-04 01:00
-  (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1.com/e
- n/racing/2026/miami\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇺🇸 美国迈阿密站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：迈阿密花园赛道\n赛道
+ 当地时间：2026-05-03 13:00 (America/New_York)\n北京时间：05-04
+  01:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1
+ .com/en/racing/2026/miami\n数据来源：formula1.com 官方赛历
 LOCATION:迈阿密花园赛道
 URL:https://www.formula1.com/en/racing/2026/miami
 CATEGORIES:F1
@@ -488,40 +431,13 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-canada-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260522T163000Z
 DTEND:20260522T173000Z
-SUMMARY:🇨🇦 F1 加拿大站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/canada
- .jpg\n场次类型：Practice 1\n地点：蒙特利尔 · 吉尔·维伦
- 纽夫赛道\n赛道当地时间：2026-05-22 12:30 (America/Toronto)\n
- 北京时间：05-23 00:30 (UTC+8)\n时长：60 分钟\n官方页面：h
- ttps://www.formula1.com/en/racing/2026/canada\n数据来源：formula1.c
- om 官方赛历
-LOCATION:蒙特利尔 · 吉尔·维伦纽夫赛道
-URL:https://www.formula1.com/en/racing/2026/canada
-CATEGORIES:F1
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/f1.jpg?v=3
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/f1/canada.jpg
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:f1-2026-canada-sprint-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
-DTSTART:20260522T203000Z
-DTEND:20260522T211400Z
-SUMMARY:🇨🇦 F1 加拿大站 · 冲刺排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/canada
- .jpg\n场次类型：Sprint Qualifying\n地点：蒙特利尔 · 吉尔
- ·维伦纽夫赛道\n赛道当地时间：2026-05-22 16:30 (America/Tor
- onto)\n北京时间：05-23 04:30 (UTC+8)\n时长：44 分钟\n官方页
+SUMMARY:𝙁𝟭 🇨🇦 加拿大站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：蒙特利尔 · 吉尔·
+ 维伦纽夫赛道\n赛道当地时间：2026-05-22 12:30 (America/Toron
+ to)\n北京时间：05-23 00:30 (UTC+8)\n时长：60 分钟\n官方页
  面：https://www.formula1.com/en/racing/2026/canada\n数据来源：for
  mula1.com 官方赛历
 LOCATION:蒙特利尔 · 吉尔·维伦纽夫赛道
@@ -535,19 +451,37 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:f1-2026-canada-sprint-qualifying@racing.multica.ai
+DTSTAMP:20261026T121936Z
+DTSTART:20260522T203000Z
+DTEND:20260522T211400Z
+SUMMARY:𝙁𝟭 🇨🇦 加拿大站 · 冲刺排位赛
+DESCRIPTION:场次类型：Sprint Qualifying\n地点：蒙特利尔 · 
+ 吉尔·维伦纽夫赛道\n赛道当地时间：2026-05-22 16:30 (Ameri
+ ca/Toronto)\n北京时间：05-23 04:30 (UTC+8)\n时长：44 分钟\n官
+ 方页面：https://www.formula1.com/en/racing/2026/canada\n数据来源
+ ：formula1.com 官方赛历
+LOCATION:蒙特利尔 · 吉尔·维伦纽夫赛道
+URL:https://www.formula1.com/en/racing/2026/canada
+CATEGORIES:F1
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/badge/f1.jpg?v=3
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/f1/canada.jpg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:f1-2026-canada-sprint@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260523T160000Z
 DTEND:20260523T170000Z
-SUMMARY:🇨🇦 F1 加拿大站 · 冲刺赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/canada
- .jpg\n场次类型：Sprint\n地点：蒙特利尔 · 吉尔·维伦纽
- 夫赛道\n赛道当地时间：2026-05-23 12:00 (America/Toronto)\n北
- 京时间：05-24 00:00 (UTC+8)\n时长：60 分钟\n官方页面：http
- s://www.formula1.com/en/racing/2026/canada\n数据来源：formula1.com 
- 官方赛历
+SUMMARY:𝙁𝟭 🇨🇦 加拿大站 · 冲刺赛
+DESCRIPTION:场次类型：Sprint\n地点：蒙特利尔 · 吉尔·维
+ 伦纽夫赛道\n赛道当地时间：2026-05-23 12:00 (America/Toronto)
+ \n北京时间：05-24 00:00 (UTC+8)\n时长：60 分钟\n官方页面
+ ：https://www.formula1.com/en/racing/2026/canada\n数据来源：formul
+ a1.com 官方赛历
 LOCATION:蒙特利尔 · 吉尔·维伦纽夫赛道
 URL:https://www.formula1.com/en/racing/2026/canada
 CATEGORIES:F1
@@ -560,18 +494,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-canada-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260523T200000Z
 DTEND:20260523T210000Z
-SUMMARY:🇨🇦 F1 加拿大站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/canada
- .jpg\n场次类型：Qualifying\n地点：蒙特利尔 · 吉尔·维伦
- 纽夫赛道\n赛道当地时间：2026-05-23 16:00 (America/Toronto)\n
- 北京时间：05-24 04:00 (UTC+8)\n时长：60 分钟\n官方页面：h
- ttps://www.formula1.com/en/racing/2026/canada\n数据来源：formula1.c
- om 官方赛历
+SUMMARY:𝙁𝟭 🇨🇦 加拿大站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：蒙特利尔 · 吉尔·
+ 维伦纽夫赛道\n赛道当地时间：2026-05-23 16:00 (America/Toron
+ to)\n北京时间：05-24 04:00 (UTC+8)\n时长：60 分钟\n官方页
+ 面：https://www.formula1.com/en/racing/2026/canada\n数据来源：for
+ mula1.com 官方赛历
 LOCATION:蒙特利尔 · 吉尔·维伦纽夫赛道
 URL:https://www.formula1.com/en/racing/2026/canada
 CATEGORIES:F1
@@ -584,18 +515,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-canada-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260524T200000Z
 DTEND:20260524T220000Z
-SUMMARY:🇨🇦 F1 加拿大站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/canada
- .jpg\n场次类型：Race\n地点：蒙特利尔 · 吉尔·维伦纽夫
- 赛道\n赛道当地时间：2026-05-24 16:00 (America/Toronto)\n北京
- 时间：05-25 04:00 (UTC+8)\n时长：120 分钟\n官方页面：https:
- //www.formula1.com/en/racing/2026/canada\n数据来源：formula1.com 
- 官方赛历
+SUMMARY:𝙁𝟭 🇨🇦 加拿大站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：蒙特利尔 · 吉尔·维伦
+ 纽夫赛道\n赛道当地时间：2026-05-24 16:00 (America/Toronto)\n
+ 北京时间：05-25 04:00 (UTC+8)\n时长：120 分钟\n官方页面：
+ https://www.formula1.com/en/racing/2026/canada\n数据来源：formula1.
+ com 官方赛历
 LOCATION:蒙特利尔 · 吉尔·维伦纽夫赛道
 URL:https://www.formula1.com/en/racing/2026/canada
 CATEGORIES:F1
@@ -608,17 +536,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-monaco-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260605T113000Z
 DTEND:20260605T123000Z
-SUMMARY:🇲🇨 F1 摩纳哥站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/monaco
- .jpg\n场次类型：Practice 1\n地点：蒙特卡洛赛道\n赛道当
- 地时间：2026-06-05 13:30 (Europe/Monaco)\n北京时间：06-05 19:30
-  (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en
- /racing/2026/monaco\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇨 摩纳哥站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：蒙特卡洛赛道\n赛
+ 道当地时间：2026-06-05 13:30 (Europe/Monaco)\n北京时间：06-05
+  19:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.
+ com/en/racing/2026/monaco\n数据来源：formula1.com 官方赛历
 LOCATION:蒙特卡洛赛道
 URL:https://www.formula1.com/en/racing/2026/monaco
 CATEGORIES:F1
@@ -631,17 +556,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-monaco-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260605T150000Z
 DTEND:20260605T160000Z
-SUMMARY:🇲🇨 F1 摩纳哥站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/monaco
- .jpg\n场次类型：Practice 2\n地点：蒙特卡洛赛道\n赛道当
- 地时间：2026-06-05 17:00 (Europe/Monaco)\n北京时间：06-05 23:00
-  (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en
- /racing/2026/monaco\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇨 摩纳哥站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：蒙特卡洛赛道\n赛
+ 道当地时间：2026-06-05 17:00 (Europe/Monaco)\n北京时间：06-05
+  23:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.
+ com/en/racing/2026/monaco\n数据来源：formula1.com 官方赛历
 LOCATION:蒙特卡洛赛道
 URL:https://www.formula1.com/en/racing/2026/monaco
 CATEGORIES:F1
@@ -654,17 +576,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-monaco-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260606T103000Z
 DTEND:20260606T113000Z
-SUMMARY:🇲🇨 F1 摩纳哥站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/monaco
- .jpg\n场次类型：Practice 3\n地点：蒙特卡洛赛道\n赛道当
- 地时间：2026-06-06 12:30 (Europe/Monaco)\n北京时间：06-06 18:30
-  (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en
- /racing/2026/monaco\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇨 摩纳哥站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：蒙特卡洛赛道\n赛
+ 道当地时间：2026-06-06 12:30 (Europe/Monaco)\n北京时间：06-06
+  18:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.
+ com/en/racing/2026/monaco\n数据来源：formula1.com 官方赛历
 LOCATION:蒙特卡洛赛道
 URL:https://www.formula1.com/en/racing/2026/monaco
 CATEGORIES:F1
@@ -677,17 +596,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-monaco-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260606T140000Z
 DTEND:20260606T150000Z
-SUMMARY:🇲🇨 F1 摩纳哥站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/monaco
- .jpg\n场次类型：Qualifying\n地点：蒙特卡洛赛道\n赛道当
- 地时间：2026-06-06 16:00 (Europe/Monaco)\n北京时间：06-06 22:00
-  (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en
- /racing/2026/monaco\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇨 摩纳哥站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：蒙特卡洛赛道\n赛
+ 道当地时间：2026-06-06 16:00 (Europe/Monaco)\n北京时间：06-06
+  22:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.
+ com/en/racing/2026/monaco\n数据来源：formula1.com 官方赛历
 LOCATION:蒙特卡洛赛道
 URL:https://www.formula1.com/en/racing/2026/monaco
 CATEGORIES:F1
@@ -700,17 +616,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-monaco-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260607T130000Z
 DTEND:20260607T150000Z
-SUMMARY:🇲🇨 F1 摩纳哥站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/monaco
- .jpg\n场次类型：Race\n地点：蒙特卡洛赛道\n赛道当地时
- 间：2026-06-07 15:00 (Europe/Monaco)\n北京时间：06-07 21:00 (UTC+
- 8)\n时长：120 分钟\n官方页面：https://www.formula1.com/en/raci
- ng/2026/monaco\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇨 摩纳哥站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：蒙特卡洛赛道\n赛道当
+ 地时间：2026-06-07 15:00 (Europe/Monaco)\n北京时间：06-07 21:00
+  (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1.com/e
+ n/racing/2026/monaco\n数据来源：formula1.com 官方赛历
 LOCATION:蒙特卡洛赛道
 URL:https://www.formula1.com/en/racing/2026/monaco
 CATEGORIES:F1
@@ -723,113 +636,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-barcelona-catalunya-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260612T113000Z
 DTEND:20260612T123000Z
-SUMMARY:🇪🇸 F1 巴塞罗那站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/barcel
- ona-catalunya.jpg\n场次类型：Practice 1\n地点：加泰罗尼亚
- 赛道\n赛道当地时间：2026-06-12 13:30 (Europe/Madrid)\n北京时
- 间：06-12 19:30 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
- w.formula1.com/en/racing/2026/barcelona-catalunya\n数据来源：formul
- a1.com 官方赛历
-LOCATION:加泰罗尼亚赛道
-URL:https://www.formula1.com/en/racing/2026/barcelona-catalunya
-CATEGORIES:F1
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/f1.jpg?v=3
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/f1/barcelona-catalunya.jpg
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:f1-2026-barcelona-catalunya-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
-DTSTART:20260612T150000Z
-DTEND:20260612T160000Z
-SUMMARY:🇪🇸 F1 巴塞罗那站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/barcel
- ona-catalunya.jpg\n场次类型：Practice 2\n地点：加泰罗尼亚
- 赛道\n赛道当地时间：2026-06-12 17:00 (Europe/Madrid)\n北京时
- 间：06-12 23:00 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
- w.formula1.com/en/racing/2026/barcelona-catalunya\n数据来源：formul
- a1.com 官方赛历
-LOCATION:加泰罗尼亚赛道
-URL:https://www.formula1.com/en/racing/2026/barcelona-catalunya
-CATEGORIES:F1
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/f1.jpg?v=3
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/f1/barcelona-catalunya.jpg
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:f1-2026-barcelona-catalunya-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
-DTSTART:20260613T103000Z
-DTEND:20260613T113000Z
-SUMMARY:🇪🇸 F1 巴塞罗那站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/barcel
- ona-catalunya.jpg\n场次类型：Practice 3\n地点：加泰罗尼亚
- 赛道\n赛道当地时间：2026-06-13 12:30 (Europe/Madrid)\n北京时
- 间：06-13 18:30 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
- w.formula1.com/en/racing/2026/barcelona-catalunya\n数据来源：formul
- a1.com 官方赛历
-LOCATION:加泰罗尼亚赛道
-URL:https://www.formula1.com/en/racing/2026/barcelona-catalunya
-CATEGORIES:F1
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/f1.jpg?v=3
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/f1/barcelona-catalunya.jpg
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:f1-2026-barcelona-catalunya-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
-DTSTART:20260613T140000Z
-DTEND:20260613T150000Z
-SUMMARY:🇪🇸 F1 巴塞罗那站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/barcel
- ona-catalunya.jpg\n场次类型：Qualifying\n地点：加泰罗尼亚
- 赛道\n赛道当地时间：2026-06-13 16:00 (Europe/Madrid)\n北京时
- 间：06-13 22:00 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
- w.formula1.com/en/racing/2026/barcelona-catalunya\n数据来源：formul
- a1.com 官方赛历
-LOCATION:加泰罗尼亚赛道
-URL:https://www.formula1.com/en/racing/2026/barcelona-catalunya
-CATEGORIES:F1
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/badge/f1.jpg?v=3
-ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
- togp-ical/img/f1/barcelona-catalunya.jpg
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:f1-2026-barcelona-catalunya-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
-DTSTART:20260614T130000Z
-DTEND:20260614T150000Z
-SUMMARY:🇪🇸 F1 巴塞罗那站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/barcel
- ona-catalunya.jpg\n场次类型：Race\n地点：加泰罗尼亚赛道\n
- 赛道当地时间：2026-06-14 15:00 (Europe/Madrid)\n北京时间：06
- -14 21:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formu
- la1.com/en/racing/2026/barcelona-catalunya\n数据来源：formula1.com 
+SUMMARY:𝙁𝟭 🇪🇸 巴塞罗那站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：加泰罗尼亚赛道\n
+ 赛道当地时间：2026-06-12 13:30 (Europe/Madrid)\n北京时间：06
+ -12 19:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formul
+ a1.com/en/racing/2026/barcelona-catalunya\n数据来源：formula1.com 
  官方赛历
 LOCATION:加泰罗尼亚赛道
 URL:https://www.formula1.com/en/racing/2026/barcelona-catalunya
@@ -842,18 +656,100 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+UID:f1-2026-barcelona-catalunya-practice-2@racing.multica.ai
+DTSTAMP:20261026T121936Z
+DTSTART:20260612T150000Z
+DTEND:20260612T160000Z
+SUMMARY:𝙁𝟭 🇪🇸 巴塞罗那站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：加泰罗尼亚赛道\n
+ 赛道当地时间：2026-06-12 17:00 (Europe/Madrid)\n北京时间：06
+ -12 23:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formul
+ a1.com/en/racing/2026/barcelona-catalunya\n数据来源：formula1.com 
+ 官方赛历
+LOCATION:加泰罗尼亚赛道
+URL:https://www.formula1.com/en/racing/2026/barcelona-catalunya
+CATEGORIES:F1
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/badge/f1.jpg?v=3
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/f1/barcelona-catalunya.jpg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-barcelona-catalunya-practice-3@racing.multica.ai
+DTSTAMP:20261026T121936Z
+DTSTART:20260613T103000Z
+DTEND:20260613T113000Z
+SUMMARY:𝙁𝟭 🇪🇸 巴塞罗那站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：加泰罗尼亚赛道\n
+ 赛道当地时间：2026-06-13 12:30 (Europe/Madrid)\n北京时间：06
+ -13 18:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formul
+ a1.com/en/racing/2026/barcelona-catalunya\n数据来源：formula1.com 
+ 官方赛历
+LOCATION:加泰罗尼亚赛道
+URL:https://www.formula1.com/en/racing/2026/barcelona-catalunya
+CATEGORIES:F1
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/badge/f1.jpg?v=3
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/f1/barcelona-catalunya.jpg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-barcelona-catalunya-qualifying@racing.multica.ai
+DTSTAMP:20261026T121936Z
+DTSTART:20260613T140000Z
+DTEND:20260613T150000Z
+SUMMARY:𝙁𝟭 🇪🇸 巴塞罗那站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：加泰罗尼亚赛道\n
+ 赛道当地时间：2026-06-13 16:00 (Europe/Madrid)\n北京时间：06
+ -13 22:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formul
+ a1.com/en/racing/2026/barcelona-catalunya\n数据来源：formula1.com 
+ 官方赛历
+LOCATION:加泰罗尼亚赛道
+URL:https://www.formula1.com/en/racing/2026/barcelona-catalunya
+CATEGORIES:F1
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/badge/f1.jpg?v=3
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/f1/barcelona-catalunya.jpg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-barcelona-catalunya-race@racing.multica.ai
+DTSTAMP:20261026T121936Z
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+SUMMARY:𝙁𝟭 🇪🇸 巴塞罗那站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：加泰罗尼亚赛道\n赛道
+ 当地时间：2026-06-14 15:00 (Europe/Madrid)\n北京时间：06-14 21
+ :00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1.co
+ m/en/racing/2026/barcelona-catalunya\n数据来源：formula1.com 官方
+ 赛历
+LOCATION:加泰罗尼亚赛道
+URL:https://www.formula1.com/en/racing/2026/barcelona-catalunya
+CATEGORIES:F1
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/badge/f1.jpg?v=3
+ATTACH;VALUE=URI;FMTTYPE=image/jpeg:https://butlerzou-bot.github.io/f1-mo
+ togp-ical/img/f1/barcelona-catalunya.jpg
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 UID:f1-2026-austria-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260626T113000Z
 DTEND:20260626T123000Z
-SUMMARY:🇦🇹 F1 奥地利站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/austri
- a.jpg\n场次类型：Practice 1\n地点：施皮尔贝格 · 红牛环\
- n赛道当地时间：2026-06-26 13:30 (Europe/Vienna)\n北京时间：0
- 6-26 19:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formu
- la1.com/en/racing/2026/austria\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇦🇹 奥地利站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：施皮尔贝格 · 红牛
+ 环\n赛道当地时间：2026-06-26 13:30 (Europe/Vienna)\n北京时间
+ ：06-26 19:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/austria\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:施皮尔贝格 · 红牛环
 URL:https://www.formula1.com/en/racing/2026/austria
 CATEGORIES:F1
@@ -866,17 +762,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-austria-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260626T150000Z
 DTEND:20260626T160000Z
-SUMMARY:🇦🇹 F1 奥地利站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/austri
- a.jpg\n场次类型：Practice 2\n地点：施皮尔贝格 · 红牛环\
- n赛道当地时间：2026-06-26 17:00 (Europe/Vienna)\n北京时间：0
- 6-26 23:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formu
- la1.com/en/racing/2026/austria\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇦🇹 奥地利站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：施皮尔贝格 · 红牛
+ 环\n赛道当地时间：2026-06-26 17:00 (Europe/Vienna)\n北京时间
+ ：06-26 23:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/austria\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:施皮尔贝格 · 红牛环
 URL:https://www.formula1.com/en/racing/2026/austria
 CATEGORIES:F1
@@ -889,17 +783,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-austria-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260627T103000Z
 DTEND:20260627T113000Z
-SUMMARY:🇦🇹 F1 奥地利站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/austri
- a.jpg\n场次类型：Practice 3\n地点：施皮尔贝格 · 红牛环\
- n赛道当地时间：2026-06-27 12:30 (Europe/Vienna)\n北京时间：0
- 6-27 18:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formu
- la1.com/en/racing/2026/austria\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇦🇹 奥地利站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：施皮尔贝格 · 红牛
+ 环\n赛道当地时间：2026-06-27 12:30 (Europe/Vienna)\n北京时间
+ ：06-27 18:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/austria\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:施皮尔贝格 · 红牛环
 URL:https://www.formula1.com/en/racing/2026/austria
 CATEGORIES:F1
@@ -912,17 +804,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-austria-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260627T140000Z
 DTEND:20260627T150000Z
-SUMMARY:🇦🇹 F1 奥地利站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/austri
- a.jpg\n场次类型：Qualifying\n地点：施皮尔贝格 · 红牛环\
- n赛道当地时间：2026-06-27 16:00 (Europe/Vienna)\n北京时间：0
- 6-27 22:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formu
- la1.com/en/racing/2026/austria\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇦🇹 奥地利站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：施皮尔贝格 · 红牛
+ 环\n赛道当地时间：2026-06-27 16:00 (Europe/Vienna)\n北京时间
+ ：06-27 22:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/austria\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:施皮尔贝格 · 红牛环
 URL:https://www.formula1.com/en/racing/2026/austria
 CATEGORIES:F1
@@ -935,17 +825,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-austria-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260628T130000Z
 DTEND:20260628T150000Z
-SUMMARY:🇦🇹 F1 奥地利站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/austri
- a.jpg\n场次类型：Race\n地点：施皮尔贝格 · 红牛环\n赛
- 道当地时间：2026-06-28 15:00 (Europe/Vienna)\n北京时间：06-28
-  21:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1
- .com/en/racing/2026/austria\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇦🇹 奥地利站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：施皮尔贝格 · 红牛环\n
+ 赛道当地时间：2026-06-28 15:00 (Europe/Vienna)\n北京时间：06
+ -28 21:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formu
+ la1.com/en/racing/2026/austria\n数据来源：formula1.com 官方赛历
 LOCATION:施皮尔贝格 · 红牛环
 URL:https://www.formula1.com/en/racing/2026/austria
 CATEGORIES:F1
@@ -958,14 +845,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-great-britain-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260703T113000Z
 DTEND:20260703T123000Z
-SUMMARY:🇬🇧 F1 英国站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/great-
- britain.jpg\n场次类型：Practice 1\n地点：银石赛道\n赛道当
+SUMMARY:𝙁𝟭 🇬🇧 英国站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：银石赛道\n赛道当
  地时间：2026-07-03 12:30 (Europe/London)\n北京时间：07-03 19:30
   (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en
  /racing/2026/great-britain\n数据来源：formula1.com 官方赛历
@@ -981,18 +865,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-great-britain-sprint-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260703T153000Z
 DTEND:20260703T161400Z
-SUMMARY:🇬🇧 F1 英国站 · 冲刺排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/great-
- britain.jpg\n场次类型：Sprint Qualifying\n地点：银石赛道\n
- 赛道当地时间：2026-07-03 16:30 (Europe/London)\n北京时间：07
- -03 23:30 (UTC+8)\n时长：44 分钟\n官方页面：https://www.formul
- a1.com/en/racing/2026/great-britain\n数据来源：formula1.com 官方
- 赛历
+SUMMARY:𝙁𝟭 🇬🇧 英国站 · 冲刺排位赛
+DESCRIPTION:场次类型：Sprint Qualifying\n地点：银石赛道\n赛
+ 道当地时间：2026-07-03 16:30 (Europe/London)\n北京时间：07-03
+  23:30 (UTC+8)\n时长：44 分钟\n官方页面：https://www.formula1.
+ com/en/racing/2026/great-britain\n数据来源：formula1.com 官方赛
+ 历
 LOCATION:银石赛道
 URL:https://www.formula1.com/en/racing/2026/great-britain
 CATEGORIES:F1
@@ -1005,17 +886,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-great-britain-sprint@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260704T110000Z
 DTEND:20260704T120000Z
-SUMMARY:🇬🇧 F1 英国站 · 冲刺赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/great-
- britain.jpg\n场次类型：Sprint\n地点：银石赛道\n赛道当地
- 时间：2026-07-04 12:00 (Europe/London)\n北京时间：07-04 19:00 (U
- TC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/ra
- cing/2026/great-britain\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇬🇧 英国站 · 冲刺赛
+DESCRIPTION:场次类型：Sprint\n地点：银石赛道\n赛道当地时
+ 间：2026-07-04 12:00 (Europe/London)\n北京时间：07-04 19:00 (UTC+
+ 8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/racin
+ g/2026/great-britain\n数据来源：formula1.com 官方赛历
 LOCATION:银石赛道
 URL:https://www.formula1.com/en/racing/2026/great-britain
 CATEGORIES:F1
@@ -1028,14 +906,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-great-britain-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260704T150000Z
 DTEND:20260704T160000Z
-SUMMARY:🇬🇧 F1 英国站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/great-
- britain.jpg\n场次类型：Qualifying\n地点：银石赛道\n赛道当
+SUMMARY:𝙁𝟭 🇬🇧 英国站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：银石赛道\n赛道当
  地时间：2026-07-04 16:00 (Europe/London)\n北京时间：07-04 23:00
   (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en
  /racing/2026/great-britain\n数据来源：formula1.com 官方赛历
@@ -1051,14 +926,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-great-britain-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260705T140000Z
 DTEND:20260705T160000Z
-SUMMARY:🇬🇧 F1 英国站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/great-
- britain.jpg\n场次类型：Race\n地点：银石赛道\n赛道当地时
+SUMMARY:𝙁𝟭 🇬🇧 英国站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：银石赛道\n赛道当地时
  间：2026-07-05 15:00 (Europe/London)\n北京时间：07-05 22:00 (UTC+
  8)\n时长：120 分钟\n官方页面：https://www.formula1.com/en/raci
  ng/2026/great-britain\n数据来源：formula1.com 官方赛历
@@ -1074,18 +946,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-belgium-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260717T113000Z
 DTEND:20260717T123000Z
-SUMMARY:🇧🇪 F1 比利时站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/belgiu
- m.jpg\n场次类型：Practice 1\n地点：斯帕-弗朗科尔尚赛道\
- n赛道当地时间：2026-07-17 13:30 (Europe/Brussels)\n北京时间
- ：07-17 19:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
- ormula1.com/en/racing/2026/belgium\n数据来源：formula1.com 官方
- 赛历
+SUMMARY:𝙁𝟭 🇧🇪 比利时站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：斯帕-弗朗科尔尚赛
+ 道\n赛道当地时间：2026-07-17 13:30 (Europe/Brussels)\n北京时
+ 间：07-17 19:30 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
+ w.formula1.com/en/racing/2026/belgium\n数据来源：formula1.com 官
+ 方赛历
 LOCATION:斯帕-弗朗科尔尚赛道
 URL:https://www.formula1.com/en/racing/2026/belgium
 CATEGORIES:F1
@@ -1098,18 +967,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-belgium-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260717T150000Z
 DTEND:20260717T160000Z
-SUMMARY:🇧🇪 F1 比利时站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/belgiu
- m.jpg\n场次类型：Practice 2\n地点：斯帕-弗朗科尔尚赛道\
- n赛道当地时间：2026-07-17 17:00 (Europe/Brussels)\n北京时间
- ：07-17 23:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
- ormula1.com/en/racing/2026/belgium\n数据来源：formula1.com 官方
- 赛历
+SUMMARY:𝙁𝟭 🇧🇪 比利时站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：斯帕-弗朗科尔尚赛
+ 道\n赛道当地时间：2026-07-17 17:00 (Europe/Brussels)\n北京时
+ 间：07-17 23:00 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
+ w.formula1.com/en/racing/2026/belgium\n数据来源：formula1.com 官
+ 方赛历
 LOCATION:斯帕-弗朗科尔尚赛道
 URL:https://www.formula1.com/en/racing/2026/belgium
 CATEGORIES:F1
@@ -1122,18 +988,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-belgium-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260718T103000Z
 DTEND:20260718T113000Z
-SUMMARY:🇧🇪 F1 比利时站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/belgiu
- m.jpg\n场次类型：Practice 3\n地点：斯帕-弗朗科尔尚赛道\
- n赛道当地时间：2026-07-18 12:30 (Europe/Brussels)\n北京时间
- ：07-18 18:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
- ormula1.com/en/racing/2026/belgium\n数据来源：formula1.com 官方
- 赛历
+SUMMARY:𝙁𝟭 🇧🇪 比利时站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：斯帕-弗朗科尔尚赛
+ 道\n赛道当地时间：2026-07-18 12:30 (Europe/Brussels)\n北京时
+ 间：07-18 18:30 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
+ w.formula1.com/en/racing/2026/belgium\n数据来源：formula1.com 官
+ 方赛历
 LOCATION:斯帕-弗朗科尔尚赛道
 URL:https://www.formula1.com/en/racing/2026/belgium
 CATEGORIES:F1
@@ -1146,18 +1009,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-belgium-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260718T140000Z
 DTEND:20260718T150000Z
-SUMMARY:🇧🇪 F1 比利时站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/belgiu
- m.jpg\n场次类型：Qualifying\n地点：斯帕-弗朗科尔尚赛道\
- n赛道当地时间：2026-07-18 16:00 (Europe/Brussels)\n北京时间
- ：07-18 22:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
- ormula1.com/en/racing/2026/belgium\n数据来源：formula1.com 官方
- 赛历
+SUMMARY:𝙁𝟭 🇧🇪 比利时站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：斯帕-弗朗科尔尚赛
+ 道\n赛道当地时间：2026-07-18 16:00 (Europe/Brussels)\n北京时
+ 间：07-18 22:00 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
+ w.formula1.com/en/racing/2026/belgium\n数据来源：formula1.com 官
+ 方赛历
 LOCATION:斯帕-弗朗科尔尚赛道
 URL:https://www.formula1.com/en/racing/2026/belgium
 CATEGORIES:F1
@@ -1170,17 +1030,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-belgium-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260719T130000Z
 DTEND:20260719T150000Z
-SUMMARY:🇧🇪 F1 比利时站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/belgiu
- m.jpg\n场次类型：Race\n地点：斯帕-弗朗科尔尚赛道\n赛
- 道当地时间：2026-07-19 15:00 (Europe/Brussels)\n北京时间：07-
- 19 21:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formul
- a1.com/en/racing/2026/belgium\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇧🇪 比利时站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：斯帕-弗朗科尔尚赛道\n
+ 赛道当地时间：2026-07-19 15:00 (Europe/Brussels)\n北京时间：
+ 07-19 21:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.for
+ mula1.com/en/racing/2026/belgium\n数据来源：formula1.com 官方赛
+ 历
 LOCATION:斯帕-弗朗科尔尚赛道
 URL:https://www.formula1.com/en/racing/2026/belgium
 CATEGORIES:F1
@@ -1193,17 +1051,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-hungary-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260724T113000Z
 DTEND:20260724T123000Z
-SUMMARY:🇭🇺 F1 匈牙利站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/hungar
- y.jpg\n场次类型：Practice 1\n地点：布达佩斯赛道\n赛道当
- 地时间：2026-07-24 13:30 (Europe/Budapest)\n北京时间：07-24 19:
- 30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/
- en/racing/2026/hungary\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇭🇺 匈牙利站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：布达佩斯赛道\n赛
+ 道当地时间：2026-07-24 13:30 (Europe/Budapest)\n北京时间：07-
+ 24 19:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula
+ 1.com/en/racing/2026/hungary\n数据来源：formula1.com 官方赛历
 LOCATION:布达佩斯赛道
 URL:https://www.formula1.com/en/racing/2026/hungary
 CATEGORIES:F1
@@ -1216,17 +1071,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-hungary-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260724T150000Z
 DTEND:20260724T160000Z
-SUMMARY:🇭🇺 F1 匈牙利站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/hungar
- y.jpg\n场次类型：Practice 2\n地点：布达佩斯赛道\n赛道当
- 地时间：2026-07-24 17:00 (Europe/Budapest)\n北京时间：07-24 23:
- 00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/
- en/racing/2026/hungary\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇭🇺 匈牙利站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：布达佩斯赛道\n赛
+ 道当地时间：2026-07-24 17:00 (Europe/Budapest)\n北京时间：07-
+ 24 23:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula
+ 1.com/en/racing/2026/hungary\n数据来源：formula1.com 官方赛历
 LOCATION:布达佩斯赛道
 URL:https://www.formula1.com/en/racing/2026/hungary
 CATEGORIES:F1
@@ -1239,17 +1091,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-hungary-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260725T103000Z
 DTEND:20260725T113000Z
-SUMMARY:🇭🇺 F1 匈牙利站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/hungar
- y.jpg\n场次类型：Practice 3\n地点：布达佩斯赛道\n赛道当
- 地时间：2026-07-25 12:30 (Europe/Budapest)\n北京时间：07-25 18:
- 30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/
- en/racing/2026/hungary\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇭🇺 匈牙利站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：布达佩斯赛道\n赛
+ 道当地时间：2026-07-25 12:30 (Europe/Budapest)\n北京时间：07-
+ 25 18:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula
+ 1.com/en/racing/2026/hungary\n数据来源：formula1.com 官方赛历
 LOCATION:布达佩斯赛道
 URL:https://www.formula1.com/en/racing/2026/hungary
 CATEGORIES:F1
@@ -1262,17 +1111,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-hungary-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260725T140000Z
 DTEND:20260725T150000Z
-SUMMARY:🇭🇺 F1 匈牙利站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/hungar
- y.jpg\n场次类型：Qualifying\n地点：布达佩斯赛道\n赛道当
- 地时间：2026-07-25 16:00 (Europe/Budapest)\n北京时间：07-25 22:
- 00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/
- en/racing/2026/hungary\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇭🇺 匈牙利站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：布达佩斯赛道\n赛
+ 道当地时间：2026-07-25 16:00 (Europe/Budapest)\n北京时间：07-
+ 25 22:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula
+ 1.com/en/racing/2026/hungary\n数据来源：formula1.com 官方赛历
 LOCATION:布达佩斯赛道
 URL:https://www.formula1.com/en/racing/2026/hungary
 CATEGORIES:F1
@@ -1285,17 +1131,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-hungary-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260726T130000Z
 DTEND:20260726T150000Z
-SUMMARY:🇭🇺 F1 匈牙利站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/hungar
- y.jpg\n场次类型：Race\n地点：布达佩斯赛道\n赛道当地时
- 间：2026-07-26 15:00 (Europe/Budapest)\n北京时间：07-26 21:00 (UT
- C+8)\n时长：120 分钟\n官方页面：https://www.formula1.com/en/ra
- cing/2026/hungary\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇭🇺 匈牙利站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：布达佩斯赛道\n赛道当
+ 地时间：2026-07-26 15:00 (Europe/Budapest)\n北京时间：07-26 21:
+ 00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1.com
+ /en/racing/2026/hungary\n数据来源：formula1.com 官方赛历
 LOCATION:布达佩斯赛道
 URL:https://www.formula1.com/en/racing/2026/hungary
 CATEGORIES:F1
@@ -1308,14 +1151,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-netherlands-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260821T103000Z
 DTEND:20260821T113000Z
-SUMMARY:🇳🇱 F1 荷兰站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/nether
- lands.jpg\n场次类型：Practice 1\n地点：赞德沃特赛道\n赛
+SUMMARY:𝙁𝟭 🇳🇱 荷兰站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：赞德沃特赛道\n赛
  道当地时间：2026-08-21 12:30 (Europe/Amsterdam)\n北京时间：08
  -21 18:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formul
  a1.com/en/racing/2026/netherlands\n数据来源：formula1.com 官方赛
@@ -1332,14 +1172,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-netherlands-sprint-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260821T143000Z
 DTEND:20260821T151400Z
-SUMMARY:🇳🇱 F1 荷兰站 · 冲刺排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/nether
- lands.jpg\n场次类型：Sprint Qualifying\n地点：赞德沃特赛道
+SUMMARY:𝙁𝟭 🇳🇱 荷兰站 · 冲刺排位赛
+DESCRIPTION:场次类型：Sprint Qualifying\n地点：赞德沃特赛道
  \n赛道当地时间：2026-08-21 16:30 (Europe/Amsterdam)\n北京时间
  ：08-21 22:30 (UTC+8)\n时长：44 分钟\n官方页面：https://www.f
  ormula1.com/en/racing/2026/netherlands\n数据来源：formula1.com 官
@@ -1356,14 +1193,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-netherlands-sprint@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260822T100000Z
 DTEND:20260822T110000Z
-SUMMARY:🇳🇱 F1 荷兰站 · 冲刺赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/nether
- lands.jpg\n场次类型：Sprint\n地点：赞德沃特赛道\n赛道当
+SUMMARY:𝙁𝟭 🇳🇱 荷兰站 · 冲刺赛
+DESCRIPTION:场次类型：Sprint\n地点：赞德沃特赛道\n赛道当
  地时间：2026-08-22 12:00 (Europe/Amsterdam)\n北京时间：08-22 18
  :00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com
  /en/racing/2026/netherlands\n数据来源：formula1.com 官方赛历
@@ -1379,14 +1213,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-netherlands-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260822T140000Z
 DTEND:20260822T150000Z
-SUMMARY:🇳🇱 F1 荷兰站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/nether
- lands.jpg\n场次类型：Qualifying\n地点：赞德沃特赛道\n赛
+SUMMARY:𝙁𝟭 🇳🇱 荷兰站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：赞德沃特赛道\n赛
  道当地时间：2026-08-22 16:00 (Europe/Amsterdam)\n北京时间：08
  -22 22:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formul
  a1.com/en/racing/2026/netherlands\n数据来源：formula1.com 官方赛
@@ -1403,14 +1234,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-netherlands-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260823T130000Z
 DTEND:20260823T150000Z
-SUMMARY:🇳🇱 F1 荷兰站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/nether
- lands.jpg\n场次类型：Race\n地点：赞德沃特赛道\n赛道当
+SUMMARY:𝙁𝟭 🇳🇱 荷兰站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：赞德沃特赛道\n赛道当
  地时间：2026-08-23 15:00 (Europe/Amsterdam)\n北京时间：08-23 21
  :00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1.co
  m/en/racing/2026/netherlands\n数据来源：formula1.com 官方赛历
@@ -1426,17 +1254,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-italy-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260904T103000Z
 DTEND:20260904T113000Z
-SUMMARY:🇮🇹 F1 意大利站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/italy.
- jpg\n场次类型：Practice 1\n地点：蒙扎赛道\n赛道当地时
- 间：2026-09-04 12:30 (Europe/Rome)\n北京时间：09-04 18:30 (UTC+8)
- \n时长：60 分钟\n官方页面：https://www.formula1.com/en/racing/
- 2026/italy\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇮🇹 意大利站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：蒙扎赛道\n赛道当
+ 地时间：2026-09-04 12:30 (Europe/Rome)\n北京时间：09-04 18:30 (
+ UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/r
+ acing/2026/italy\n数据来源：formula1.com 官方赛历
 LOCATION:蒙扎赛道
 URL:https://www.formula1.com/en/racing/2026/italy
 CATEGORIES:F1
@@ -1449,17 +1274,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-italy-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260904T140000Z
 DTEND:20260904T150000Z
-SUMMARY:🇮🇹 F1 意大利站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/italy.
- jpg\n场次类型：Practice 2\n地点：蒙扎赛道\n赛道当地时
- 间：2026-09-04 16:00 (Europe/Rome)\n北京时间：09-04 22:00 (UTC+8)
- \n时长：60 分钟\n官方页面：https://www.formula1.com/en/racing/
- 2026/italy\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇮🇹 意大利站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：蒙扎赛道\n赛道当
+ 地时间：2026-09-04 16:00 (Europe/Rome)\n北京时间：09-04 22:00 (
+ UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/r
+ acing/2026/italy\n数据来源：formula1.com 官方赛历
 LOCATION:蒙扎赛道
 URL:https://www.formula1.com/en/racing/2026/italy
 CATEGORIES:F1
@@ -1472,17 +1294,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-italy-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260905T103000Z
 DTEND:20260905T113000Z
-SUMMARY:🇮🇹 F1 意大利站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/italy.
- jpg\n场次类型：Practice 3\n地点：蒙扎赛道\n赛道当地时
- 间：2026-09-05 12:30 (Europe/Rome)\n北京时间：09-05 18:30 (UTC+8)
- \n时长：60 分钟\n官方页面：https://www.formula1.com/en/racing/
- 2026/italy\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇮🇹 意大利站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：蒙扎赛道\n赛道当
+ 地时间：2026-09-05 12:30 (Europe/Rome)\n北京时间：09-05 18:30 (
+ UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/r
+ acing/2026/italy\n数据来源：formula1.com 官方赛历
 LOCATION:蒙扎赛道
 URL:https://www.formula1.com/en/racing/2026/italy
 CATEGORIES:F1
@@ -1495,17 +1314,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-italy-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260905T140000Z
 DTEND:20260905T150000Z
-SUMMARY:🇮🇹 F1 意大利站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/italy.
- jpg\n场次类型：Qualifying\n地点：蒙扎赛道\n赛道当地时
- 间：2026-09-05 16:00 (Europe/Rome)\n北京时间：09-05 22:00 (UTC+8)
- \n时长：60 分钟\n官方页面：https://www.formula1.com/en/racing/
- 2026/italy\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇮🇹 意大利站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：蒙扎赛道\n赛道当
+ 地时间：2026-09-05 16:00 (Europe/Rome)\n北京时间：09-05 22:00 (
+ UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/r
+ acing/2026/italy\n数据来源：formula1.com 官方赛历
 LOCATION:蒙扎赛道
 URL:https://www.formula1.com/en/racing/2026/italy
 CATEGORIES:F1
@@ -1518,17 +1334,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-italy-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260906T130000Z
 DTEND:20260906T150000Z
-SUMMARY:🇮🇹 F1 意大利站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/italy.
- jpg\n场次类型：Race\n地点：蒙扎赛道\n赛道当地时间：20
- 26-09-06 15:00 (Europe/Rome)\n北京时间：09-06 21:00 (UTC+8)\n时长
- ：120 分钟\n官方页面：https://www.formula1.com/en/racing/2026/it
- aly\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇮🇹 意大利站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：蒙扎赛道\n赛道当地时
+ 间：2026-09-06 15:00 (Europe/Rome)\n北京时间：09-06 21:00 (UTC+8)
+ \n时长：120 分钟\n官方页面：https://www.formula1.com/en/racing
+ /2026/italy\n数据来源：formula1.com 官方赛历
 LOCATION:蒙扎赛道
 URL:https://www.formula1.com/en/racing/2026/italy
 CATEGORIES:F1
@@ -1541,17 +1354,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-spain-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260911T113000Z
 DTEND:20260911T123000Z
-SUMMARY:🇪🇸 F1 西班牙站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/spain.
- jpg\n场次类型：Practice 1\n地点：马德里赛道\n赛道当地
- 时间：2026-09-11 13:30 (Europe/Madrid)\n北京时间：09-11 19:30 (U
- TC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/ra
- cing/2026/spain\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇪🇸 西班牙站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：马德里赛道\n赛道
+ 当地时间：2026-09-11 13:30 (Europe/Madrid)\n北京时间：09-11 19
+ :30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com
+ /en/racing/2026/spain\n数据来源：formula1.com 官方赛历
 LOCATION:马德里赛道
 URL:https://www.formula1.com/en/racing/2026/spain
 CATEGORIES:F1
@@ -1564,17 +1374,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-spain-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260911T150000Z
 DTEND:20260911T160000Z
-SUMMARY:🇪🇸 F1 西班牙站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/spain.
- jpg\n场次类型：Practice 2\n地点：马德里赛道\n赛道当地
- 时间：2026-09-11 17:00 (Europe/Madrid)\n北京时间：09-11 23:00 (U
- TC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/ra
- cing/2026/spain\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇪🇸 西班牙站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：马德里赛道\n赛道
+ 当地时间：2026-09-11 17:00 (Europe/Madrid)\n北京时间：09-11 23
+ :00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com
+ /en/racing/2026/spain\n数据来源：formula1.com 官方赛历
 LOCATION:马德里赛道
 URL:https://www.formula1.com/en/racing/2026/spain
 CATEGORIES:F1
@@ -1587,17 +1394,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-spain-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260912T103000Z
 DTEND:20260912T113000Z
-SUMMARY:🇪🇸 F1 西班牙站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/spain.
- jpg\n场次类型：Practice 3\n地点：马德里赛道\n赛道当地
- 时间：2026-09-12 12:30 (Europe/Madrid)\n北京时间：09-12 18:30 (U
- TC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/ra
- cing/2026/spain\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇪🇸 西班牙站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：马德里赛道\n赛道
+ 当地时间：2026-09-12 12:30 (Europe/Madrid)\n北京时间：09-12 18
+ :30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com
+ /en/racing/2026/spain\n数据来源：formula1.com 官方赛历
 LOCATION:马德里赛道
 URL:https://www.formula1.com/en/racing/2026/spain
 CATEGORIES:F1
@@ -1610,17 +1414,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-spain-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260912T140000Z
 DTEND:20260912T150000Z
-SUMMARY:🇪🇸 F1 西班牙站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/spain.
- jpg\n场次类型：Qualifying\n地点：马德里赛道\n赛道当地
- 时间：2026-09-12 16:00 (Europe/Madrid)\n北京时间：09-12 22:00 (U
- TC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/ra
- cing/2026/spain\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇪🇸 西班牙站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：马德里赛道\n赛道
+ 当地时间：2026-09-12 16:00 (Europe/Madrid)\n北京时间：09-12 22
+ :00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com
+ /en/racing/2026/spain\n数据来源：formula1.com 官方赛历
 LOCATION:马德里赛道
 URL:https://www.formula1.com/en/racing/2026/spain
 CATEGORIES:F1
@@ -1633,17 +1434,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-spain-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260913T130000Z
 DTEND:20260913T150000Z
-SUMMARY:🇪🇸 F1 西班牙站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/spain.
- jpg\n场次类型：Race\n地点：马德里赛道\n赛道当地时间
- ：2026-09-13 15:00 (Europe/Madrid)\n北京时间：09-13 21:00 (UTC+8)\
- n时长：120 分钟\n官方页面：https://www.formula1.com/en/racing/
- 2026/spain\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇪🇸 西班牙站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：马德里赛道\n赛道当地
+ 时间：2026-09-13 15:00 (Europe/Madrid)\n北京时间：09-13 21:00 (U
+ TC+8)\n时长：120 分钟\n官方页面：https://www.formula1.com/en/r
+ acing/2026/spain\n数据来源：formula1.com 官方赛历
 LOCATION:马德里赛道
 URL:https://www.formula1.com/en/racing/2026/spain
 CATEGORIES:F1
@@ -1656,17 +1454,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-azerbaijan-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260924T083000Z
 DTEND:20260924T093000Z
-SUMMARY:🇦🇿 F1 阿塞拜疆站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/azerba
- ijan.jpg\n场次类型：Practice 1\n地点：巴库赛道\n赛道当地
- 时间：2026-09-24 12:30 (Asia/Baku)\n北京时间：09-24 16:30 (UTC+8
- )\n时长：60 分钟\n官方页面：https://www.formula1.com/en/racing
- /2026/azerbaijan\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇦🇿 阿塞拜疆站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：巴库赛道\n赛道当
+ 地时间：2026-09-24 12:30 (Asia/Baku)\n北京时间：09-24 16:30 (UT
+ C+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/rac
+ ing/2026/azerbaijan\n数据来源：formula1.com 官方赛历
 LOCATION:巴库赛道
 URL:https://www.formula1.com/en/racing/2026/azerbaijan
 CATEGORIES:F1
@@ -1679,17 +1474,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-azerbaijan-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260924T120000Z
 DTEND:20260924T130000Z
-SUMMARY:🇦🇿 F1 阿塞拜疆站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/azerba
- ijan.jpg\n场次类型：Practice 2\n地点：巴库赛道\n赛道当地
- 时间：2026-09-24 16:00 (Asia/Baku)\n北京时间：09-24 20:00 (UTC+8
- )\n时长：60 分钟\n官方页面：https://www.formula1.com/en/racing
- /2026/azerbaijan\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇦🇿 阿塞拜疆站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：巴库赛道\n赛道当
+ 地时间：2026-09-24 16:00 (Asia/Baku)\n北京时间：09-24 20:00 (UT
+ C+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/rac
+ ing/2026/azerbaijan\n数据来源：formula1.com 官方赛历
 LOCATION:巴库赛道
 URL:https://www.formula1.com/en/racing/2026/azerbaijan
 CATEGORIES:F1
@@ -1702,17 +1494,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-azerbaijan-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260925T083000Z
 DTEND:20260925T093000Z
-SUMMARY:🇦🇿 F1 阿塞拜疆站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/azerba
- ijan.jpg\n场次类型：Practice 3\n地点：巴库赛道\n赛道当地
- 时间：2026-09-25 12:30 (Asia/Baku)\n北京时间：09-25 16:30 (UTC+8
- )\n时长：60 分钟\n官方页面：https://www.formula1.com/en/racing
- /2026/azerbaijan\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇦🇿 阿塞拜疆站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：巴库赛道\n赛道当
+ 地时间：2026-09-25 12:30 (Asia/Baku)\n北京时间：09-25 16:30 (UT
+ C+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/rac
+ ing/2026/azerbaijan\n数据来源：formula1.com 官方赛历
 LOCATION:巴库赛道
 URL:https://www.formula1.com/en/racing/2026/azerbaijan
 CATEGORIES:F1
@@ -1725,17 +1514,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-azerbaijan-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260925T120000Z
 DTEND:20260925T130000Z
-SUMMARY:🇦🇿 F1 阿塞拜疆站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/azerba
- ijan.jpg\n场次类型：Qualifying\n地点：巴库赛道\n赛道当地
- 时间：2026-09-25 16:00 (Asia/Baku)\n北京时间：09-25 20:00 (UTC+8
- )\n时长：60 分钟\n官方页面：https://www.formula1.com/en/racing
- /2026/azerbaijan\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇦🇿 阿塞拜疆站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：巴库赛道\n赛道当
+ 地时间：2026-09-25 16:00 (Asia/Baku)\n北京时间：09-25 20:00 (UT
+ C+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en/rac
+ ing/2026/azerbaijan\n数据来源：formula1.com 官方赛历
 LOCATION:巴库赛道
 URL:https://www.formula1.com/en/racing/2026/azerbaijan
 CATEGORIES:F1
@@ -1748,17 +1534,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-azerbaijan-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20260926T110000Z
 DTEND:20260926T130000Z
-SUMMARY:🇦🇿 F1 阿塞拜疆站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/azerba
- ijan.jpg\n场次类型：Race\n地点：巴库赛道\n赛道当地时间
- ：2026-09-26 15:00 (Asia/Baku)\n北京时间：09-26 19:00 (UTC+8)\n时
- 长：120 分钟\n官方页面：https://www.formula1.com/en/racing/2026
- /azerbaijan\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇦🇿 阿塞拜疆站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：巴库赛道\n赛道当地时
+ 间：2026-09-26 15:00 (Asia/Baku)\n北京时间：09-26 19:00 (UTC+8)\n
+ 时长：120 分钟\n官方页面：https://www.formula1.com/en/racing/2
+ 026/azerbaijan\n数据来源：formula1.com 官方赛历
 LOCATION:巴库赛道
 URL:https://www.formula1.com/en/racing/2026/azerbaijan
 CATEGORIES:F1
@@ -1771,17 +1554,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-bahrain-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261002T043000Z
 DTEND:20261002T053000Z
-SUMMARY:🇲🇾 F1 巴林站（马来西亚） · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/bahrai
- n.jpg\n场次类型：Practice 1\n地点：雪邦国际赛车场\n赛道
- 当地时间：2026-10-02 12:30 (Asia/Kuala_Lumpur)\n北京时间：10-0
- 2 12:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1
- .com/en/racing/2026/bahrain\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇾 巴林站（马来西亚） · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：雪邦国际赛车场\n
+ 赛道当地时间：2026-10-02 12:30 (Asia/Kuala_Lumpur)\n北京时间
+ ：10-02 12:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/bahrain\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:雪邦国际赛车场
 URL:https://www.formula1.com/en/racing/2026/bahrain
 CATEGORIES:F1
@@ -1794,17 +1575,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-bahrain-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261002T080000Z
 DTEND:20261002T090000Z
-SUMMARY:🇲🇾 F1 巴林站（马来西亚） · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/bahrai
- n.jpg\n场次类型：Practice 2\n地点：雪邦国际赛车场\n赛道
- 当地时间：2026-10-02 16:00 (Asia/Kuala_Lumpur)\n北京时间：10-0
- 2 16:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1
- .com/en/racing/2026/bahrain\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇾 巴林站（马来西亚） · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：雪邦国际赛车场\n
+ 赛道当地时间：2026-10-02 16:00 (Asia/Kuala_Lumpur)\n北京时间
+ ：10-02 16:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/bahrain\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:雪邦国际赛车场
 URL:https://www.formula1.com/en/racing/2026/bahrain
 CATEGORIES:F1
@@ -1817,17 +1596,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-bahrain-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261003T043000Z
 DTEND:20261003T053000Z
-SUMMARY:🇲🇾 F1 巴林站（马来西亚） · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/bahrai
- n.jpg\n场次类型：Practice 3\n地点：雪邦国际赛车场\n赛道
- 当地时间：2026-10-03 12:30 (Asia/Kuala_Lumpur)\n北京时间：10-0
- 3 12:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1
- .com/en/racing/2026/bahrain\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇾 巴林站（马来西亚） · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：雪邦国际赛车场\n
+ 赛道当地时间：2026-10-03 12:30 (Asia/Kuala_Lumpur)\n北京时间
+ ：10-03 12:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/bahrain\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:雪邦国际赛车场
 URL:https://www.formula1.com/en/racing/2026/bahrain
 CATEGORIES:F1
@@ -1840,17 +1617,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-bahrain-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261003T080000Z
 DTEND:20261003T090000Z
-SUMMARY:🇲🇾 F1 巴林站（马来西亚） · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/bahrai
- n.jpg\n场次类型：Qualifying\n地点：雪邦国际赛车场\n赛道
- 当地时间：2026-10-03 16:00 (Asia/Kuala_Lumpur)\n北京时间：10-0
- 3 16:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1
- .com/en/racing/2026/bahrain\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇾 巴林站（马来西亚） · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：雪邦国际赛车场\n
+ 赛道当地时间：2026-10-03 16:00 (Asia/Kuala_Lumpur)\n北京时间
+ ：10-03 16:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/bahrain\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:雪邦国际赛车场
 URL:https://www.formula1.com/en/racing/2026/bahrain
 CATEGORIES:F1
@@ -1863,17 +1638,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-bahrain-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261004T070000Z
 DTEND:20261004T090000Z
-SUMMARY:🇲🇾 F1 巴林站（马来西亚） · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/bahrai
- n.jpg\n场次类型：Race\n地点：雪邦国际赛车场\n赛道当地
- 时间：2026-10-04 15:00 (Asia/Kuala_Lumpur)\n北京时间：10-04 15:0
- 0 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1.com/
- en/racing/2026/bahrain\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇾 巴林站（马来西亚） · 正赛
+DESCRIPTION:场次类型：Race\n地点：雪邦国际赛车场\n赛道
+ 当地时间：2026-10-04 15:00 (Asia/Kuala_Lumpur)\n北京时间：10-0
+ 4 15:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula
+ 1.com/en/racing/2026/bahrain\n数据来源：formula1.com 官方赛历
 LOCATION:雪邦国际赛车场
 URL:https://www.formula1.com/en/racing/2026/bahrain
 CATEGORIES:F1
@@ -1886,17 +1658,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-singapore-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261009T083000Z
 DTEND:20261009T093000Z
-SUMMARY:🇸🇬 F1 新加坡站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/singap
- ore.jpg\n场次类型：Practice 1\n地点：滨海湾赛道\n赛道当
- 地时间：2026-10-09 16:30 (Asia/Singapore)\n北京时间：10-09 16:3
- 0 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/e
- n/racing/2026/singapore\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇸🇬 新加坡站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：滨海湾赛道\n赛道
+ 当地时间：2026-10-09 16:30 (Asia/Singapore)\n北京时间：10-09 1
+ 6:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.co
+ m/en/racing/2026/singapore\n数据来源：formula1.com 官方赛历
 LOCATION:滨海湾赛道
 URL:https://www.formula1.com/en/racing/2026/singapore
 CATEGORIES:F1
@@ -1909,17 +1678,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-singapore-sprint-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261009T123000Z
 DTEND:20261009T131400Z
-SUMMARY:🇸🇬 F1 新加坡站 · 冲刺排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/singap
- ore.jpg\n场次类型：Sprint Qualifying\n地点：滨海湾赛道\n赛
- 道当地时间：2026-10-09 20:30 (Asia/Singapore)\n北京时间：10-0
- 9 20:30 (UTC+8)\n时长：44 分钟\n官方页面：https://www.formula1
- .com/en/racing/2026/singapore\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇸🇬 新加坡站 · 冲刺排位赛
+DESCRIPTION:场次类型：Sprint Qualifying\n地点：滨海湾赛道\n
+ 赛道当地时间：2026-10-09 20:30 (Asia/Singapore)\n北京时间：1
+ 0-09 20:30 (UTC+8)\n时长：44 分钟\n官方页面：https://www.formu
+ la1.com/en/racing/2026/singapore\n数据来源：formula1.com 官方赛
+ 历
 LOCATION:滨海湾赛道
 URL:https://www.formula1.com/en/racing/2026/singapore
 CATEGORIES:F1
@@ -1932,14 +1699,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-singapore-sprint@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261010T090000Z
 DTEND:20261010T093000Z
-SUMMARY:🇸🇬 F1 新加坡站 · 冲刺赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/singap
- ore.jpg\n场次类型：Sprint\n地点：滨海湾赛道\n赛道当地
+SUMMARY:𝙁𝟭 🇸🇬 新加坡站 · 冲刺赛
+DESCRIPTION:场次类型：Sprint\n地点：滨海湾赛道\n赛道当地
  时间：2026-10-10 17:00 (Asia/Singapore)\n北京时间：10-10 17:00 (
  UTC+8)\n时长：30 分钟\n官方页面：https://www.formula1.com/en/r
  acing/2026/singapore\n数据来源：formula1.com 官方赛历
@@ -1955,17 +1719,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-singapore-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261010T130000Z
 DTEND:20261010T140000Z
-SUMMARY:🇸🇬 F1 新加坡站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/singap
- ore.jpg\n场次类型：Qualifying\n地点：滨海湾赛道\n赛道当
- 地时间：2026-10-10 21:00 (Asia/Singapore)\n北京时间：10-10 21:0
- 0 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/e
- n/racing/2026/singapore\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇸🇬 新加坡站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：滨海湾赛道\n赛道
+ 当地时间：2026-10-10 21:00 (Asia/Singapore)\n北京时间：10-10 2
+ 1:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.co
+ m/en/racing/2026/singapore\n数据来源：formula1.com 官方赛历
 LOCATION:滨海湾赛道
 URL:https://www.formula1.com/en/racing/2026/singapore
 CATEGORIES:F1
@@ -1978,17 +1739,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-singapore-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261011T120000Z
 DTEND:20261011T140000Z
-SUMMARY:🇸🇬 F1 新加坡站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/singap
- ore.jpg\n场次类型：Race\n地点：滨海湾赛道\n赛道当地时
- 间：2026-10-11 20:00 (Asia/Singapore)\n北京时间：10-11 20:00 (UTC
- +8)\n时长：120 分钟\n官方页面：https://www.formula1.com/en/rac
- ing/2026/singapore\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇸🇬 新加坡站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：滨海湾赛道\n赛道当地
+ 时间：2026-10-11 20:00 (Asia/Singapore)\n北京时间：10-11 20:00 (
+ UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1.com/en/
+ racing/2026/singapore\n数据来源：formula1.com 官方赛历
 LOCATION:滨海湾赛道
 URL:https://www.formula1.com/en/racing/2026/singapore
 CATEGORIES:F1
@@ -2001,18 +1759,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-united-states-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261023T173000Z
 DTEND:20261023T183000Z
-SUMMARY:🇺🇸 F1 美国站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/united
- -states.jpg\n场次类型：Practice 1\n地点：奥斯汀 · 美洲赛
- 道\n赛道当地时间：2026-10-23 12:30 (America/Chicago)\n北京时
- 间：10-24 01:30 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
- w.formula1.com/en/racing/2026/united-states\n数据来源：formula1.com
-  官方赛历
+SUMMARY:𝙁𝟭 🇺🇸 美国站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：奥斯汀 · 美洲赛道
+ \n赛道当地时间：2026-10-23 12:30 (America/Chicago)\n北京时间
+ ：10-24 01:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/united-states\n数据来源：formula1.com 
+ 官方赛历
 LOCATION:奥斯汀 · 美洲赛道
 URL:https://www.formula1.com/en/racing/2026/united-states
 CATEGORIES:F1
@@ -2025,18 +1780,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-united-states-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261023T210000Z
 DTEND:20261023T220000Z
-SUMMARY:🇺🇸 F1 美国站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/united
- -states.jpg\n场次类型：Practice 2\n地点：奥斯汀 · 美洲赛
- 道\n赛道当地时间：2026-10-23 16:00 (America/Chicago)\n北京时
- 间：10-24 05:00 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
- w.formula1.com/en/racing/2026/united-states\n数据来源：formula1.com
-  官方赛历
+SUMMARY:𝙁𝟭 🇺🇸 美国站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：奥斯汀 · 美洲赛道
+ \n赛道当地时间：2026-10-23 16:00 (America/Chicago)\n北京时间
+ ：10-24 05:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/united-states\n数据来源：formula1.com 
+ 官方赛历
 LOCATION:奥斯汀 · 美洲赛道
 URL:https://www.formula1.com/en/racing/2026/united-states
 CATEGORIES:F1
@@ -2049,18 +1801,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-united-states-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261024T173000Z
 DTEND:20261024T183000Z
-SUMMARY:🇺🇸 F1 美国站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/united
- -states.jpg\n场次类型：Practice 3\n地点：奥斯汀 · 美洲赛
- 道\n赛道当地时间：2026-10-24 12:30 (America/Chicago)\n北京时
- 间：10-25 01:30 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
- w.formula1.com/en/racing/2026/united-states\n数据来源：formula1.com
-  官方赛历
+SUMMARY:𝙁𝟭 🇺🇸 美国站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：奥斯汀 · 美洲赛道
+ \n赛道当地时间：2026-10-24 12:30 (America/Chicago)\n北京时间
+ ：10-25 01:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/united-states\n数据来源：formula1.com 
+ 官方赛历
 LOCATION:奥斯汀 · 美洲赛道
 URL:https://www.formula1.com/en/racing/2026/united-states
 CATEGORIES:F1
@@ -2073,18 +1822,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-united-states-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261024T210000Z
 DTEND:20261024T220000Z
-SUMMARY:🇺🇸 F1 美国站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/united
- -states.jpg\n场次类型：Qualifying\n地点：奥斯汀 · 美洲赛
- 道\n赛道当地时间：2026-10-24 16:00 (America/Chicago)\n北京时
- 间：10-25 05:00 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
- w.formula1.com/en/racing/2026/united-states\n数据来源：formula1.com
-  官方赛历
+SUMMARY:𝙁𝟭 🇺🇸 美国站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：奥斯汀 · 美洲赛道
+ \n赛道当地时间：2026-10-24 16:00 (America/Chicago)\n北京时间
+ ：10-25 05:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
+ ormula1.com/en/racing/2026/united-states\n数据来源：formula1.com 
+ 官方赛历
 LOCATION:奥斯汀 · 美洲赛道
 URL:https://www.formula1.com/en/racing/2026/united-states
 CATEGORIES:F1
@@ -2097,18 +1843,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-united-states-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261025T200000Z
 DTEND:20261025T220000Z
-SUMMARY:🇺🇸 F1 美国站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/united
- -states.jpg\n场次类型：Race\n地点：奥斯汀 · 美洲赛道\n
- 赛道当地时间：2026-10-25 15:00 (America/Chicago)\n北京时间：
- 10-26 04:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.for
- mula1.com/en/racing/2026/united-states\n数据来源：formula1.com 官
- 方赛历
+SUMMARY:𝙁𝟭 🇺🇸 美国站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：奥斯汀 · 美洲赛道\n赛
+ 道当地时间：2026-10-25 15:00 (America/Chicago)\n北京时间：10-
+ 26 04:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formul
+ a1.com/en/racing/2026/united-states\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:奥斯汀 · 美洲赛道
 URL:https://www.formula1.com/en/racing/2026/united-states
 CATEGORIES:F1
@@ -2121,18 +1864,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-mexico-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261030T183000Z
 DTEND:20261030T193000Z
-SUMMARY:🇲🇽 F1 墨西哥站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/mexico
- .jpg\n场次类型：Practice 1\n地点：墨西哥城 · 埃罗德里
- 戈·迭斯赛道\n赛道当地时间：2026-10-30 12:30 (America/Mexico
- _City)\n北京时间：10-31 02:30 (UTC+8)\n时长：60 分钟\n官方
- 页面：https://www.formula1.com/en/racing/2026/mexico\n数据来源：
- formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇽 墨西哥站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：墨西哥城 · 埃罗德
+ 里戈·迭斯赛道\n赛道当地时间：2026-10-30 12:30 (America/Mex
+ ico_City)\n北京时间：10-31 02:30 (UTC+8)\n时长：60 分钟\n官
+ 方页面：https://www.formula1.com/en/racing/2026/mexico\n数据来源
+ ：formula1.com 官方赛历
 LOCATION:墨西哥城 · 埃罗德里戈·迭斯赛道
 URL:https://www.formula1.com/en/racing/2026/mexico
 CATEGORIES:F1
@@ -2145,18 +1885,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-mexico-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261030T220000Z
 DTEND:20261030T230000Z
-SUMMARY:🇲🇽 F1 墨西哥站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/mexico
- .jpg\n场次类型：Practice 2\n地点：墨西哥城 · 埃罗德里
- 戈·迭斯赛道\n赛道当地时间：2026-10-30 16:00 (America/Mexico
- _City)\n北京时间：10-31 06:00 (UTC+8)\n时长：60 分钟\n官方
- 页面：https://www.formula1.com/en/racing/2026/mexico\n数据来源：
- formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇽 墨西哥站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：墨西哥城 · 埃罗德
+ 里戈·迭斯赛道\n赛道当地时间：2026-10-30 16:00 (America/Mex
+ ico_City)\n北京时间：10-31 06:00 (UTC+8)\n时长：60 分钟\n官
+ 方页面：https://www.formula1.com/en/racing/2026/mexico\n数据来源
+ ：formula1.com 官方赛历
 LOCATION:墨西哥城 · 埃罗德里戈·迭斯赛道
 URL:https://www.formula1.com/en/racing/2026/mexico
 CATEGORIES:F1
@@ -2169,18 +1906,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-mexico-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261031T173000Z
 DTEND:20261031T183000Z
-SUMMARY:🇲🇽 F1 墨西哥站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/mexico
- .jpg\n场次类型：Practice 3\n地点：墨西哥城 · 埃罗德里
- 戈·迭斯赛道\n赛道当地时间：2026-10-31 11:30 (America/Mexico
- _City)\n北京时间：11-01 01:30 (UTC+8)\n时长：60 分钟\n官方
- 页面：https://www.formula1.com/en/racing/2026/mexico\n数据来源：
- formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇽 墨西哥站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：墨西哥城 · 埃罗德
+ 里戈·迭斯赛道\n赛道当地时间：2026-10-31 11:30 (America/Mex
+ ico_City)\n北京时间：11-01 01:30 (UTC+8)\n时长：60 分钟\n官
+ 方页面：https://www.formula1.com/en/racing/2026/mexico\n数据来源
+ ：formula1.com 官方赛历
 LOCATION:墨西哥城 · 埃罗德里戈·迭斯赛道
 URL:https://www.formula1.com/en/racing/2026/mexico
 CATEGORIES:F1
@@ -2193,18 +1927,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-mexico-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261031T210000Z
 DTEND:20261031T220000Z
-SUMMARY:🇲🇽 F1 墨西哥站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/mexico
- .jpg\n场次类型：Qualifying\n地点：墨西哥城 · 埃罗德里
- 戈·迭斯赛道\n赛道当地时间：2026-10-31 15:00 (America/Mexico
- _City)\n北京时间：11-01 05:00 (UTC+8)\n时长：60 分钟\n官方
- 页面：https://www.formula1.com/en/racing/2026/mexico\n数据来源：
- formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇽 墨西哥站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：墨西哥城 · 埃罗德
+ 里戈·迭斯赛道\n赛道当地时间：2026-10-31 15:00 (America/Mex
+ ico_City)\n北京时间：11-01 05:00 (UTC+8)\n时长：60 分钟\n官
+ 方页面：https://www.formula1.com/en/racing/2026/mexico\n数据来源
+ ：formula1.com 官方赛历
 LOCATION:墨西哥城 · 埃罗德里戈·迭斯赛道
 URL:https://www.formula1.com/en/racing/2026/mexico
 CATEGORIES:F1
@@ -2217,18 +1948,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-mexico-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
-SUMMARY:🇲🇽 F1 墨西哥站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/mexico
- .jpg\n场次类型：Race\n地点：墨西哥城 · 埃罗德里戈·迭
- 斯赛道\n赛道当地时间：2026-11-01 14:00 (America/Mexico_City)\n
- 北京时间：11-02 04:00 (UTC+8)\n时长：120 分钟\n官方页面：
- https://www.formula1.com/en/racing/2026/mexico\n数据来源：formula1.
- com 官方赛历
+SUMMARY:𝙁𝟭 🇲🇽 墨西哥站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：墨西哥城 · 埃罗德里戈
+ ·迭斯赛道\n赛道当地时间：2026-11-01 14:00 (America/Mexico_Ci
+ ty)\n北京时间：11-02 04:00 (UTC+8)\n时长：120 分钟\n官方页
+ 面：https://www.formula1.com/en/racing/2026/mexico\n数据来源：for
+ mula1.com 官方赛历
 LOCATION:墨西哥城 · 埃罗德里戈·迭斯赛道
 URL:https://www.formula1.com/en/racing/2026/mexico
 CATEGORIES:F1
@@ -2241,18 +1969,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-brazil-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261106T153000Z
 DTEND:20261106T163000Z
-SUMMARY:🇧🇷 F1 巴西站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/brazil
- .jpg\n场次类型：Practice 1\n地点：圣保罗 · 若昂·保罗赛
- 道\n赛道当地时间：2026-11-06 12:30 (America/Sao_Paulo)\n北京
- 时间：11-06 23:30 (UTC+8)\n时长：60 分钟\n官方页面：https:/
- /www.formula1.com/en/racing/2026/brazil\n数据来源：formula1.com 官
- 方赛历
+SUMMARY:𝙁𝟭 🇧🇷 巴西站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：圣保罗 · 若昂·保
+ 罗赛道\n赛道当地时间：2026-11-06 12:30 (America/Sao_Paulo)\n
+ 北京时间：11-06 23:30 (UTC+8)\n时长：60 分钟\n官方页面：h
+ ttps://www.formula1.com/en/racing/2026/brazil\n数据来源：formula1.c
+ om 官方赛历
 LOCATION:圣保罗 · 若昂·保罗赛道
 URL:https://www.formula1.com/en/racing/2026/brazil
 CATEGORIES:F1
@@ -2265,18 +1990,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-brazil-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261106T190000Z
 DTEND:20261106T200000Z
-SUMMARY:🇧🇷 F1 巴西站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/brazil
- .jpg\n场次类型：Practice 2\n地点：圣保罗 · 若昂·保罗赛
- 道\n赛道当地时间：2026-11-06 16:00 (America/Sao_Paulo)\n北京
- 时间：11-07 03:00 (UTC+8)\n时长：60 分钟\n官方页面：https:/
- /www.formula1.com/en/racing/2026/brazil\n数据来源：formula1.com 官
- 方赛历
+SUMMARY:𝙁𝟭 🇧🇷 巴西站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：圣保罗 · 若昂·保
+ 罗赛道\n赛道当地时间：2026-11-06 16:00 (America/Sao_Paulo)\n
+ 北京时间：11-07 03:00 (UTC+8)\n时长：60 分钟\n官方页面：h
+ ttps://www.formula1.com/en/racing/2026/brazil\n数据来源：formula1.c
+ om 官方赛历
 LOCATION:圣保罗 · 若昂·保罗赛道
 URL:https://www.formula1.com/en/racing/2026/brazil
 CATEGORIES:F1
@@ -2289,18 +2011,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-brazil-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261107T143000Z
 DTEND:20261107T153000Z
-SUMMARY:🇧🇷 F1 巴西站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/brazil
- .jpg\n场次类型：Practice 3\n地点：圣保罗 · 若昂·保罗赛
- 道\n赛道当地时间：2026-11-07 11:30 (America/Sao_Paulo)\n北京
- 时间：11-07 22:30 (UTC+8)\n时长：60 分钟\n官方页面：https:/
- /www.formula1.com/en/racing/2026/brazil\n数据来源：formula1.com 官
- 方赛历
+SUMMARY:𝙁𝟭 🇧🇷 巴西站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：圣保罗 · 若昂·保
+ 罗赛道\n赛道当地时间：2026-11-07 11:30 (America/Sao_Paulo)\n
+ 北京时间：11-07 22:30 (UTC+8)\n时长：60 分钟\n官方页面：h
+ ttps://www.formula1.com/en/racing/2026/brazil\n数据来源：formula1.c
+ om 官方赛历
 LOCATION:圣保罗 · 若昂·保罗赛道
 URL:https://www.formula1.com/en/racing/2026/brazil
 CATEGORIES:F1
@@ -2313,18 +2032,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-brazil-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261107T180000Z
 DTEND:20261107T190000Z
-SUMMARY:🇧🇷 F1 巴西站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/brazil
- .jpg\n场次类型：Qualifying\n地点：圣保罗 · 若昂·保罗赛
- 道\n赛道当地时间：2026-11-07 15:00 (America/Sao_Paulo)\n北京
- 时间：11-08 02:00 (UTC+8)\n时长：60 分钟\n官方页面：https:/
- /www.formula1.com/en/racing/2026/brazil\n数据来源：formula1.com 官
- 方赛历
+SUMMARY:𝙁𝟭 🇧🇷 巴西站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：圣保罗 · 若昂·保
+ 罗赛道\n赛道当地时间：2026-11-07 15:00 (America/Sao_Paulo)\n
+ 北京时间：11-08 02:00 (UTC+8)\n时长：60 分钟\n官方页面：h
+ ttps://www.formula1.com/en/racing/2026/brazil\n数据来源：formula1.c
+ om 官方赛历
 LOCATION:圣保罗 · 若昂·保罗赛道
 URL:https://www.formula1.com/en/racing/2026/brazil
 CATEGORIES:F1
@@ -2337,18 +2053,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-brazil-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261108T170000Z
 DTEND:20261108T190000Z
-SUMMARY:🇧🇷 F1 巴西站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/brazil
- .jpg\n场次类型：Race\n地点：圣保罗 · 若昂·保罗赛道\n
- 赛道当地时间：2026-11-08 14:00 (America/Sao_Paulo)\n北京时间
- ：11-09 01:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.
- formula1.com/en/racing/2026/brazil\n数据来源：formula1.com 官方
- 赛历
+SUMMARY:𝙁𝟭 🇧🇷 巴西站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：圣保罗 · 若昂·保罗赛
+ 道\n赛道当地时间：2026-11-08 14:00 (America/Sao_Paulo)\n北京
+ 时间：11-09 01:00 (UTC+8)\n时长：120 分钟\n官方页面：https:
+ //www.formula1.com/en/racing/2026/brazil\n数据来源：formula1.com 
+ 官方赛历
 LOCATION:圣保罗 · 若昂·保罗赛道
 URL:https://www.formula1.com/en/racing/2026/brazil
 CATEGORIES:F1
@@ -2361,18 +2074,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-las-vegas-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261120T003000Z
 DTEND:20261120T013000Z
-SUMMARY:🇺🇸 F1 美国拉斯维加斯站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/las-ve
- gas.jpg\n场次类型：Practice 1\n地点：拉斯维加斯赛道\n赛
- 道当地时间：2026-11-19 16:30 (America/Los_Angeles)\n北京时间
- ：11-20 08:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
- ormula1.com/en/racing/2026/las-vegas\n数据来源：formula1.com 官方
- 赛历
+SUMMARY:𝙁𝟭 🇺🇸 美国拉斯维加斯站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：拉斯维加斯赛道\n
+ 赛道当地时间：2026-11-19 16:30 (America/Los_Angeles)\n北京时
+ 间：11-20 08:30 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
+ w.formula1.com/en/racing/2026/las-vegas\n数据来源：formula1.com 官
+ 方赛历
 LOCATION:拉斯维加斯赛道
 URL:https://www.formula1.com/en/racing/2026/las-vegas
 CATEGORIES:F1
@@ -2385,18 +2095,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-las-vegas-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261120T040000Z
 DTEND:20261120T050000Z
-SUMMARY:🇺🇸 F1 美国拉斯维加斯站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/las-ve
- gas.jpg\n场次类型：Practice 2\n地点：拉斯维加斯赛道\n赛
- 道当地时间：2026-11-19 20:00 (America/Los_Angeles)\n北京时间
- ：11-20 12:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
- ormula1.com/en/racing/2026/las-vegas\n数据来源：formula1.com 官方
- 赛历
+SUMMARY:𝙁𝟭 🇺🇸 美国拉斯维加斯站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：拉斯维加斯赛道\n
+ 赛道当地时间：2026-11-19 20:00 (America/Los_Angeles)\n北京时
+ 间：11-20 12:00 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
+ w.formula1.com/en/racing/2026/las-vegas\n数据来源：formula1.com 官
+ 方赛历
 LOCATION:拉斯维加斯赛道
 URL:https://www.formula1.com/en/racing/2026/las-vegas
 CATEGORIES:F1
@@ -2409,18 +2116,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-las-vegas-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261121T003000Z
 DTEND:20261121T013000Z
-SUMMARY:🇺🇸 F1 美国拉斯维加斯站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/las-ve
- gas.jpg\n场次类型：Practice 3\n地点：拉斯维加斯赛道\n赛
- 道当地时间：2026-11-20 16:30 (America/Los_Angeles)\n北京时间
- ：11-21 08:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
- ormula1.com/en/racing/2026/las-vegas\n数据来源：formula1.com 官方
- 赛历
+SUMMARY:𝙁𝟭 🇺🇸 美国拉斯维加斯站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：拉斯维加斯赛道\n
+ 赛道当地时间：2026-11-20 16:30 (America/Los_Angeles)\n北京时
+ 间：11-21 08:30 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
+ w.formula1.com/en/racing/2026/las-vegas\n数据来源：formula1.com 官
+ 方赛历
 LOCATION:拉斯维加斯赛道
 URL:https://www.formula1.com/en/racing/2026/las-vegas
 CATEGORIES:F1
@@ -2433,18 +2137,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-las-vegas-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261121T040000Z
 DTEND:20261121T050000Z
-SUMMARY:🇺🇸 F1 美国拉斯维加斯站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/las-ve
- gas.jpg\n场次类型：Qualifying\n地点：拉斯维加斯赛道\n赛
- 道当地时间：2026-11-20 20:00 (America/Los_Angeles)\n北京时间
- ：11-21 12:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.f
- ormula1.com/en/racing/2026/las-vegas\n数据来源：formula1.com 官方
- 赛历
+SUMMARY:𝙁𝟭 🇺🇸 美国拉斯维加斯站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：拉斯维加斯赛道\n
+ 赛道当地时间：2026-11-20 20:00 (America/Los_Angeles)\n北京时
+ 间：11-21 12:00 (UTC+8)\n时长：60 分钟\n官方页面：https://ww
+ w.formula1.com/en/racing/2026/las-vegas\n数据来源：formula1.com 官
+ 方赛历
 LOCATION:拉斯维加斯赛道
 URL:https://www.formula1.com/en/racing/2026/las-vegas
 CATEGORIES:F1
@@ -2457,17 +2158,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-las-vegas-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261122T040000Z
 DTEND:20261122T060000Z
-SUMMARY:🇺🇸 F1 美国拉斯维加斯站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/las-ve
- gas.jpg\n场次类型：Race\n地点：拉斯维加斯赛道\n赛道当
- 地时间：2026-11-21 20:00 (America/Los_Angeles)\n北京时间：11-22
-  12:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1
- .com/en/racing/2026/las-vegas\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇺🇸 美国拉斯维加斯站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：拉斯维加斯赛道\n赛道
+ 当地时间：2026-11-21 20:00 (America/Los_Angeles)\n北京时间：11
+ -22 12:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formu
+ la1.com/en/racing/2026/las-vegas\n数据来源：formula1.com 官方赛
+ 历
 LOCATION:拉斯维加斯赛道
 URL:https://www.formula1.com/en/racing/2026/las-vegas
 CATEGORIES:F1
@@ -2480,17 +2179,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-qatar-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261127T133000Z
 DTEND:20261127T143000Z
-SUMMARY:🇶🇦 F1 卡塔尔站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/qatar.
- jpg\n场次类型：Practice 1\n地点：卢赛尔国际赛道\n赛道
- 当地时间：2026-11-27 16:30 (Asia/Qatar)\n北京时间：11-27 21:30
-  (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en
- /racing/2026/qatar\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇶🇦 卡塔尔站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：卢赛尔国际赛道\n
+ 赛道当地时间：2026-11-27 16:30 (Asia/Qatar)\n北京时间：11-27
+  21:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.
+ com/en/racing/2026/qatar\n数据来源：formula1.com 官方赛历
 LOCATION:卢赛尔国际赛道
 URL:https://www.formula1.com/en/racing/2026/qatar
 CATEGORIES:F1
@@ -2503,17 +2199,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-qatar-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261127T170000Z
 DTEND:20261127T180000Z
-SUMMARY:🇶🇦 F1 卡塔尔站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/qatar.
- jpg\n场次类型：Practice 2\n地点：卢赛尔国际赛道\n赛道
- 当地时间：2026-11-27 20:00 (Asia/Qatar)\n北京时间：11-28 01:00
-  (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en
- /racing/2026/qatar\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇶🇦 卡塔尔站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：卢赛尔国际赛道\n
+ 赛道当地时间：2026-11-27 20:00 (Asia/Qatar)\n北京时间：11-28
+  01:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.
+ com/en/racing/2026/qatar\n数据来源：formula1.com 官方赛历
 LOCATION:卢赛尔国际赛道
 URL:https://www.formula1.com/en/racing/2026/qatar
 CATEGORIES:F1
@@ -2526,17 +2219,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-qatar-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261128T143000Z
 DTEND:20261128T153000Z
-SUMMARY:🇶🇦 F1 卡塔尔站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/qatar.
- jpg\n场次类型：Practice 3\n地点：卢赛尔国际赛道\n赛道
- 当地时间：2026-11-28 17:30 (Asia/Qatar)\n北京时间：11-28 22:30
-  (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en
- /racing/2026/qatar\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇶🇦 卡塔尔站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：卢赛尔国际赛道\n
+ 赛道当地时间：2026-11-28 17:30 (Asia/Qatar)\n北京时间：11-28
+  22:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.
+ com/en/racing/2026/qatar\n数据来源：formula1.com 官方赛历
 LOCATION:卢赛尔国际赛道
 URL:https://www.formula1.com/en/racing/2026/qatar
 CATEGORIES:F1
@@ -2549,17 +2239,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-qatar-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261128T180000Z
 DTEND:20261128T190000Z
-SUMMARY:🇶🇦 F1 卡塔尔站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/qatar.
- jpg\n场次类型：Qualifying\n地点：卢赛尔国际赛道\n赛道
- 当地时间：2026-11-28 21:00 (Asia/Qatar)\n北京时间：11-29 02:00
-  (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com/en
- /racing/2026/qatar\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇶🇦 卡塔尔站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：卢赛尔国际赛道\n
+ 赛道当地时间：2026-11-28 21:00 (Asia/Qatar)\n北京时间：11-29
+  02:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.
+ com/en/racing/2026/qatar\n数据来源：formula1.com 官方赛历
 LOCATION:卢赛尔国际赛道
 URL:https://www.formula1.com/en/racing/2026/qatar
 CATEGORIES:F1
@@ -2572,17 +2259,14 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-qatar-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261129T160000Z
 DTEND:20261129T180000Z
-SUMMARY:🇶🇦 F1 卡塔尔站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/qatar.
- jpg\n场次类型：Race\n地点：卢赛尔国际赛道\n赛道当地
- 时间：2026-11-29 19:00 (Asia/Qatar)\n北京时间：11-30 00:00 (UTC+
- 8)\n时长：120 分钟\n官方页面：https://www.formula1.com/en/raci
- ng/2026/qatar\n数据来源：formula1.com 官方赛历
+SUMMARY:𝙁𝟭 🇶🇦 卡塔尔站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：卢赛尔国际赛道\n赛道
+ 当地时间：2026-11-29 19:00 (Asia/Qatar)\n北京时间：11-30 00:00
+  (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1.com/e
+ n/racing/2026/qatar\n数据来源：formula1.com 官方赛历
 LOCATION:卢赛尔国际赛道
 URL:https://www.formula1.com/en/racing/2026/qatar
 CATEGORIES:F1
@@ -2595,18 +2279,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-united-arab-emirates-practice-1@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261204T093000Z
 DTEND:20261204T103000Z
-SUMMARY:🇦🇪 F1 阿布扎比站 · 练习赛 1
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/united
- -arab-emirates.jpg\n场次类型：Practice 1\n地点：亚斯码头赛
- 道\n赛道当地时间：2026-12-04 13:30 (Asia/Dubai)\n北京时间：
- 12-04 17:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.form
- ula1.com/en/racing/2026/united-arab-emirates\n数据来源：formula1.co
- m 官方赛历
+SUMMARY:𝙁𝟭 🇦🇪 阿布扎比站 · 练习赛 1
+DESCRIPTION:场次类型：Practice 1\n地点：亚斯码头赛道\n赛
+ 道当地时间：2026-12-04 13:30 (Asia/Dubai)\n北京时间：12-04 17
+ :30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com
+ /en/racing/2026/united-arab-emirates\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:亚斯码头赛道
 URL:https://www.formula1.com/en/racing/2026/united-arab-emirates
 CATEGORIES:F1
@@ -2619,18 +2300,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-united-arab-emirates-practice-2@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261204T130000Z
 DTEND:20261204T140000Z
-SUMMARY:🇦🇪 F1 阿布扎比站 · 练习赛 2
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/united
- -arab-emirates.jpg\n场次类型：Practice 2\n地点：亚斯码头赛
- 道\n赛道当地时间：2026-12-04 17:00 (Asia/Dubai)\n北京时间：
- 12-04 21:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.form
- ula1.com/en/racing/2026/united-arab-emirates\n数据来源：formula1.co
- m 官方赛历
+SUMMARY:𝙁𝟭 🇦🇪 阿布扎比站 · 练习赛 2
+DESCRIPTION:场次类型：Practice 2\n地点：亚斯码头赛道\n赛
+ 道当地时间：2026-12-04 17:00 (Asia/Dubai)\n北京时间：12-04 21
+ :00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com
+ /en/racing/2026/united-arab-emirates\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:亚斯码头赛道
 URL:https://www.formula1.com/en/racing/2026/united-arab-emirates
 CATEGORIES:F1
@@ -2643,18 +2321,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-united-arab-emirates-practice-3@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261205T103000Z
 DTEND:20261205T113000Z
-SUMMARY:🇦🇪 F1 阿布扎比站 · 练习赛 3
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/united
- -arab-emirates.jpg\n场次类型：Practice 3\n地点：亚斯码头赛
- 道\n赛道当地时间：2026-12-05 14:30 (Asia/Dubai)\n北京时间：
- 12-05 18:30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.form
- ula1.com/en/racing/2026/united-arab-emirates\n数据来源：formula1.co
- m 官方赛历
+SUMMARY:𝙁𝟭 🇦🇪 阿布扎比站 · 练习赛 3
+DESCRIPTION:场次类型：Practice 3\n地点：亚斯码头赛道\n赛
+ 道当地时间：2026-12-05 14:30 (Asia/Dubai)\n北京时间：12-05 18
+ :30 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com
+ /en/racing/2026/united-arab-emirates\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:亚斯码头赛道
 URL:https://www.formula1.com/en/racing/2026/united-arab-emirates
 CATEGORIES:F1
@@ -2667,18 +2342,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-united-arab-emirates-qualifying@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261205T140000Z
 DTEND:20261205T150000Z
-SUMMARY:🇦🇪 F1 阿布扎比站 · 排位赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/united
- -arab-emirates.jpg\n场次类型：Qualifying\n地点：亚斯码头赛
- 道\n赛道当地时间：2026-12-05 18:00 (Asia/Dubai)\n北京时间：
- 12-05 22:00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.form
- ula1.com/en/racing/2026/united-arab-emirates\n数据来源：formula1.co
- m 官方赛历
+SUMMARY:𝙁𝟭 🇦🇪 阿布扎比站 · 排位赛
+DESCRIPTION:场次类型：Qualifying\n地点：亚斯码头赛道\n赛
+ 道当地时间：2026-12-05 18:00 (Asia/Dubai)\n北京时间：12-05 22
+ :00 (UTC+8)\n时长：60 分钟\n官方页面：https://www.formula1.com
+ /en/racing/2026/united-arab-emirates\n数据来源：formula1.com 官方
+ 赛历
 LOCATION:亚斯码头赛道
 URL:https://www.formula1.com/en/racing/2026/united-arab-emirates
 CATEGORIES:F1
@@ -2691,18 +2363,15 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:f1-2026-united-arab-emirates-race@racing.multica.ai
-DTSTAMP:20261026T120514Z
+DTSTAMP:20261026T121936Z
 DTSTART:20261206T130000Z
 DTEND:20261206T150000Z
-SUMMARY:🇦🇪 F1 阿布扎比站 · 正赛
-DESCRIPTION:\n赛事 logo（点开看大图）：https://butlerzou-bot.gi
- thub.io/f1-motogp-ical/img/badge/f1.jpg?v=3\n官方主视觉（点开看
- 大图）：https://butlerzou-bot.github.io/f1-motogp-ical/img/f1/united
- -arab-emirates.jpg\n场次类型：Race\n地点：亚斯码头赛道\n
- 赛道当地时间：2026-12-06 17:00 (Asia/Dubai)\n北京时间：12-06
-  21:00 (UTC+8)\n时长：120 分钟\n官方页面：https://www.formula1
- .com/en/racing/2026/united-arab-emirates\n数据来源：formula1.com 
- 官方赛历
+SUMMARY:𝙁𝟭 🇦🇪 阿布扎比站 · 正赛
+DESCRIPTION:场次类型：Race\n地点：亚斯码头赛道\n赛道当
+ 地时间：2026-12-06 17:00 (Asia/Dubai)\n北京时间：12-06 21:00 (U
+ TC+8)\n时长：120 分钟\n官方页面：https://www.formula1.com/en/r
+ acing/2026/united-arab-emirates\n数据来源：formula1.com 官方赛
+ 历
 LOCATION:亚斯码头赛道
 URL:https://www.formula1.com/en/racing/2026/united-arab-emirates
 CATEGORIES:F1
