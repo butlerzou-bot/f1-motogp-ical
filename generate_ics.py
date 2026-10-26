@@ -80,6 +80,38 @@ MOTO_ROUNDS = {
     "VALENCIA": ("瓦伦西亚站", "里克·托尔莫赛道"),
 }
 
+SERIES_ICON = {"F1": "🏎️", "MotoGP": "🏍️"}
+
+# 每站对应的国旗 emoji（用作标题前的赛事标识）
+F1_FLAG = {
+    "australia": "🇦🇺", "china": "🇨🇳", "japan": "🇯🇵", "miami": "🇺🇸",
+    "canada": "🇨🇦", "monaco": "🇲🇨", "barcelona-catalunya": "🇪🇸", "austria": "🇦🇹",
+    "great-britain": "🇬🇧", "belgium": "🇧🇪", "hungary": "🇭🇺", "netherlands": "🇳🇱",
+    "italy": "🇮🇹", "spain": "🇪🇸", "azerbaijan": "🇦🇿", "bahrain": "🇲🇾",
+    "singapore": "🇸🇬", "united-states": "🇺🇸", "mexico": "🇲🇽", "brazil": "🇧🇷",
+    "las-vegas": "🇺🇸", "qatar": "🇶🇦", "united-arab-emirates": "🇦🇪",
+}
+
+MOTO_FLAG = {
+    "tha": "🇹🇭", "bra": "🇧🇷", "usa": "🇺🇸", "spa": "🇪🇸", "fra": "🇫🇷",
+    "cat": "🇪🇸", "ita": "🇮🇹", "hun": "🇭🇺", "cze": "🇨🇿", "ned": "🇳🇱",
+    "ger": "🇩🇪", "gbr": "🇬🇧", "ara": "🇪🇸", "rsm": "🇸🇲", "aut": "🇦🇹",
+    "jpn": "🇯🇵", "ina": "🇮🇩", "aus": "🇦🇺", "mal": "🇲🇾", "qat": "🇶🇦",
+    "por": "🇵🇹", "val": "🇪🇸",
+}
+
+# 赛事图片托管地址（GitHub Pages）
+IMAGE_BASE = "https://butlerzou-bot.github.io/f1-motogp-ical"
+
+
+def load_manifest():
+    path = os.path.join(BASE, "img", "manifest.json")
+    if not os.path.exists(path):
+        return {"f1": {}, "moto": {}}
+    with open(path, encoding="utf-8") as fh:
+        return json.load(fh)
+
+
 F1_SESSION_CN = {
     "Practice 1": "练习赛 1",
     "Practice 2": "练习赛 2",
@@ -167,6 +199,7 @@ def beijing_str(dt_utc):
 
 def load_f1():
     events = []
+    manifest = load_manifest().get("f1", {})
     for slug, cn, circuit, tzname in F1_ROUNDS:
         url = f"https://www.formula1.com/en/racing/2026/{slug}"
         html = http_get(url, f"f1_{slug}.html")
@@ -190,9 +223,10 @@ def load_f1():
                 continue
             start = parse_utc(s["startDate"])
             end = parse_utc(s.get("endDate") or s["startDate"])
+            icon = f"{SERIES_ICON['F1']} {F1_FLAG.get(slug, '')}".strip()
             events.append({
                 "uid": f"f1-2026-{slug}-{key.lower().replace(' ', '-')}@racing.multica.ai",
-                "summary": f"F1 {gp_name} · {cn_session}",
+                "summary": f"{icon} F1 {gp_name} · {cn_session}",
                 "start": start,
                 "end": end,
                 "location": circuit,
@@ -200,6 +234,7 @@ def load_f1():
                 "tzname": tzname,
                 "series": "F1",
                 "url": url,
+                "image": f"{IMAGE_BASE}/{manifest[slug]}" if slug in manifest else "",
                 "extra": f"场次类型：{key}",
             })
     return events
@@ -211,6 +246,7 @@ def load_motogp():
     raw = http_get("https://api.pulselive.motogp.com/motogp/v1/events?seasonYear=2026",
                    "motogp_events.json")
     data = json.loads(raw)
+    manifest = load_manifest().get("moto", {})
     events = []
     for ev in data:
         if ev.get("kind") != "GP":
@@ -249,9 +285,11 @@ def load_motogp():
                 merged.append((gcode, start, end, ename))
 
         for code, start, end, ename in merged:
+            short = ev.get("shortname", "").lower()
+            icon = f"{SERIES_ICON['MotoGP']} {MOTO_FLAG.get(short, '')}".strip()
             events.append({
-                "uid": f"motogp-2026-{ev.get('shortname','').lower()}-{code.lower()}@racing.multica.ai",
-                "summary": f"MotoGP {cn_name} · {MOTO_SESSION_CN[code]}",
+                "uid": f"motogp-2026-{short}-{code.lower()}@racing.multica.ai",
+                "summary": f"{icon} MotoGP {cn_name} · {MOTO_SESSION_CN[code]}",
                 "start": start,
                 "end": end,
                 "location": loc,
@@ -259,6 +297,7 @@ def load_motogp():
                 "tzname": ev.get("time_zone", "UTC"),
                 "series": "MotoGP",
                 "url": "https://www.motogp.com/en/calendar",
+                "image": f"{IMAGE_BASE}/{manifest[short]}" if short in manifest else "",
                 "extra": f"官方场次：{ename}",
             })
     return events
@@ -332,6 +371,8 @@ def build_ics(events, cal_name, description, color, now):
         L.append(f"LOCATION:{esc(e['location'])}")
         L.append(f"URL:{e['url']}")
         L.append(f"CATEGORIES:{e['series']}")
+        if e.get("image"):
+            L.append(f"ATTACH;VALUE=URI:{e['image']}")
         L.append("STATUS:CONFIRMED")
         L.append("TRANSP:OPAQUE")
         L.append("END:VEVENT")
