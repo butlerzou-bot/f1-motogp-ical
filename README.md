@@ -27,7 +27,7 @@ iPhone / iPad / Mac 的「日历」App 直接订阅即可，官方时间有变�
 |---|---|
 | F1 场次时间 | [formula1.com/en/racing/2026](https://www.formula1.com/en/racing/2026) 各分站页面内的 schema.org `SportsEvent.subEvent`（UTC） |
 | MotoGP 场次时间 | MotoGP 官方赛事 API `api.pulselive.motogp.com/motogp/v1/events?seasonYear=2026`，取 MotoGP 组别（MGP）的场次 |
-| 赛事 logo 徽标 | 官方系列 wordmark（F1：`media.formula1.com`；MotoGP：`static.dorna.com`）+ 该站**官方赛道轮廓图**（F1：分站页 payload 里的 `circuitImage`；MotoGP：赛事 API 里 `circuit.tracks[].assets.simple`），本地合成 |
+| 赛事 logo 徽标 | 系列 wordmark（仓库内 `img/brand/`，F1 为 Simple Icons CC0 版、MotoGP 为官方 Dorna 静态资源）+ 该站**官方赛道轮廓图**（F1：分站页 payload 里的 `circuitImage`；MotoGP：赛事 API 里 `circuit.tracks[].assets.simple`），本地合成 |
 | F1 赛事图 | 各分站页 JSON-LD 里的官方主视觉（`image.url`） |
 | MotoGP 赛事图 | 官方赛事 API 的 TOP 资产，无则用 BACKGROUND 官方图 |
 

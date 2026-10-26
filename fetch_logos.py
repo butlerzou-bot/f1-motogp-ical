@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """生成每个分站的「赛事 logo」徽标图，供 .ics 的 ATTACH 使用。
 
-组成（全部为官方素材）：
-  F1     : 官方 F1 wordmark（media.formula1.com）+ 官方赛道轮廓图
+组成：
+  F1     : 品牌 wordmark（img/brand/f1-logo-white.png）+ 官方赛道轮廓图
            （分站页 payload 里的 circuitImage.public_id，黑线版）
-  MotoGP : 官方 MotoGP wordmark（static.dorna.com）+ 官方赛道轮廓图
+  MotoGP : 品牌 wordmark（img/brand/motogp-logo-white.png）+ 官方赛道轮廓图
            （官方赛事 API 里 circuit.tracks[].assets.simple，白线版）
 
 输出：
@@ -34,10 +34,11 @@ LOGO_W = 190          # wordmark 宽度
 CIRCUIT_W = 190       # 赛道轮廓最大宽度
 CIRCUIT_H = 115       # 赛道轮廓最大高度
 QUALITY = 85
+BADGE_VERSION = 2     # 徽标图版本号，URL 上带 ?v=N 以便客户端刷新缓存
 
-F1_LOGO = ("https://media.formula1.com/image/upload/f_auto,q_auto/"
-           "v1677237319/etc/designs/fom-website/images/f1_logo.png")
-MOTO_LOGO = "https://static.dorna.com/assets/logos/mgp/brand/mgp-logo-on-dark.png"
+BRAND_DIR = os.path.join(BASE, "img", "brand")
+F1_LOGO = os.path.join(BRAND_DIR, "f1-logo-white.png")
+MOTO_LOGO = os.path.join(BRAND_DIR, "motogp-logo-white.png")
 
 F1_BG = (225, 6, 0)     # F1 官方红
 MOTO_BG = (12, 12, 12)  # MotoGP 官方深色底
@@ -97,9 +98,9 @@ def moto_circuit_urls():
     return out
 
 
-def load_logo(url, cache_name):
-    raw = http_get(url, cache_name)
-    im = Image.open(io.BytesIO(raw)).convert("RGBA")
+def load_logo(path):
+    """本地品牌 logo（白色单色版，透明底）"""
+    im = Image.open(path).convert("RGBA")
     bb = im.getchannel("A").getbbox()
     return im.crop(bb) if bb else im
 
@@ -141,8 +142,8 @@ def main():
     manifest = {"f1": {}, "moto": {}}
     failed = []
 
-    f1_logo = load_logo(F1_LOGO, "f1_wordmark.png")
-    moto_logo = load_logo(MOTO_LOGO, "motogp_wordmark.png")
+    f1_logo = load_logo(F1_LOGO)
+    moto_logo = load_logo(MOTO_LOGO)
 
     print("生成 F1 赛事 logo ...")
     for slug, *_ in F1_ROUNDS:
@@ -155,7 +156,7 @@ def main():
                 circuit = load_circuit(raw)
             rel = f"img/badge/f1/{slug}.jpg"
             size = compose(F1_BG, f1_logo, circuit, os.path.join(BASE, rel))
-            manifest["f1"][slug] = rel
+            manifest["f1"][slug] = f"{rel}?v={BADGE_VERSION}"
             print(f"  {slug:22} {size // 1024:4d} KB  {pid or '(无赛道图)'}")
         except Exception as exc:
             failed.append((slug, str(exc)))
@@ -168,7 +169,7 @@ def main():
             circuit = load_circuit(raw)
             rel = f"img/badge/moto/{code}.jpg"
             size = compose(MOTO_BG, moto_logo, circuit, os.path.join(BASE, rel))
-            manifest["moto"][code] = rel
+            manifest["moto"][code] = f"{rel}?v={BADGE_VERSION}"
             print(f"  {code:22} {size // 1024:4d} KB")
         except Exception as exc:
             failed.append((code, str(exc)))
